@@ -8,3 +8,5 @@
 
 In the future, this repository will contain individual virus documents so changes can be easily viewed on GitHub. Releases will been in the form of a viruses.json.gz file.
 
+[Download](https://github.com/virtool/virtool-database/releases/download/v0.1.0-alpha.1/viruses.json.gz)
+
