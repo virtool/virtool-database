@@ -1,5 +1,6 @@
 # virtool-database
-## An official virus reference database for Virtool
+
+*An official virus reference database for Virtool*
 
 **This is a temporary solution for distributing the official database**
 
