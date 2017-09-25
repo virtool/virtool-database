@@ -15,8 +15,14 @@ os.mkdir("src")
 
 with open("viruses.json", "r") as export_handle:
     for virus in json.load(export_handle):
-        print(virus["lower_name"])
-        virus_path = os.path.join("src", virus["lower_name"].replace(" ", "_").replace("/", "_"))
+        first_letter = virus["lower_name"][0]
+
+        try:
+            os.mkdir(os.path.join("src", first_letter))
+        except FileExistsError:
+            pass
+        
+        virus_path = os.path.join("src", first_letter, virus["lower_name"].replace(" ", "_").replace("/", "_"))
         os.mkdir(virus_path)
 
         isolates = virus.pop("isolates")
