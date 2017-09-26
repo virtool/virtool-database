@@ -1,1 +1,8 @@
-{"_id": "NC_010954", "definition": "Fritillary virus Y, complete genome", "molecule_structure": "linear", "host": "Fritillaria thunbergii", "isolate_id": "ml6gnd1p", "virus_id": "55016146"}
+{
+    "_id": "NC_010954",
+    "definition": "Fritillary virus Y, complete genome",
+    "molecule_structure": "linear",
+    "host": "Fritillaria thunbergii",
+    "isolate_id": "ml6gnd1p",
+    "virus_id": "55016146"
+}

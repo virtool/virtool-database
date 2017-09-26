@@ -1,1 +1,8 @@
-{"_id": "NC_011620", "definition": "Potato virus X, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "daqotxry", "virus_id": "1fa78692"}
+{
+    "_id": "NC_011620",
+    "definition": "Potato virus X, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "daqotxry",
+    "virus_id": "1fa78692"
+}

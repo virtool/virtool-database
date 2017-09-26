@@ -1,1 +1,7 @@
-{"_id": "KF007320", "definition": "Grapevine yellow speckle viroid 2 isolate 6703_YS2_ThS2, complete genome.", "host": "grapevine", "isolate_id": "kunig0qg", "virus_id": "41b0a442"}
+{
+    "_id": "KF007320",
+    "definition": "Grapevine yellow speckle viroid 2 isolate 6703_YS2_ThS2, complete genome.",
+    "host": "grapevine",
+    "isolate_id": "kunig0qg",
+    "virus_id": "41b0a442"
+}

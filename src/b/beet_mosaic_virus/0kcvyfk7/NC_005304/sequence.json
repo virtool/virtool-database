@@ -1,1 +1,8 @@
-{"_id": "NC_005304", "definition": "Beet mosaic virus, complete genome", "molecule_structure": "linear", "host": "Beta vulgaris L.; red beet", "isolate_id": "0kcvyfk7", "virus_id": "006a583e"}
+{
+    "_id": "NC_005304",
+    "definition": "Beet mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Beta vulgaris L.; red beet",
+    "isolate_id": "0kcvyfk7",
+    "virus_id": "006a583e"
+}

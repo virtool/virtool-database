@@ -1,1 +1,9 @@
-{"_id": "NC_008307", "_version": 0, "definition": "Melon yellow spot virus segment M, complete sequence", "molecule_structure": "linear", "isolate_id": "hqldz5xv", "host": "melon", "virus_id": "e507a0ba"}
+{
+    "_id": "NC_008307",
+    "_version": 0,
+    "definition": "Melon yellow spot virus segment M, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "hqldz5xv",
+    "host": "melon",
+    "virus_id": "e507a0ba"
+}

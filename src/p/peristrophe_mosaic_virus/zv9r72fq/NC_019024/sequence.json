@@ -1,1 +1,8 @@
-{"_id": "NC_019024", "definition": "Peristrophe mosaic virus segment DNA-B isolate 11B_1_C1206 complete", "molecule_structure": "circular", "host": "Peristrophe spp.", "isolate_id": "zv9r72fq", "virus_id": "41e99b3b"}
+{
+    "_id": "NC_019024",
+    "definition": "Peristrophe mosaic virus segment DNA-B isolate 11B_1_C1206 complete",
+    "molecule_structure": "circular",
+    "host": "Peristrophe spp.",
+    "isolate_id": "zv9r72fq",
+    "virus_id": "41e99b3b"
+}

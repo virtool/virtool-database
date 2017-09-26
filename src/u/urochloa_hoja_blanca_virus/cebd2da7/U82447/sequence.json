@@ -1,1 +1,7 @@
-{"_id": "U82447", "definition": "Urochloa hoja blanca virus cytoplasmic protein (pv3) and nucleoprotein (pc3) genes, complete cds.", "host": "Urochloa plantaginea", "isolate_id": "cebd2da7", "virus_id": "f650056a"}
+{
+    "_id": "U82447",
+    "definition": "Urochloa hoja blanca virus cytoplasmic protein (pv3) and nucleoprotein (pc3) genes, complete cds.",
+    "host": "Urochloa plantaginea",
+    "isolate_id": "cebd2da7",
+    "virus_id": "f650056a"
+}

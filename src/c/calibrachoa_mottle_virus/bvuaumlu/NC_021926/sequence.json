@@ -1,1 +1,8 @@
-{"_id": "NC_021926", "definition": "Calibrachoa mottle virus isolate California, complete genome", "molecule_structure": "linear", "host": "Calibrachoa sp.", "isolate_id": "bvuaumlu", "virus_id": "df10988d"}
+{
+    "_id": "NC_021926",
+    "definition": "Calibrachoa mottle virus isolate California, complete genome",
+    "molecule_structure": "linear",
+    "host": "Calibrachoa sp.",
+    "isolate_id": "bvuaumlu",
+    "virus_id": "df10988d"
+}

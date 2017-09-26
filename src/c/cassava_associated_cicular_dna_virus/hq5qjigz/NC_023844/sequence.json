@@ -1,1 +1,8 @@
-{"_id": "NC_023844", "definition": "Cassava associated cicular DNA virus isolate G14, complete genome", "molecule_structure": "circular", "host": "cassava", "isolate_id": "hq5qjigz", "virus_id": "b69cfdd0"}
+{
+    "_id": "NC_023844",
+    "definition": "Cassava associated cicular DNA virus isolate G14, complete genome",
+    "molecule_structure": "circular",
+    "host": "cassava",
+    "isolate_id": "hq5qjigz",
+    "virus_id": "b69cfdd0"
+}

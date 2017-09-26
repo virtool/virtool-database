@@ -1,1 +1,9 @@
-{"_id": "NC_005849", "_version": 0, "definition": "Parietaria mottle virus RNA 2, complete genome", "molecule_structure": "linear", "isolate_id": "d0pw6r2n", "host": null, "virus_id": "95a40681"}
+{
+    "_id": "NC_005849",
+    "_version": 0,
+    "definition": "Parietaria mottle virus RNA 2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "d0pw6r2n",
+    "host": null,
+    "virus_id": "95a40681"
+}

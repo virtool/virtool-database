@@ -1,1 +1,7 @@
-{"_id": "KT454833", "definition": "Telfairia mosaic virus isolate Cameroon-Bakundu Bangang-Telfairia-20-14 segment DNA-B, complete sequence.", "host": "Telfairia occidentalis", "isolate_id": "3aaf1b7c", "virus_id": "db38421a"}
+{
+    "_id": "KT454833",
+    "definition": "Telfairia mosaic virus isolate Cameroon-Bakundu Bangang-Telfairia-20-14 segment DNA-B, complete sequence.",
+    "host": "Telfairia occidentalis",
+    "isolate_id": "3aaf1b7c",
+    "virus_id": "db38421a"
+}

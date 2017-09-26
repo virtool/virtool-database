@@ -1,1 +1,9 @@
-{"_id": "NC_021148", "_version": 0, "definition": "Dill cryptic virus 2 isolate IPP_hortorum segment RNA 2, complete", "molecule_structure": "linear", "isolate_id": "aox43bij", "host": "Anethum graveolens var. hortorum", "virus_id": "0f4bb6f2"}
+{
+    "_id": "NC_021148",
+    "_version": 0,
+    "definition": "Dill cryptic virus 2 isolate IPP_hortorum segment RNA 2, complete",
+    "molecule_structure": "linear",
+    "isolate_id": "aox43bij",
+    "host": "Anethum graveolens var. hortorum",
+    "virus_id": "0f4bb6f2"
+}

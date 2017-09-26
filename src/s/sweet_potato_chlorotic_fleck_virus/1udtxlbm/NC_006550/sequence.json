@@ -1,1 +1,8 @@
-{"_id": "NC_006550", "definition": "Sweet potato chlorotic fleck virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "1udtxlbm", "virus_id": "0c9f4a07"}
+{
+    "_id": "NC_006550",
+    "definition": "Sweet potato chlorotic fleck virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "1udtxlbm",
+    "virus_id": "0c9f4a07"
+}

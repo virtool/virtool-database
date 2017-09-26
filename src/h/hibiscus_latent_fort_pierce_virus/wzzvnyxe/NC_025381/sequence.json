@@ -1,1 +1,8 @@
-{"_id": "NC_025381", "definition": "Hibiscus latent Fort Pierce virus genomic RNA, complete genome,", "molecule_structure": "linear", "host": "Hibiscus spp.", "isolate_id": "wzzvnyxe", "virus_id": "2b381a4b"}
+{
+    "_id": "NC_025381",
+    "definition": "Hibiscus latent Fort Pierce virus genomic RNA, complete genome,",
+    "molecule_structure": "linear",
+    "host": "Hibiscus spp.",
+    "isolate_id": "wzzvnyxe",
+    "virus_id": "2b381a4b"
+}

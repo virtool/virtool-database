@@ -1,1 +1,9 @@
-{"_id": "NC_014795", "_version": 0, "definition": "Sida golden mosaic Buckup virus-[Jamaica:St Elizabeth:2004] DNA-B,", "molecule_structure": "circular", "isolate_id": "z2q5k959", "host": "Sida sp.", "virus_id": "3e80630b"}
+{
+    "_id": "NC_014795",
+    "_version": 0,
+    "definition": "Sida golden mosaic Buckup virus-[Jamaica:St Elizabeth:2004] DNA-B,",
+    "molecule_structure": "circular",
+    "isolate_id": "z2q5k959",
+    "host": "Sida sp.",
+    "virus_id": "3e80630b"
+}

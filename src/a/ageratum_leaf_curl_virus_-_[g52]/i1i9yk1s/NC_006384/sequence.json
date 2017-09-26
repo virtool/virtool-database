@@ -1,1 +1,8 @@
-{"_id": "NC_006384", "definition": "Ageratum leaf curl virus - [G52], complete genome", "molecule_structure": "circular", "host": "Ageratum conyzoides", "isolate_id": "i1i9yk1s", "virus_id": "18f22357"}
+{
+    "_id": "NC_006384",
+    "definition": "Ageratum leaf curl virus - [G52], complete genome",
+    "molecule_structure": "circular",
+    "host": "Ageratum conyzoides",
+    "isolate_id": "i1i9yk1s",
+    "virus_id": "18f22357"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_005343", "definition": "Poplar mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "j5gd27d6", "virus_id": "1f3c5271"}
+{
+    "_id": "NC_005343",
+    "definition": "Poplar mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "j5gd27d6",
+    "virus_id": "1f3c5271"
+}

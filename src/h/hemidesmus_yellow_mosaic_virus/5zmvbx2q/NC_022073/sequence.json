@@ -1,1 +1,8 @@
-{"_id": "NC_022073", "definition": "Hemidesmus yellow mosaic virus clone H1 segment DNA-A, complete", "molecule_structure": "circular", "host": "Hemidesmus indicus", "isolate_id": "5zmvbx2q", "virus_id": "e2d3d37e"}
+{
+    "_id": "NC_022073",
+    "definition": "Hemidesmus yellow mosaic virus clone H1 segment DNA-A, complete",
+    "molecule_structure": "circular",
+    "host": "Hemidesmus indicus",
+    "isolate_id": "5zmvbx2q",
+    "virus_id": "e2d3d37e"
+}

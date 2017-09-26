@@ -1,1 +1,8 @@
-{"_id": "NC_013920", "definition": "Olive latent virus 3, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "32t2wp8i", "virus_id": "af862c24"}
+{
+    "_id": "NC_013920",
+    "definition": "Olive latent virus 3, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "32t2wp8i",
+    "virus_id": "af862c24"
+}

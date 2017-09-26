@@ -1,1 +1,9 @@
-{"_id": "NC_001917", "_version": 0, "definition": "Tomato mottle Taino virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "nchclv9m", "host": null, "virus_id": "d7ec984e"}
+{
+    "_id": "NC_001917",
+    "_version": 0,
+    "definition": "Tomato mottle Taino virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "nchclv9m",
+    "host": null,
+    "virus_id": "d7ec984e"
+}

@@ -1,1 +1,7 @@
-{"_id": "JQ031716", "definition": "Grapevine virus D isolate Garg capsid protein and putative RNA binding protein genes, complete cds.", "host": "Vitis vinifera cv. Garganega", "isolate_id": "p1f6ubpw", "virus_id": "819bebd7"}
+{
+    "_id": "JQ031716",
+    "definition": "Grapevine virus D isolate Garg capsid protein and putative RNA binding protein genes, complete cds.",
+    "host": "Vitis vinifera cv. Garganega",
+    "isolate_id": "p1f6ubpw",
+    "virus_id": "819bebd7"
+}

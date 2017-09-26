@@ -1,1 +1,7 @@
-{"_id": "EU682453", "definition": "Grapevine yellow speckle viroid 1 clone 1, complete genome.", "host": "Vitis vinifera cv. Nebbiolo", "isolate_id": "lmx90t8q", "virus_id": "41b0a442"}
+{
+    "_id": "EU682453",
+    "definition": "Grapevine yellow speckle viroid 1 clone 1, complete genome.",
+    "host": "Vitis vinifera cv. Nebbiolo",
+    "isolate_id": "lmx90t8q",
+    "virus_id": "41b0a442"
+}

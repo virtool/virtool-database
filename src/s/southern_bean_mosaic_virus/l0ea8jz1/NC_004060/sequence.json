@@ -1,1 +1,8 @@
-{"_id": "NC_004060", "definition": "Southern bean mosaic virus isolate Sao Paulo, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "l0ea8jz1", "virus_id": "f0cc5c59"}
+{
+    "_id": "NC_004060",
+    "definition": "Southern bean mosaic virus isolate Sao Paulo, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "l0ea8jz1",
+    "virus_id": "f0cc5c59"
+}

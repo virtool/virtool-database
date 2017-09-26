@@ -1,1 +1,8 @@
-{"_id": "NC_013423", "definition": "Vernonia yellow vein betasatellite, complete genome", "molecule_structure": "circular", "host": "Vernonia cinerea", "isolate_id": "oqebl24w", "virus_id": "f6e1a6fd"}
+{
+    "_id": "NC_013423",
+    "definition": "Vernonia yellow vein betasatellite, complete genome",
+    "molecule_structure": "circular",
+    "host": "Vernonia cinerea",
+    "isolate_id": "oqebl24w",
+    "virus_id": "f6e1a6fd"
+}

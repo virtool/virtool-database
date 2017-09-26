@@ -1,1 +1,7 @@
-{"_id": "HG976946", "definition": "Pepino mosaic virus isolate CAMP1-10, complete genome.", "host": "Solanum lycopersicum cv. Pixel", "isolate_id": "szs4576w", "virus_id": "be3b9938"}
+{
+    "_id": "HG976946",
+    "definition": "Pepino mosaic virus isolate CAMP1-10, complete genome.",
+    "host": "Solanum lycopersicum cv. Pixel",
+    "isolate_id": "szs4576w",
+    "virus_id": "be3b9938"
+}

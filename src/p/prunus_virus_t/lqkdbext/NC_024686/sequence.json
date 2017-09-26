@@ -1,1 +1,8 @@
-{"_id": "NC_024686", "definition": "Prunus virus T isolate Aze239, complete genome", "molecule_structure": "linear", "host": "Prunus domestica", "isolate_id": "lqkdbext", "virus_id": "fe634ddd"}
+{
+    "_id": "NC_024686",
+    "definition": "Prunus virus T isolate Aze239, complete genome",
+    "molecule_structure": "linear",
+    "host": "Prunus domestica",
+    "isolate_id": "lqkdbext",
+    "virus_id": "fe634ddd"
+}

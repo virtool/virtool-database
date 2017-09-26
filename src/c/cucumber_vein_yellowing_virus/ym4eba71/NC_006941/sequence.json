@@ -1,1 +1,8 @@
-{"_id": "NC_006941", "definition": "Cucumber vein yellowing virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "ym4eba71", "virus_id": "e2f71f21"}
+{
+    "_id": "NC_006941",
+    "definition": "Cucumber vein yellowing virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "ym4eba71",
+    "virus_id": "e2f71f21"
+}

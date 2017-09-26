@@ -1,1 +1,9 @@
-{"_id": "NC_006446", "_version": 0, "definition": "Gremmeniella abietina RNA virus MS2 RNA 3, complete genome", "molecule_structure": "linear", "isolate_id": "pihs2b3m", "host": "Gremmeniella abietina type A", "virus_id": "50c7e821"}
+{
+    "_id": "NC_006446",
+    "_version": 0,
+    "definition": "Gremmeniella abietina RNA virus MS2 RNA 3, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "pihs2b3m",
+    "host": "Gremmeniella abietina type A",
+    "virus_id": "50c7e821"
+}

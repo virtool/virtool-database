@@ -1,1 +1,9 @@
-{"_id": "NC_018402", "_version": 0, "definition": "Amazon lily mild mottle virus 1a gene for replication protein 1a,", "molecule_structure": "linear", "isolate_id": "1pm7eb06", "host": "Eucharis grandiflora", "virus_id": "c80c0eb7"}
+{
+    "_id": "NC_018402",
+    "_version": 0,
+    "definition": "Amazon lily mild mottle virus 1a gene for replication protein 1a,",
+    "molecule_structure": "linear",
+    "isolate_id": "1pm7eb06",
+    "host": "Eucharis grandiflora",
+    "virus_id": "c80c0eb7"
+}

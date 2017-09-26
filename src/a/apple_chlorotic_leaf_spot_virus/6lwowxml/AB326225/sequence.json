@@ -1,1 +1,7 @@
-{"_id": "AB326225", "definition": "Apple chlorotic leaf spot virus genomic RNA, complete genome, strain: MO-5.", "host": "", "isolate_id": "6lwowxml", "virus_id": "54a508b1"}
+{
+    "_id": "AB326225",
+    "definition": "Apple chlorotic leaf spot virus genomic RNA, complete genome, strain: MO-5.",
+    "host": "",
+    "isolate_id": "6lwowxml",
+    "virus_id": "54a508b1"
+}

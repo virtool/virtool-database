@@ -1,1 +1,9 @@
-{"_id": "NC_003752", "_version": 0, "definition": "Rice ragged stunt virus segment 6, complete sequence", "molecule_structure": "linear", "isolate_id": "kr3towjw", "host": null, "virus_id": "3a86f912"}
+{
+    "_id": "NC_003752",
+    "_version": 0,
+    "definition": "Rice ragged stunt virus segment 6, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "kr3towjw",
+    "host": null,
+    "virus_id": "3a86f912"
+}

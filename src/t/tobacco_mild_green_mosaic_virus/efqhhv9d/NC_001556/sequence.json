@@ -1,1 +1,8 @@
-{"_id": "NC_001556", "definition": "Tobacco mild green mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "efqhhv9d", "virus_id": "e09b2253"}
+{
+    "_id": "NC_001556",
+    "definition": "Tobacco mild green mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "efqhhv9d",
+    "virus_id": "e09b2253"
+}

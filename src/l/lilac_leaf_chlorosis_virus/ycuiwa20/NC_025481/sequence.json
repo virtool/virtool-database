@@ -1,1 +1,9 @@
-{"_id": "NC_025481", "_version": 0, "definition": "Lilac leaf chlorosis virus segment RNA-3, host Syringa vulgaris,", "molecule_structure": "linear", "isolate_id": "ycuiwa20", "host": "Syringa vulgaris", "virus_id": "68a27663"}
+{
+    "_id": "NC_025481",
+    "_version": 0,
+    "definition": "Lilac leaf chlorosis virus segment RNA-3, host Syringa vulgaris,",
+    "molecule_structure": "linear",
+    "isolate_id": "ycuiwa20",
+    "host": "Syringa vulgaris",
+    "virus_id": "68a27663"
+}

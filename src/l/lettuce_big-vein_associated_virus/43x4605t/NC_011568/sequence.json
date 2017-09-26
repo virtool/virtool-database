@@ -1,1 +1,9 @@
-{"_id": "NC_011568", "_version": 0, "definition": "Lettuce big-vein associated virus segment 2, complete genome", "molecule_structure": "linear", "isolate_id": "43x4605t", "host": null, "virus_id": "d28e0cd7"}
+{
+    "_id": "NC_011568",
+    "_version": 0,
+    "definition": "Lettuce big-vein associated virus segment 2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "43x4605t",
+    "host": null,
+    "virus_id": "d28e0cd7"
+}

@@ -1,1 +1,7 @@
-{"_id": "KF683198", "definition": "Mexican papita viroid isolate MX, complete genome.", "host": "Solanum lycopersicum L.", "isolate_id": "lxse9ml5", "virus_id": "7a988b5f"}
+{
+    "_id": "KF683198",
+    "definition": "Mexican papita viroid isolate MX, complete genome.",
+    "host": "Solanum lycopersicum L.",
+    "isolate_id": "lxse9ml5",
+    "virus_id": "7a988b5f"
+}

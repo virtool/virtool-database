@@ -1,1 +1,9 @@
-{"_id": "NC_009248", "_version": 0, "definition": "Rice gall dwarf virus segment S1, complete sequence", "molecule_structure": "linear", "isolate_id": "yv7hggax", "host": null, "virus_id": "80b38147"}
+{
+    "_id": "NC_009248",
+    "_version": 0,
+    "definition": "Rice gall dwarf virus segment S1, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "yv7hggax",
+    "host": null,
+    "virus_id": "80b38147"
+}

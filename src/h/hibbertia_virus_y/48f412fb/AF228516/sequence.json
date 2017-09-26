@@ -1,1 +1,7 @@
-{"_id": "AF228516", "definition": "Hibbertia virus Y polyprotein gene, partial cds.", "host": "Hibbertia scandens", "isolate_id": "48f412fb", "virus_id": "579c7055"}
+{
+    "_id": "AF228516",
+    "definition": "Hibbertia virus Y polyprotein gene, partial cds.",
+    "host": "Hibbertia scandens",
+    "isolate_id": "48f412fb",
+    "virus_id": "579c7055"
+}

@@ -1,1 +1,7 @@
-{"_id": "Z46352", "definition": "Poa semilatent virus RNA for alpha-A protein (partial).", "host": "", "isolate_id": "160bb5f5", "virus_id": "cb66f1e7"}
+{
+    "_id": "Z46352",
+    "definition": "Poa semilatent virus RNA for alpha-A protein (partial).",
+    "host": "",
+    "isolate_id": "160bb5f5",
+    "virus_id": "cb66f1e7"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_019409", "definition": "Ornithogalum mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "08eky7pm", "virus_id": "f160d8fc"}
+{
+    "_id": "NC_019409",
+    "definition": "Ornithogalum mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "08eky7pm",
+    "virus_id": "f160d8fc"
+}

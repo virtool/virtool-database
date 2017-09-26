@@ -1,1 +1,9 @@
-{"_id": "NC_004662", "_version": 0, "definition": "Sida yellow vein virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "8190fsw5", "host": null, "virus_id": "30bde43d"}
+{
+    "_id": "NC_004662",
+    "_version": 0,
+    "definition": "Sida yellow vein virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "8190fsw5",
+    "host": null,
+    "virus_id": "30bde43d"
+}

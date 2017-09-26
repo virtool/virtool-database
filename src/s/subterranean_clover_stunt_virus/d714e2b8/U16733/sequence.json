@@ -1,1 +1,7 @@
-{"_id": "U16733", "definition": "Subterranean clover stunt virus (SCSV4) gene, complete cds.", "host": "Trifolium subterraneum L.", "isolate_id": "d714e2b8", "virus_id": "41dabb3e"}
+{
+    "_id": "U16733",
+    "definition": "Subterranean clover stunt virus (SCSV4) gene, complete cds.",
+    "host": "Trifolium subterraneum L.",
+    "isolate_id": "d714e2b8",
+    "virus_id": "41dabb3e"
+}

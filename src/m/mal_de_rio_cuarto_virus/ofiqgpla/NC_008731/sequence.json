@@ -1,1 +1,9 @@
-{"_id": "NC_008731", "_version": 0, "definition": "Mal de Rio Cuarto virus segment S6, complete sequence", "molecule_structure": "linear", "isolate_id": "ofiqgpla", "host": "Zea mays", "virus_id": "ebba9dfb"}
+{
+    "_id": "NC_008731",
+    "_version": 0,
+    "definition": "Mal de Rio Cuarto virus segment S6, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "ofiqgpla",
+    "host": "Zea mays",
+    "virus_id": "ebba9dfb"
+}

@@ -1,1 +1,7 @@
-{"_id": "M35717", "definition": "Grapevine viroid grapevine isolate (SHV-g(GV)) complete genome.", "host": "", "isolate_id": "s83gic3g", "virus_id": "be143fe9"}
+{
+    "_id": "M35717",
+    "definition": "Grapevine viroid grapevine isolate (SHV-g(GV)) complete genome.",
+    "host": "",
+    "isolate_id": "s83gic3g",
+    "virus_id": "be143fe9"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_011539", "definition": "Plantago mottle virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "cqptjbca", "virus_id": "bd3bb471"}
+{
+    "_id": "NC_011539",
+    "definition": "Plantago mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "cqptjbca",
+    "virus_id": "bd3bb471"
+}

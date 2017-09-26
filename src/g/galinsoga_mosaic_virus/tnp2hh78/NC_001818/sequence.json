@@ -1,1 +1,8 @@
-{"_id": "NC_001818", "definition": "Galinsoga mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "tnp2hh78", "virus_id": "74dde717"}
+{
+    "_id": "NC_001818",
+    "definition": "Galinsoga mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "tnp2hh78",
+    "virus_id": "74dde717"
+}

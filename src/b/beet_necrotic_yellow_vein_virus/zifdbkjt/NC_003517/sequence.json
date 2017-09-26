@@ -1,1 +1,9 @@
-{"_id": "NC_003517", "_version": 0, "definition": "Beet necrotic yellow vein virus RNA 4, complete sequence", "molecule_structure": "linear", "isolate_id": "zifdbkjt", "host": null, "virus_id": "950b78e6"}
+{
+    "_id": "NC_003517",
+    "_version": 0,
+    "definition": "Beet necrotic yellow vein virus RNA 4, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "zifdbkjt",
+    "host": null,
+    "virus_id": "950b78e6"
+}

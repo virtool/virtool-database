@@ -1,1 +1,9 @@
-{"_id": "NC_007537", "_version": 0, "definition": "Rosellinia necatrix partitivirus 1-W8 segment 1, complete genome", "molecule_structure": "linear", "isolate_id": "5eandb8d", "host": "Rosellinia necatrix isolate W8", "virus_id": "270dcf06"}
+{
+    "_id": "NC_007537",
+    "_version": 0,
+    "definition": "Rosellinia necatrix partitivirus 1-W8 segment 1, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "5eandb8d",
+    "host": "Rosellinia necatrix isolate W8",
+    "virus_id": "270dcf06"
+}

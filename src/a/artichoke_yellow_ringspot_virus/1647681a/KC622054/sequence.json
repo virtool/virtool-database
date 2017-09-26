@@ -1,1 +1,7 @@
-{"_id": "KC622054", "definition": "Artichoke yellow ringspot virus isolate IZMY03 nonfunctional polyprotein gene, partial sequence.", "host": "Cynara scolymus", "isolate_id": "1647681a", "virus_id": "340d037a"}
+{
+    "_id": "KC622054",
+    "definition": "Artichoke yellow ringspot virus isolate IZMY03 nonfunctional polyprotein gene, partial sequence.",
+    "host": "Cynara scolymus",
+    "isolate_id": "1647681a",
+    "virus_id": "340d037a"
+}

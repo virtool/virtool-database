@@ -1,1 +1,8 @@
-{"_id": "NC_016440", "definition": "Garlic common latent virus, complete genome", "molecule_structure": "linear", "host": "Allium sativum", "isolate_id": "vdy3r82l", "virus_id": "c4746d24"}
+{
+    "_id": "NC_016440",
+    "definition": "Garlic common latent virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Allium sativum",
+    "isolate_id": "vdy3r82l",
+    "virus_id": "c4746d24"
+}

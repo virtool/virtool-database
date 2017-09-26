@@ -1,1 +1,7 @@
-{"_id": "DQ855083", "definition": "Grapevine virus A isolate KWVMo4-1, complete genome.", "host": "grapevine cv. Merlot", "isolate_id": "n8im104q", "virus_id": "42f3c713"}
+{
+    "_id": "DQ855083",
+    "definition": "Grapevine virus A isolate KWVMo4-1, complete genome.",
+    "host": "grapevine cv. Merlot",
+    "isolate_id": "n8im104q",
+    "virus_id": "42f3c713"
+}

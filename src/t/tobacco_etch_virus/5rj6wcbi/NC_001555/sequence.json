@@ -1,1 +1,8 @@
-{"_id": "NC_001555", "definition": "Tobacco etch virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "5rj6wcbi", "virus_id": "d0fe2f66"}
+{
+    "_id": "NC_001555",
+    "definition": "Tobacco etch virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "5rj6wcbi",
+    "virus_id": "d0fe2f66"
+}

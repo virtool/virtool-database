@@ -1,1 +1,8 @@
-{"_id": "NC_007147", "definition": "Pennisetum mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "vun7g6ua", "virus_id": "6a1ca406"}
+{
+    "_id": "NC_007147",
+    "definition": "Pennisetum mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "vun7g6ua",
+    "virus_id": "6a1ca406"
+}

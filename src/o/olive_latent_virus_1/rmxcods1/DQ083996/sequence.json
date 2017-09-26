@@ -1,1 +1,7 @@
-{"_id": "DQ083996", "definition": "Olive latent virus 1 isolate GM6, complete genome.", "host": "Olea europaea L. (olive)", "isolate_id": "rmxcods1", "virus_id": "83b735c6"}
+{
+    "_id": "DQ083996",
+    "definition": "Olive latent virus 1 isolate GM6, complete genome.",
+    "host": "Olea europaea L. (olive)",
+    "isolate_id": "rmxcods1",
+    "virus_id": "83b735c6"
+}

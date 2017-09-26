@@ -1,1 +1,8 @@
-{"_id": "NC_003640", "definition": "Milk vetch dwarf C3 alphasatellite gene for virus", "molecule_structure": "circular", "host": null, "isolate_id": "cagskuyb", "virus_id": "9a1f0fc8"}
+{
+    "_id": "NC_003640",
+    "definition": "Milk vetch dwarf C3 alphasatellite gene for virus",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "cagskuyb",
+    "virus_id": "9a1f0fc8"
+}

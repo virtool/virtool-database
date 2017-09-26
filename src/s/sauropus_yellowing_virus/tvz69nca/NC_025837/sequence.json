@@ -1,1 +1,8 @@
-{"_id": "NC_025837", "definition": "Sauropus yellowing virus isolate THSP1-B P0, P1-P2 fusion protein,", "molecule_structure": "linear", "host": "Sauropus androgynus", "isolate_id": "tvz69nca", "virus_id": "fb468f7a"}
+{
+    "_id": "NC_025837",
+    "definition": "Sauropus yellowing virus isolate THSP1-B P0, P1-P2 fusion protein,",
+    "molecule_structure": "linear",
+    "host": "Sauropus androgynus",
+    "isolate_id": "tvz69nca",
+    "virus_id": "fb468f7a"
+}

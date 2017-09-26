@@ -1,1 +1,8 @@
-{"_id": "NC_003491", "definition": "Beet mild yellowing virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "m3fnafb7", "virus_id": "8a4e07a2"}
+{
+    "_id": "NC_003491",
+    "definition": "Beet mild yellowing virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "m3fnafb7",
+    "virus_id": "8a4e07a2"
+}

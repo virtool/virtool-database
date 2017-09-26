@@ -1,1 +1,8 @@
-{"_id": "NC_011515", "definition": "Carrot mottle virus, complete genome", "molecule_structure": "linear", "host": "Daucus carota", "isolate_id": "52xeezfj", "virus_id": "c794c319"}
+{
+    "_id": "NC_011515",
+    "definition": "Carrot mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Daucus carota",
+    "isolate_id": "52xeezfj",
+    "virus_id": "c794c319"
+}

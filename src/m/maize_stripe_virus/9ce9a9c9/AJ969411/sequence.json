@@ -1,1 +1,7 @@
-{"_id": "AJ969411", "definition": "Maize stripe virus segment 1, partial sequence, genomic RNA.", "host": "maize", "isolate_id": "9ce9a9c9", "virus_id": "05a43636"}
+{
+    "_id": "AJ969411",
+    "definition": "Maize stripe virus segment 1, partial sequence, genomic RNA.",
+    "host": "maize",
+    "isolate_id": "9ce9a9c9",
+    "virus_id": "05a43636"
+}

@@ -1,1 +1,7 @@
-{"_id": "13C203_CV_TF1_B", "isolate_id": "449a885d", "host": "Ribes", "definition": "Colsterovirus from Ribes, Complete genome", "virus_id": "ca74bd3e"}
+{
+    "_id": "13C203_CV_TF1_B",
+    "isolate_id": "449a885d",
+    "host": "Ribes",
+    "definition": "Colsterovirus from Ribes, Complete genome",
+    "virus_id": "ca74bd3e"
+}

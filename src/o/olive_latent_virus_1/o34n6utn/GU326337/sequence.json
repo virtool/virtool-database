@@ -1,1 +1,7 @@
-{"_id": "GU326337", "definition": "Olive latent virus 1 isolate CM1, complete genome.", "host": "Solanum lycopersicum (tomato)", "isolate_id": "o34n6utn", "virus_id": "83b735c6"}
+{
+    "_id": "GU326337",
+    "definition": "Olive latent virus 1 isolate CM1, complete genome.",
+    "host": "Solanum lycopersicum (tomato)",
+    "isolate_id": "o34n6utn",
+    "virus_id": "83b735c6"
+}

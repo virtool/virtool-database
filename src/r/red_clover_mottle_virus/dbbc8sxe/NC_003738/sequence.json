@@ -1,1 +1,9 @@
-{"_id": "NC_003738", "_version": 0, "definition": "Red clover mottle virus RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "dbbc8sxe", "host": null, "virus_id": "cb4bd29a"}
+{
+    "_id": "NC_003738",
+    "_version": 0,
+    "definition": "Red clover mottle virus RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "dbbc8sxe",
+    "host": null,
+    "virus_id": "cb4bd29a"
+}

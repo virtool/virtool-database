@@ -1,1 +1,7 @@
-{"_id": "HQ588147", "definition": "Caper latent virus isolate L7 RNA-dependent RNA polymerase (RdRp) gene, partial cds.", "host": "Capparis spinosa", "isolate_id": "4dd6cfba", "virus_id": "b0cfa402"}
+{
+    "_id": "HQ588147",
+    "definition": "Caper latent virus isolate L7 RNA-dependent RNA polymerase (RdRp) gene, partial cds.",
+    "host": "Capparis spinosa",
+    "isolate_id": "4dd6cfba",
+    "virus_id": "b0cfa402"
+}

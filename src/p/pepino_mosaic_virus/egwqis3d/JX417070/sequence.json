@@ -1,1 +1,7 @@
-{"_id": "JX417070", "definition": "Pepino mosaic virus isolate PepMV-P5, complete genome.", "host": "tomato", "isolate_id": "egwqis3d", "virus_id": "be3b9938"}
+{
+    "_id": "JX417070",
+    "definition": "Pepino mosaic virus isolate PepMV-P5, complete genome.",
+    "host": "tomato",
+    "isolate_id": "egwqis3d",
+    "virus_id": "be3b9938"
+}

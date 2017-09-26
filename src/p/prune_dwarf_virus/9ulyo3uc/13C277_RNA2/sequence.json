@@ -1,1 +1,7 @@
-{"_id": "13C277_RNA2", "definition": "Prune dwarf virus RNA2", "host": "", "isolate_id": "9ulyo3uc", "virus_id": "0d400637"}
+{
+    "_id": "13C277_RNA2",
+    "definition": "Prune dwarf virus RNA2",
+    "host": "",
+    "isolate_id": "9ulyo3uc",
+    "virus_id": "0d400637"
+}

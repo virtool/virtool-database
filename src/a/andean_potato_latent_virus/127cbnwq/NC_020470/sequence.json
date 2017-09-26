@@ -1,1 +1,8 @@
-{"_id": "NC_020470", "definition": "Andean potato latent virus, complete genome", "molecule_structure": "linear", "host": "Solanum phureja", "isolate_id": "127cbnwq", "virus_id": "098567f6"}
+{
+    "_id": "NC_020470",
+    "definition": "Andean potato latent virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Solanum phureja",
+    "isolate_id": "127cbnwq",
+    "virus_id": "098567f6"
+}

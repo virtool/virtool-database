@@ -1,1 +1,9 @@
-{"_id": "NC_003477", "_version": 0, "definition": "Banana bunchy top virus DNA C, complete sequence", "molecule_structure": "circular", "isolate_id": "lv5gpyn5", "host": null, "virus_id": "c1f82472"}
+{
+    "_id": "NC_003477",
+    "_version": 0,
+    "definition": "Banana bunchy top virus DNA C, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "lv5gpyn5",
+    "host": null,
+    "virus_id": "c1f82472"
+}

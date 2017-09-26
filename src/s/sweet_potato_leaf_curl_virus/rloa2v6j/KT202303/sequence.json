@@ -1,1 +1,7 @@
-{"_id": "KT202303", "definition": "Sweet potato leaf curl virus isolate Fujian-fz001, complete genome.", "host": "Ipomoea batatas", "isolate_id": "rloa2v6j", "virus_id": "39a29fd9"}
+{
+    "_id": "KT202303",
+    "definition": "Sweet potato leaf curl virus isolate Fujian-fz001, complete genome.",
+    "host": "Ipomoea batatas",
+    "isolate_id": "rloa2v6j",
+    "virus_id": "39a29fd9"
+}

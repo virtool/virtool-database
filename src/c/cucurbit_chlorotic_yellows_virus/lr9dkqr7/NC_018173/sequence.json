@@ -1,1 +1,9 @@
-{"_id": "NC_018173", "_version": 0, "definition": "Cucurbit chlorotic yellows virus RNA 1 segment, complete sequence", "molecule_structure": "linear", "isolate_id": "lr9dkqr7", "host": "Cucumis melo", "virus_id": "462e1022"}
+{
+    "_id": "NC_018173",
+    "_version": 0,
+    "definition": "Cucurbit chlorotic yellows virus RNA 1 segment, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "lr9dkqr7",
+    "host": "Cucumis melo",
+    "virus_id": "462e1022"
+}

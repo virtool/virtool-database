@@ -1,1 +1,8 @@
-{"_id": "NC_003355", "definition": "Wasabi mottle virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "9kjc1dvw", "virus_id": "0bfdb8bc"}
+{
+    "_id": "NC_003355",
+    "definition": "Wasabi mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "9kjc1dvw",
+    "virus_id": "0bfdb8bc"
+}

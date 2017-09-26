@@ -1,1 +1,8 @@
-{"_id": "NC_001886", "definition": "Wheat streak mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "i9thg1sv", "virus_id": "a9df7495"}
+{
+    "_id": "NC_001886",
+    "definition": "Wheat streak mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "i9thg1sv",
+    "virus_id": "a9df7495"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_001441", "definition": "Narcissus mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "9516k3jl", "virus_id": "c13e72fd"}
+{
+    "_id": "NC_001441",
+    "definition": "Narcissus mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "9516k3jl",
+    "virus_id": "c13e72fd"
+}

@@ -1,1 +1,7 @@
-{"_id": "NC_029800", "definition": "Iris yellow spot virus non-structural protein (NSs) and nucleoprotein (N) genes, complete cds.", "host": "", "isolate_id": "9f434acf", "virus_id": "f1bb9713"}
+{
+    "_id": "NC_029800",
+    "definition": "Iris yellow spot virus non-structural protein (NSs) and nucleoprotein (N) genes, complete cds.",
+    "host": "",
+    "isolate_id": "9f434acf",
+    "virus_id": "f1bb9713"
+}

@@ -1,1 +1,7 @@
-{"_id": "HM043817", "definition": "Columnea latent viroid isolate 14 clone 1, complete genome.", "host": "Gloxinia nematanthodes", "isolate_id": "xitjj53d", "virus_id": "7192ff61"}
+{
+    "_id": "HM043817",
+    "definition": "Columnea latent viroid isolate 14 clone 1, complete genome.",
+    "host": "Gloxinia nematanthodes",
+    "isolate_id": "xitjj53d",
+    "virus_id": "7192ff61"
+}

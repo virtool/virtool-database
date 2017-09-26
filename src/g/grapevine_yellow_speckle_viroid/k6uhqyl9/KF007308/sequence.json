@@ -1,1 +1,7 @@
-{"_id": "KF007308", "definition": "Grapevine yellow speckle viroid 1 isolate 6119_YS1_Crim, complete genome.", "host": "grapevine", "isolate_id": "k6uhqyl9", "virus_id": "41b0a442"}
+{
+    "_id": "KF007308",
+    "definition": "Grapevine yellow speckle viroid 1 isolate 6119_YS1_Crim, complete genome.",
+    "host": "grapevine",
+    "isolate_id": "k6uhqyl9",
+    "virus_id": "41b0a442"
+}

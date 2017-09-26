@@ -1,1 +1,8 @@
-{"_id": "NC_011086", "definition": "Diascia yellow mottle virus, complete genome", "molecule_structure": "linear", "host": "Diascia hybrid cultivar", "isolate_id": "i7rouv33", "virus_id": "32617546"}
+{
+    "_id": "NC_011086",
+    "definition": "Diascia yellow mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Diascia hybrid cultivar",
+    "isolate_id": "i7rouv33",
+    "virus_id": "32617546"
+}

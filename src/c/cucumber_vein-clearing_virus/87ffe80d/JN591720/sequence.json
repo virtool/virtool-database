@@ -1,1 +1,7 @@
-{"_id": "JN591720", "definition": "Cucumber vein-clearing virus RNA-dependent RNA polymerase gene, partial cds; and triple gene block protein 1, triple gene block protein 2, triple gene block protein 3, coat protein, and nucleic acid binding protein genes, complete cds.", "host": "Citrullus lanatus", "isolate_id": "87ffe80d", "virus_id": "37a16dd2"}
+{
+    "_id": "JN591720",
+    "definition": "Cucumber vein-clearing virus RNA-dependent RNA polymerase gene, partial cds; and triple gene block protein 1, triple gene block protein 2, triple gene block protein 3, coat protein, and nucleic acid binding protein genes, complete cds.",
+    "host": "Citrullus lanatus",
+    "isolate_id": "87ffe80d",
+    "virus_id": "37a16dd2"
+}

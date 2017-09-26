@@ -1,1 +1,8 @@
-{"_id": "NC_005321", "definition": "Papaya leaf curl China virus - [G8], complete genome", "molecule_structure": "circular", "host": "Ageratum conyzoides", "isolate_id": "e6ejlm70", "virus_id": "449d6c54"}
+{
+    "_id": "NC_005321",
+    "definition": "Papaya leaf curl China virus - [G8], complete genome",
+    "molecule_structure": "circular",
+    "host": "Ageratum conyzoides",
+    "isolate_id": "e6ejlm70",
+    "virus_id": "449d6c54"
+}

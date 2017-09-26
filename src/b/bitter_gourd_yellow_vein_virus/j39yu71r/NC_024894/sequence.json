@@ -1,1 +1,9 @@
-{"_id": "NC_024894", "_version": 0, "definition": "Bitter gourd yellow vein virus isolate BD12C8 segment DNA-A,", "molecule_structure": "circular", "isolate_id": "j39yu71r", "host": "bitter gourd", "virus_id": "494ac472"}
+{
+    "_id": "NC_024894",
+    "_version": 0,
+    "definition": "Bitter gourd yellow vein virus isolate BD12C8 segment DNA-A,",
+    "molecule_structure": "circular",
+    "isolate_id": "j39yu71r",
+    "host": "bitter gourd",
+    "virus_id": "494ac472"
+}

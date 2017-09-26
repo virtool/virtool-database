@@ -1,1 +1,7 @@
-{"_id": "EU617327", "definition": "Arabis mosaic virus isolate Lv segment RNA2, complete sequence.", "isolate_id": "wr8gogfd", "host": "Ligustrum vulgare", "virus_id": "5628ed52"}
+{
+    "_id": "EU617327",
+    "definition": "Arabis mosaic virus isolate Lv segment RNA2, complete sequence.",
+    "isolate_id": "wr8gogfd",
+    "host": "Ligustrum vulgare",
+    "virus_id": "5628ed52"
+}

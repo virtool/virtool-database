@@ -1,1 +1,8 @@
-{"_id": "NC_015928", "definition": "Vernonia yellow vein Fujian virus betasatellite, complete genome", "molecule_structure": "circular", "host": "Vernonia cinerea", "isolate_id": "qugdm4y4", "virus_id": "6d6ca606"}
+{
+    "_id": "NC_015928",
+    "definition": "Vernonia yellow vein Fujian virus betasatellite, complete genome",
+    "molecule_structure": "circular",
+    "host": "Vernonia cinerea",
+    "isolate_id": "qugdm4y4",
+    "virus_id": "6d6ca606"
+}

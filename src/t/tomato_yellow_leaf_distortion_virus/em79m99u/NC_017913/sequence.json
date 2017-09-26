@@ -1,1 +1,9 @@
-{"_id": "NC_017913", "_version": 0, "definition": "Tomato yellow leaf distortion virus clone EF5N segment DNA-B,", "molecule_structure": "circular", "isolate_id": "em79m99u", "host": "tomato", "virus_id": "3f625205"}
+{
+    "_id": "NC_017913",
+    "_version": 0,
+    "definition": "Tomato yellow leaf distortion virus clone EF5N segment DNA-B,",
+    "molecule_structure": "circular",
+    "isolate_id": "em79m99u",
+    "host": "tomato",
+    "virus_id": "3f625205"
+}

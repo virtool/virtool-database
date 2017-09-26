@@ -1,1 +1,8 @@
-{"_id": "NC_002164", "definition": "Poinsettia mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "tatre4v3", "virus_id": "170e770f"}
+{
+    "_id": "NC_002164",
+    "definition": "Poinsettia mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "tatre4v3",
+    "virus_id": "170e770f"
+}

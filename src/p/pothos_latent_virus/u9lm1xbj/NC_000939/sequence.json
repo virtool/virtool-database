@@ -1,1 +1,8 @@
-{"_id": "NC_000939", "definition": "Pothos latent virus genes for replicase, capsid protein and", "molecule_structure": "linear", "host": null, "isolate_id": "u9lm1xbj", "virus_id": "b3a69c33"}
+{
+    "_id": "NC_000939",
+    "definition": "Pothos latent virus genes for replicase, capsid protein and",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "u9lm1xbj",
+    "virus_id": "b3a69c33"
+}

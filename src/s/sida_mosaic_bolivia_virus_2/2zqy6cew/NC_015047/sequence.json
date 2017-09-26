@@ -1,1 +1,9 @@
-{"_id": "NC_015047", "_version": 0, "definition": "Sida mosaic Bolivia virus 2 DNA-B, complete genome", "molecule_structure": "circular", "isolate_id": "2zqy6cew", "host": "Sida micrantha", "virus_id": "ddc48cb5"}
+{
+    "_id": "NC_015047",
+    "_version": 0,
+    "definition": "Sida mosaic Bolivia virus 2 DNA-B, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "2zqy6cew",
+    "host": "Sida micrantha",
+    "virus_id": "ddc48cb5"
+}

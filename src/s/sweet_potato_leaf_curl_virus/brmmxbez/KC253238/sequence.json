@@ -1,1 +1,7 @@
-{"_id": "KC253238", "definition": "Sweet potato leaf curl virus isolate SPLCV-US[StV:10], complete genome.", "host": "Ipomoea batatas", "isolate_id": "brmmxbez", "virus_id": "39a29fd9"}
+{
+    "_id": "KC253238",
+    "definition": "Sweet potato leaf curl virus isolate SPLCV-US[StV:10], complete genome.",
+    "host": "Ipomoea batatas",
+    "isolate_id": "brmmxbez",
+    "virus_id": "39a29fd9"
+}

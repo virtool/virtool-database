@@ -1,1 +1,8 @@
-{"_id": "NC_007609", "definition": "Dulcamara mottle virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "fjnj3t7j", "virus_id": "f98278af"}
+{
+    "_id": "NC_007609",
+    "definition": "Dulcamara mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "fjnj3t7j",
+    "virus_id": "f98278af"
+}

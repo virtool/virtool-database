@@ -1,1 +1,7 @@
-{"_id": "JN700748", "definition": "Lettuce necrotic stunt virus isolate L2, complete genome.", "host": "lettuce", "isolate_id": "3sue18i6", "virus_id": "a361a281"}
+{
+    "_id": "JN700748",
+    "definition": "Lettuce necrotic stunt virus isolate L2, complete genome.",
+    "host": "lettuce",
+    "isolate_id": "3sue18i6",
+    "virus_id": "a361a281"
+}

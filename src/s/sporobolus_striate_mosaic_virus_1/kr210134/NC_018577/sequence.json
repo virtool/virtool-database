@@ -1,1 +1,8 @@
-{"_id": "NC_018577", "definition": "Sporobolus striate mosaic virus 1, complete genome", "molecule_structure": "circular", "host": "Sporobolus sp.", "isolate_id": "kr210134", "virus_id": "84f3a477"}
+{
+    "_id": "NC_018577",
+    "definition": "Sporobolus striate mosaic virus 1, complete genome",
+    "molecule_structure": "circular",
+    "host": "Sporobolus sp.",
+    "isolate_id": "kr210134",
+    "virus_id": "84f3a477"
+}

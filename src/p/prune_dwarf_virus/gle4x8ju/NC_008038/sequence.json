@@ -1,1 +1,9 @@
-{"_id": "NC_008038", "_version": 0, "definition": "Prune dwarf virus, complete genome", "molecule_structure": "linear", "isolate_id": "gle4x8ju", "host": null, "virus_id": "0d400637"}
+{
+    "_id": "NC_008038",
+    "_version": 0,
+    "definition": "Prune dwarf virus, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "gle4x8ju",
+    "host": null,
+    "virus_id": "0d400637"
+}

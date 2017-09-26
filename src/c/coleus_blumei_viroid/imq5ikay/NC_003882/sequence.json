@@ -1,1 +1,7 @@
-{"_id": "NC_003882", "definition": "Coleus blumei viroid, complete genome.", "host": "", "isolate_id": "imq5ikay", "virus_id": "cfc5c0d9"}
+{
+    "_id": "NC_003882",
+    "definition": "Coleus blumei viroid, complete genome.",
+    "host": "",
+    "isolate_id": "imq5ikay",
+    "virus_id": "cfc5c0d9"
+}

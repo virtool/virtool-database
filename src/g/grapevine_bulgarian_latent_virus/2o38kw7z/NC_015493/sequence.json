@@ -1,1 +1,9 @@
-{"_id": "NC_015493", "_version": 0, "definition": "Grapevine Bulgarian latent virus segment 2, complete genome", "molecule_structure": "linear", "isolate_id": "2o38kw7z", "host": "Vitis vinifera", "virus_id": "174219d8"}
+{
+    "_id": "NC_015493",
+    "_version": 0,
+    "definition": "Grapevine Bulgarian latent virus segment 2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "2o38kw7z",
+    "host": "Vitis vinifera",
+    "virus_id": "174219d8"
+}

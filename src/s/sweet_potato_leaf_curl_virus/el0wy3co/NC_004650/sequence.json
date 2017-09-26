@@ -1,1 +1,9 @@
-{"_id": "NC_004650", "_version": 0, "definition": "Sweet potato leaf curl virus, complete genome", "molecule_structure": "circular", "isolate_id": "el0wy3co", "host": null, "virus_id": "39a29fd9"}
+{
+    "_id": "NC_004650",
+    "_version": 0,
+    "definition": "Sweet potato leaf curl virus, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "el0wy3co",
+    "host": null,
+    "virus_id": "39a29fd9"
+}

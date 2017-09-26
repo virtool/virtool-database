@@ -1,1 +1,7 @@
-{"_id": "NC_007338", "definition": "Squash leaf curl China virus - [B] DNA B, complete sequence.", "host": "", "isolate_id": "gnrboljf", "virus_id": "2f0fef67"}
+{
+    "_id": "NC_007338",
+    "definition": "Squash leaf curl China virus - [B] DNA B, complete sequence.",
+    "host": "",
+    "isolate_id": "gnrboljf",
+    "virus_id": "2f0fef67"
+}

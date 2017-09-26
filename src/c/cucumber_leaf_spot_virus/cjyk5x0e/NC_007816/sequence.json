@@ -1,1 +1,8 @@
-{"_id": "NC_007816", "definition": "Cucumber leaf spot virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "cjyk5x0e", "virus_id": "17a3e087"}
+{
+    "_id": "NC_007816",
+    "definition": "Cucumber leaf spot virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "cjyk5x0e",
+    "virus_id": "17a3e087"
+}

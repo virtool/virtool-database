@@ -1,1 +1,9 @@
-{"_id": "NC_003541", "_version": 0, "definition": "Cowpea chlorotic mottle virus RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "4l5i8rpc", "host": null, "virus_id": "c137eef9"}
+{
+    "_id": "NC_003541",
+    "_version": 0,
+    "definition": "Cowpea chlorotic mottle virus RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "4l5i8rpc",
+    "host": null,
+    "virus_id": "c137eef9"
+}

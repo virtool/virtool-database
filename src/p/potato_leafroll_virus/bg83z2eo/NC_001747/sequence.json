@@ -1,1 +1,8 @@
-{"_id": "NC_001747", "definition": "Potato leafroll virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "bg83z2eo", "virus_id": "d70f28da"}
+{
+    "_id": "NC_001747",
+    "definition": "Potato leafroll virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "bg83z2eo",
+    "virus_id": "d70f28da"
+}

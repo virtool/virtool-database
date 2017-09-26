@@ -1,1 +1,8 @@
-{"_id": "TPM", "definition": "Tomato planta macho viroid complete sequence", "molecule_structure": "circular", "host": "Tomato", "isolate_id": "g14lhd68", "virus_id": "b3c9b33d"}
+{
+    "_id": "TPM",
+    "definition": "Tomato planta macho viroid complete sequence",
+    "molecule_structure": "circular",
+    "host": "Tomato",
+    "isolate_id": "g14lhd68",
+    "virus_id": "b3c9b33d"
+}

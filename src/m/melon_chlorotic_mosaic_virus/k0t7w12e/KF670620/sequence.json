@@ -1,1 +1,7 @@
-{"_id": "KF670620", "definition": "Melon chlorotic mosaic virus isolate VE09-62 segment DNA-A, complete sequence.", "host": "Cucumis anguria", "isolate_id": "k0t7w12e", "virus_id": "f0701b1b"}
+{
+    "_id": "KF670620",
+    "definition": "Melon chlorotic mosaic virus isolate VE09-62 segment DNA-A, complete sequence.",
+    "host": "Cucumis anguria",
+    "isolate_id": "k0t7w12e",
+    "virus_id": "f0701b1b"
+}

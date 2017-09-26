@@ -1,1 +1,9 @@
-{"_id": "NC_010348", "_version": 0, "definition": "Rose cryptic virus 1 RNA 3, complete sequence", "molecule_structure": "linear", "isolate_id": "cq6jnf23", "host": null, "virus_id": "dbb02566"}
+{
+    "_id": "NC_010348",
+    "_version": 0,
+    "definition": "Rose cryptic virus 1 RNA 3, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "cq6jnf23",
+    "host": null,
+    "virus_id": "dbb02566"
+}

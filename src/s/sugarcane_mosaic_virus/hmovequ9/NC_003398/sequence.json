@@ -1,1 +1,8 @@
-{"_id": "NC_003398", "definition": "Sugarcane mosaic virus, complete genome", "molecule_structure": "linear", "host": "maize", "isolate_id": "hmovequ9", "virus_id": "4e8478e6"}
+{
+    "_id": "NC_003398",
+    "definition": "Sugarcane mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "maize",
+    "isolate_id": "hmovequ9",
+    "virus_id": "4e8478e6"
+}

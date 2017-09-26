@@ -1,1 +1,9 @@
-{"_id": "NC_023310", "_version": 0, "definition": "Pea yellow stunt virus segment DNA-N, complete sequence", "molecule_structure": "circular", "isolate_id": "2j6lqyb6", "host": "Pisum sativum", "virus_id": "017045aa"}
+{
+    "_id": "NC_023310",
+    "_version": 0,
+    "definition": "Pea yellow stunt virus segment DNA-N, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "2j6lqyb6",
+    "host": "Pisum sativum",
+    "virus_id": "017045aa"
+}

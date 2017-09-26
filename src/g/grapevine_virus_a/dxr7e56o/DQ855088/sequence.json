@@ -1,1 +1,7 @@
-{"_id": "DQ855088", "definition": "Grapevine virus A isolate P163-1 putative replicase, movement protein, capsid protein, and RNA-binding protein genes, complete cds; and unknown gene.", "host": "grapevine cv. Cinsaut Blanc clone P163/12", "isolate_id": "dxr7e56o", "virus_id": "42f3c713"}
+{
+    "_id": "DQ855088",
+    "definition": "Grapevine virus A isolate P163-1 putative replicase, movement protein, capsid protein, and RNA-binding protein genes, complete cds; and unknown gene.",
+    "host": "grapevine cv. Cinsaut Blanc clone P163/12",
+    "isolate_id": "dxr7e56o",
+    "virus_id": "42f3c713"
+}

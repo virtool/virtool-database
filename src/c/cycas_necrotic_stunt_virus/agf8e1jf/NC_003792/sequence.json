@@ -1,1 +1,9 @@
-{"_id": "NC_003792", "_version": 0, "definition": "Cycas necrotic stunt virus RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "agf8e1jf", "host": null, "virus_id": "1e225093"}
+{
+    "_id": "NC_003792",
+    "_version": 0,
+    "definition": "Cycas necrotic stunt virus RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "agf8e1jf",
+    "host": null,
+    "virus_id": "1e225093"
+}

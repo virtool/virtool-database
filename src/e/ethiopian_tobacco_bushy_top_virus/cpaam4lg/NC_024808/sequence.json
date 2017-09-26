@@ -1,1 +1,8 @@
-{"_id": "NC_024808", "definition": "Ethiopian tobacco bushy top virus isolate 18-2, complete genome", "molecule_structure": "linear", "host": "Nicotiana benthamiana", "isolate_id": "cpaam4lg", "virus_id": "fc27c728"}
+{
+    "_id": "NC_024808",
+    "definition": "Ethiopian tobacco bushy top virus isolate 18-2, complete genome",
+    "molecule_structure": "linear",
+    "host": "Nicotiana benthamiana",
+    "isolate_id": "cpaam4lg",
+    "virus_id": "fc27c728"
+}

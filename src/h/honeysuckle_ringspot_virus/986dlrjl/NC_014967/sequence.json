@@ -1,1 +1,8 @@
-{"_id": "NC_014967", "definition": "Honeysuckle ringspot virus, complete genome", "molecule_structure": "linear", "host": "honeysuckle", "isolate_id": "986dlrjl", "virus_id": "935c95f4"}
+{
+    "_id": "NC_014967",
+    "definition": "Honeysuckle ringspot virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "honeysuckle",
+    "isolate_id": "986dlrjl",
+    "virus_id": "935c95f4"
+}

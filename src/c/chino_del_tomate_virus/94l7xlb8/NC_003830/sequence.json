@@ -1,1 +1,9 @@
-{"_id": "NC_003830", "_version": 0, "definition": "Chino del tomate virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "94l7xlb8", "host": null, "virus_id": "fe9a85e1"}
+{
+    "_id": "NC_003830",
+    "_version": 0,
+    "definition": "Chino del tomate virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "94l7xlb8",
+    "host": null,
+    "virus_id": "fe9a85e1"
+}

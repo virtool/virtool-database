@@ -1,1 +1,8 @@
-{"_id": "NC_002692", "definition": "Tomato mosaic virus, complete genome", "molecule_structure": "linear", "host": "Lycopersicon esculentum cv. Grosse Lisse", "isolate_id": "yn7kriaj", "virus_id": "6e476e56"}
+{
+    "_id": "NC_002692",
+    "definition": "Tomato mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Lycopersicon esculentum cv. Grosse Lisse",
+    "isolate_id": "yn7kriaj",
+    "virus_id": "6e476e56"
+}

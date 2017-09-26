@@ -1,1 +1,7 @@
-{"_id": "KC588948", "definition": "Citrus tatter leaf virus strain CTLV-MTH, complete genome.", "host": "Citrus unshiu cv. Mantouhong", "isolate_id": "pp1s5j5q", "virus_id": "a3ea3ed4"}
+{
+    "_id": "KC588948",
+    "definition": "Citrus tatter leaf virus strain CTLV-MTH, complete genome.",
+    "host": "Citrus unshiu cv. Mantouhong",
+    "isolate_id": "pp1s5j5q",
+    "virus_id": "a3ea3ed4"
+}

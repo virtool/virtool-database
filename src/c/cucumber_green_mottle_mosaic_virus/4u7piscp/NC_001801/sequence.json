@@ -1,1 +1,8 @@
-{"_id": "NC_001801", "definition": "Cucumber green mottle mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "4u7piscp", "virus_id": "380d1439"}
+{
+    "_id": "NC_001801",
+    "definition": "Cucumber green mottle mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "4u7piscp",
+    "virus_id": "380d1439"
+}

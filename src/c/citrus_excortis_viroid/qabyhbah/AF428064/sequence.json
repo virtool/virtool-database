@@ -1,1 +1,7 @@
-{"_id": "AF428064", "definition": "Citrus exocortis viroid isolate 54-E-18 Uy, complete genome.", "host": "grapefruit", "isolate_id": "qabyhbah", "virus_id": "12c636ca"}
+{
+    "_id": "AF428064",
+    "definition": "Citrus exocortis viroid isolate 54-E-18 Uy, complete genome.",
+    "host": "grapefruit",
+    "isolate_id": "qabyhbah",
+    "virus_id": "12c636ca"
+}

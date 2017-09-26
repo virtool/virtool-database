@@ -1,1 +1,8 @@
-{"_id": "NC_004573", "definition": "Peru tomato mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "1f8efukb", "virus_id": "446bf356"}
+{
+    "_id": "NC_004573",
+    "definition": "Peru tomato mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "1f8efukb",
+    "virus_id": "446bf356"
+}

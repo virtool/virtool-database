@@ -1,1 +1,7 @@
-{"_id": "JX559641", "definition": "Grapevine virus A isolate 3138-03, complete genome.", "host": "Vitis vinifera", "isolate_id": "qwzqeskd", "virus_id": "42f3c713"}
+{
+    "_id": "JX559641",
+    "definition": "Grapevine virus A isolate 3138-03, complete genome.",
+    "host": "Vitis vinifera",
+    "isolate_id": "qwzqeskd",
+    "virus_id": "42f3c713"
+}

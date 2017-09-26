@@ -1,1 +1,8 @@
-{"_id": "NC_019031", "definition": "Rose yellow mosaic virus, complete genome", "molecule_structure": "linear", "host": "Rosa hybrid cultivar cv. Ballerina", "isolate_id": "x5aq7ze9", "virus_id": "53743c8a"}
+{
+    "_id": "NC_019031",
+    "definition": "Rose yellow mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Rosa hybrid cultivar cv. Ballerina",
+    "isolate_id": "x5aq7ze9",
+    "virus_id": "53743c8a"
+}

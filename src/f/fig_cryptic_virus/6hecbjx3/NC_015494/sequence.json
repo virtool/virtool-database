@@ -1,1 +1,9 @@
-{"_id": "NC_015494", "_version": 0, "definition": "Fig cryptic virus segment 1, complete genome", "molecule_structure": "linear", "isolate_id": "6hecbjx3", "host": "Ficus carica, variety Brogiotto nero", "virus_id": "c9a356e5"}
+{
+    "_id": "NC_015494",
+    "_version": 0,
+    "definition": "Fig cryptic virus segment 1, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "6hecbjx3",
+    "host": "Ficus carica, variety Brogiotto nero",
+    "virus_id": "c9a356e5"
+}

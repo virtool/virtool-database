@@ -1,1 +1,7 @@
-{"_id": "KF916043", "definition": "Grapevine yellow speckle viroid 1 clone IUT 14, complete genome.", "host": "Vitis vinifera", "isolate_id": "hsxjnm0r", "virus_id": "41b0a442"}
+{
+    "_id": "KF916043",
+    "definition": "Grapevine yellow speckle viroid 1 clone IUT 14, complete genome.",
+    "host": "Vitis vinifera",
+    "isolate_id": "hsxjnm0r",
+    "virus_id": "41b0a442"
+}

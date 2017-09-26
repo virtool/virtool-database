@@ -1,1 +1,7 @@
-{"_id": "AB033690", "definition": "Soil-borne wheat mosaic virus genomic RNA 2 for capsid protein, 64-kDa readthrough protein, 19-kDa cys-rich protein, complete and partial cds.", "host": "", "isolate_id": "f8ca11e6", "virus_id": "3ee2a908"}
+{
+    "_id": "AB033690",
+    "definition": "Soil-borne wheat mosaic virus genomic RNA 2 for capsid protein, 64-kDa readthrough protein, 19-kDa cys-rich protein, complete and partial cds.",
+    "host": "",
+    "isolate_id": "f8ca11e6",
+    "virus_id": "3ee2a908"
+}

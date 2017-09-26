@@ -1,1 +1,8 @@
-{"_id": "NC_001725", "definition": "Strawberry vein banding virus, complete genome", "molecule_structure": "linear", "host": "Fragaria sp.", "isolate_id": "f2midsss", "virus_id": "d399556a"}
+{
+    "_id": "NC_001725",
+    "definition": "Strawberry vein banding virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Fragaria sp.",
+    "isolate_id": "f2midsss",
+    "virus_id": "d399556a"
+}

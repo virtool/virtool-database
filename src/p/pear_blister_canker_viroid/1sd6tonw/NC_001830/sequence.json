@@ -1,1 +1,8 @@
-{"_id": "NC_001830", "definition": "Pear blister canker viroid complete sequence", "host": "", "molecule_structure": "", "isolate_id": "1sd6tonw", "virus_id": "5bebb920"}
+{
+    "_id": "NC_001830",
+    "definition": "Pear blister canker viroid complete sequence",
+    "host": "",
+    "molecule_structure": "",
+    "isolate_id": "1sd6tonw",
+    "virus_id": "5bebb920"
+}

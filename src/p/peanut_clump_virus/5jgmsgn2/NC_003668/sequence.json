@@ -1,1 +1,9 @@
-{"_id": "NC_003668", "_version": 0, "definition": "Peanut clump virus RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "5jgmsgn2", "host": null, "virus_id": "be6e0947"}
+{
+    "_id": "NC_003668",
+    "_version": 0,
+    "definition": "Peanut clump virus RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "5jgmsgn2",
+    "host": null,
+    "virus_id": "be6e0947"
+}

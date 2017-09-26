@@ -1,1 +1,7 @@
-{"_id": "NC_019532", "definition": "Tomato yellow leaf curl China betasatellite, complete genome.", "host": "Malva parviflora", "isolate_id": "knsfvgyj", "virus_id": "76c0d2e8"}
+{
+    "_id": "NC_019532",
+    "definition": "Tomato yellow leaf curl China betasatellite, complete genome.",
+    "host": "Malva parviflora",
+    "isolate_id": "knsfvgyj",
+    "virus_id": "76c0d2e8"
+}

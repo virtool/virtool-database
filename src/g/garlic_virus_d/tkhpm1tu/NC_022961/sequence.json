@@ -1,1 +1,8 @@
-{"_id": "NC_022961", "definition": "Garlic virus D isolate GarVD-SW10, complete genome", "molecule_structure": "linear", "host": "Allium sativum (garlic)", "isolate_id": "tkhpm1tu", "virus_id": "b9ca7202"}
+{
+    "_id": "NC_022961",
+    "definition": "Garlic virus D isolate GarVD-SW10, complete genome",
+    "molecule_structure": "linear",
+    "host": "Allium sativum (garlic)",
+    "isolate_id": "tkhpm1tu",
+    "virus_id": "b9ca7202"
+}

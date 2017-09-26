@@ -1,1 +1,8 @@
-{"_id": "NC_025435", "definition": "Strawberry polerovirus 1 isolate AB5301, complete genome", "molecule_structure": "linear", "host": "Fragaria x ananassa", "isolate_id": "jwc3rvd7", "virus_id": "af235b84"}
+{
+    "_id": "NC_025435",
+    "definition": "Strawberry polerovirus 1 isolate AB5301, complete genome",
+    "molecule_structure": "linear",
+    "host": "Fragaria x ananassa",
+    "isolate_id": "jwc3rvd7",
+    "virus_id": "af235b84"
+}

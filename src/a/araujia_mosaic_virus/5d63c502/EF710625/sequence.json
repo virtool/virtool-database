@@ -1,1 +1,7 @@
-{"_id": "EF710625", "definition": "Araujia mosaic virus isolate ARG1973 polyprotein gene, partial cds.", "host": "", "isolate_id": "5d63c502", "virus_id": "daf8b649"}
+{
+    "_id": "EF710625",
+    "definition": "Araujia mosaic virus isolate ARG1973 polyprotein gene, partial cds.",
+    "host": "",
+    "isolate_id": "5d63c502",
+    "virus_id": "daf8b649"
+}

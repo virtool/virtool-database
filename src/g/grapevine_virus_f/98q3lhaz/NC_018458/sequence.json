@@ -1,1 +1,8 @@
-{"_id": "NC_018458", "definition": "Grapevine virus F, complete genome", "molecule_structure": "linear", "host": "Vitis sp.", "isolate_id": "98q3lhaz", "virus_id": "6a15a795"}
+{
+    "_id": "NC_018458",
+    "definition": "Grapevine virus F, complete genome",
+    "molecule_structure": "linear",
+    "host": "Vitis sp.",
+    "isolate_id": "98q3lhaz",
+    "virus_id": "6a15a795"
+}

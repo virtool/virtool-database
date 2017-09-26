@@ -1,1 +1,9 @@
-{"_id": "NC_003866", "_version": 0, "definition": "Cabbage leaf curl virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "sjbr11zv", "host": null, "virus_id": "4472d811"}
+{
+    "_id": "NC_003866",
+    "_version": 0,
+    "definition": "Cabbage leaf curl virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "sjbr11zv",
+    "host": null,
+    "virus_id": "4472d811"
+}

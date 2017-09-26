@@ -1,1 +1,7 @@
-{"_id": "NC_029076", "definition": "Iris severe mosaic virus isolate BJ, complete genome.", "host": "iris", "isolate_id": "151e3d74", "virus_id": "80c75a31"}
+{
+    "_id": "NC_029076",
+    "definition": "Iris severe mosaic virus isolate BJ, complete genome.",
+    "host": "iris",
+    "isolate_id": "151e3d74",
+    "virus_id": "80c75a31"
+}

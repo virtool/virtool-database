@@ -1,1 +1,9 @@
-{"_id": "NC_019568", "_version": 0, "definition": "Bean chlorosis virus isolate Venezuela:La Barinesa 459:2006 segment", "molecule_structure": "circular", "isolate_id": "qv3fdzhr", "host": "Phaseolus vulgaris", "virus_id": "2f780952"}
+{
+    "_id": "NC_019568",
+    "_version": 0,
+    "definition": "Bean chlorosis virus isolate Venezuela:La Barinesa 459:2006 segment",
+    "molecule_structure": "circular",
+    "isolate_id": "qv3fdzhr",
+    "host": "Phaseolus vulgaris",
+    "virus_id": "2f780952"
+}

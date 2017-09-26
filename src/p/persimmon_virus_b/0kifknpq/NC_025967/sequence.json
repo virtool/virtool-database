@@ -1,1 +1,8 @@
-{"_id": "NC_025967", "definition": "Persimmon virus B genomic RNA, complete genome, variant 1", "molecule_structure": "linear", "host": "Diospyros virginiana L. (American persimmon)", "isolate_id": "0kifknpq", "virus_id": "2c013ffa"}
+{
+    "_id": "NC_025967",
+    "definition": "Persimmon virus B genomic RNA, complete genome, variant 1",
+    "molecule_structure": "linear",
+    "host": "Diospyros virginiana L. (American persimmon)",
+    "isolate_id": "0kifknpq",
+    "virus_id": "2c013ffa"
+}

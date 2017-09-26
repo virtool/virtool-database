@@ -1,1 +1,8 @@
-{"_id": "NC_004147", "definition": "Papaya leaf curl virus, complete genome", "molecule_structure": "circular", "host": null, "isolate_id": "f9v35xov", "virus_id": "e775b708"}
+{
+    "_id": "NC_004147",
+    "definition": "Papaya leaf curl virus, complete genome",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "f9v35xov",
+    "virus_id": "e775b708"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_006962", "_version": 0, "definition": "Blackberry yellow vein-associated virus RNA1, complete sequence", "molecule_structure": "linear", "isolate_id": "ooazr2bf", "host": "Blackberry cv. Apache", "virus_id": "0a3d5ee1"}
+{
+    "_id": "NC_006962",
+    "_version": 0,
+    "definition": "Blackberry yellow vein-associated virus RNA1, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "ooazr2bf",
+    "host": "Blackberry cv. Apache",
+    "virus_id": "0a3d5ee1"
+}

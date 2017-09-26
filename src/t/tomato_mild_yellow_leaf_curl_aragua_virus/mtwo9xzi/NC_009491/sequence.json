@@ -1,1 +1,9 @@
-{"_id": "NC_009491", "_version": 0, "definition": "Tomato mild yellow leaf curl Aragua virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "mtwo9xzi", "host": "Lycopersicon esculentum cv. Rio Grande", "virus_id": "f8bb5280"}
+{
+    "_id": "NC_009491",
+    "_version": 0,
+    "definition": "Tomato mild yellow leaf curl Aragua virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "mtwo9xzi",
+    "host": "Lycopersicon esculentum cv. Rio Grande",
+    "virus_id": "f8bb5280"
+}

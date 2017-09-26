@@ -1,1 +1,9 @@
-{"_id": "NC_003768", "_version": 0, "definition": "Rice dwarf virus segment 12, complete sequence", "molecule_structure": "linear", "isolate_id": "sk0upwv3", "host": null, "virus_id": "a69b1127"}
+{
+    "_id": "NC_003768",
+    "_version": 0,
+    "definition": "Rice dwarf virus segment 12, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "sk0upwv3",
+    "host": null,
+    "virus_id": "a69b1127"
+}

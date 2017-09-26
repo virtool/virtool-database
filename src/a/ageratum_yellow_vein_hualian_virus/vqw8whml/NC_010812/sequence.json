@@ -1,1 +1,8 @@
-{"_id": "NC_010812", "definition": "Ageratum yellow vein Hualian virus-[Taiwan:Hsinchu:tom:2003] DNA A,", "molecule_structure": "linear", "host": "tomato", "isolate_id": "vqw8whml", "virus_id": "996671d3"}
+{
+    "_id": "NC_010812",
+    "definition": "Ageratum yellow vein Hualian virus-[Taiwan:Hsinchu:tom:2003] DNA A,",
+    "molecule_structure": "linear",
+    "host": "tomato",
+    "isolate_id": "vqw8whml",
+    "virus_id": "996671d3"
+}

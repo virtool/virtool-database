@@ -1,1 +1,9 @@
-{"_id": "NC_009607", "_version": 0, "definition": "Tomato severe rugose virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "r9fi2uzp", "host": "chili pepper", "virus_id": "e98f4576"}
+{
+    "_id": "NC_009607",
+    "_version": 0,
+    "definition": "Tomato severe rugose virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "r9fi2uzp",
+    "host": "chili pepper",
+    "virus_id": "e98f4576"
+}

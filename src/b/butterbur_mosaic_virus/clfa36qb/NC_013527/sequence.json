@@ -1,1 +1,8 @@
-{"_id": "NC_013527", "definition": "Butterbur mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "clfa36qb", "virus_id": "13ee3f1b"}
+{
+    "_id": "NC_013527",
+    "definition": "Butterbur mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "clfa36qb",
+    "virus_id": "13ee3f1b"
+}

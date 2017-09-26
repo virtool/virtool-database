@@ -1,1 +1,8 @@
-{"_id": "NC_019029", "definition": "Diuris virus A isolate SW33, complete genome", "molecule_structure": "linear", "host": "Diuris pedunculata", "isolate_id": "szypb9x7", "virus_id": "539ae4a9"}
+{
+    "_id": "NC_019029",
+    "definition": "Diuris virus A isolate SW33, complete genome",
+    "molecule_structure": "linear",
+    "host": "Diuris pedunculata",
+    "isolate_id": "szypb9x7",
+    "virus_id": "539ae4a9"
+}

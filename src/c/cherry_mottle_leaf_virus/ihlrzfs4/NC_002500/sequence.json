@@ -1,1 +1,8 @@
-{"_id": "NC_002500", "definition": "Cherry mottle leaf virus, complete genome", "molecule_structure": "linear", "host": "Prunus avium", "isolate_id": "ihlrzfs4", "virus_id": "fd481880"}
+{
+    "_id": "NC_002500",
+    "definition": "Cherry mottle leaf virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Prunus avium",
+    "isolate_id": "ihlrzfs4",
+    "virus_id": "fd481880"
+}

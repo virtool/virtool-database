@@ -1,1 +1,7 @@
-{"_id": "JF803265", "definition": "Tomato golden vein virus isolate DF[BR:Pip1799:03] segment DNA-B, complete sequence.", "host": "Solanum lycopersicum", "isolate_id": "206df89f", "virus_id": "52a063a1"}
+{
+    "_id": "JF803265",
+    "definition": "Tomato golden vein virus isolate DF[BR:Pip1799:03] segment DNA-B, complete sequence.",
+    "host": "Solanum lycopersicum",
+    "isolate_id": "206df89f",
+    "virus_id": "52a063a1"
+}

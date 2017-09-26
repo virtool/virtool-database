@@ -1,1 +1,8 @@
-{"_id": "NC_021065", "definition": "Sunflower mild mosaic virus isolate Entre Rios, complete genome", "molecule_structure": "linear", "host": "Helianthus annuus (sunflower)", "isolate_id": "39kc0l6l", "virus_id": "d4bed493"}
+{
+    "_id": "NC_021065",
+    "definition": "Sunflower mild mosaic virus isolate Entre Rios, complete genome",
+    "molecule_structure": "linear",
+    "host": "Helianthus annuus (sunflower)",
+    "isolate_id": "39kc0l6l",
+    "virus_id": "d4bed493"
+}

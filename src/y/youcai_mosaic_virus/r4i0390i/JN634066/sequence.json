@@ -1,1 +1,7 @@
-{"_id": "JN634066", "definition": "Youcai mosaic virus isolate Br, complete genome.", "host": "Brassica rapa subsp. pekinensis", "isolate_id": "r4i0390i", "virus_id": "07950c3a"}
+{
+    "_id": "JN634066",
+    "definition": "Youcai mosaic virus isolate Br, complete genome.",
+    "host": "Brassica rapa subsp. pekinensis",
+    "isolate_id": "r4i0390i",
+    "virus_id": "07950c3a"
+}

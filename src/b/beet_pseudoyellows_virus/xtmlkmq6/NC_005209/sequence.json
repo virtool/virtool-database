@@ -1,1 +1,9 @@
-{"_id": "NC_005209", "_version": 0, "definition": "Beet pseudo-yellows virus RNA 1, complete genome", "molecule_structure": "linear", "isolate_id": "xtmlkmq6", "host": null, "virus_id": "27f0bbd2"}
+{
+    "_id": "NC_005209",
+    "_version": 0,
+    "definition": "Beet pseudo-yellows virus RNA 1, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "xtmlkmq6",
+    "host": null,
+    "virus_id": "27f0bbd2"
+}

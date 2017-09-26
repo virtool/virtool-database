@@ -1,1 +1,9 @@
-{"_id": "NC_004043", "_version": 0, "definition": "Bean golden mosaic virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "pv4c4tat", "host": null, "virus_id": "b876ca5b"}
+{
+    "_id": "NC_004043",
+    "_version": 0,
+    "definition": "Bean golden mosaic virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "pv4c4tat",
+    "host": null,
+    "virus_id": "b876ca5b"
+}

@@ -1,1 +1,7 @@
-{"_id": "NC_001468", "definition": "African cassava mosaic virus isolate West Kenyan 844 segment DNA2", "host": "Cassava", "isolate_id": "4ad934bv", "virus_id": "53a851f3"}
+{
+    "_id": "NC_001468",
+    "definition": "African cassava mosaic virus isolate West Kenyan 844 segment DNA2",
+    "host": "Cassava",
+    "isolate_id": "4ad934bv",
+    "virus_id": "53a851f3"
+}

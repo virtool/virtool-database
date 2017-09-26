@@ -1,1 +1,8 @@
-{"_id": "NC_020996", "definition": "Cherry rusty mottle associated virus isolate 95CI192R3, complete", "molecule_structure": "linear", "host": "Prunus avium", "isolate_id": "gdeawvpw", "virus_id": "427a3f0d"}
+{
+    "_id": "NC_020996",
+    "definition": "Cherry rusty mottle associated virus isolate 95CI192R3, complete",
+    "molecule_structure": "linear",
+    "host": "Prunus avium",
+    "isolate_id": "gdeawvpw",
+    "virus_id": "427a3f0d"
+}

@@ -1,1 +1,7 @@
-{"_id": "DQ061193", "definition": "Columnea latent viroid clone PC-2-Pa29, complete genome.", "host": "", "isolate_id": "tjorcz7u", "virus_id": "7192ff61"}
+{
+    "_id": "DQ061193",
+    "definition": "Columnea latent viroid clone PC-2-Pa29, complete genome.",
+    "host": "",
+    "isolate_id": "tjorcz7u",
+    "virus_id": "7192ff61"
+}

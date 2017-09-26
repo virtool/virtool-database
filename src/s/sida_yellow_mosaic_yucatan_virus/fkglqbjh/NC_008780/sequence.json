@@ -1,1 +1,9 @@
-{"_id": "NC_008780", "_version": 0, "definition": "Sida yellow mosaic Yucatan virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "fkglqbjh", "host": "Sida acuta", "virus_id": "719e42dc"}
+{
+    "_id": "NC_008780",
+    "_version": 0,
+    "definition": "Sida yellow mosaic Yucatan virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "fkglqbjh",
+    "host": "Sida acuta",
+    "virus_id": "719e42dc"
+}

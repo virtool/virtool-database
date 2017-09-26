@@ -1,1 +1,7 @@
-{"_id": "16SP042_BFV_CAM1_B", "definition": "Betaflexivirus, complete genome", "host": "Camelia", "isolate_id": "950197de", "virus_id": "5ce8b98a"}
+{
+    "_id": "16SP042_BFV_CAM1_B",
+    "definition": "Betaflexivirus, complete genome",
+    "host": "Camelia",
+    "isolate_id": "950197de",
+    "virus_id": "5ce8b98a"
+}

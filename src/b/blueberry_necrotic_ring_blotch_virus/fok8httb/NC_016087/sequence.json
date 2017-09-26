@@ -1,1 +1,9 @@
-{"_id": "NC_016087", "_version": 0, "definition": "Blueberry necrotic ring blotch virus segment RNA4, complete", "molecule_structure": "linear", "isolate_id": "fok8httb", "host": null, "virus_id": "c585f55f"}
+{
+    "_id": "NC_016087",
+    "_version": 0,
+    "definition": "Blueberry necrotic ring blotch virus segment RNA4, complete",
+    "molecule_structure": "linear",
+    "isolate_id": "fok8httb",
+    "host": null,
+    "virus_id": "c585f55f"
+}

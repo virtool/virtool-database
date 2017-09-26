@@ -1,1 +1,8 @@
-{"_id": "NC_007069", "definition": "Phytophthora endornavirus 1", "molecule_structure": "linear", "host": "Douglas Fir", "isolate_id": "xozoqz8i", "virus_id": "219f242f"}
+{
+    "_id": "NC_007069",
+    "definition": "Phytophthora endornavirus 1",
+    "molecule_structure": "linear",
+    "host": "Douglas Fir",
+    "isolate_id": "xozoqz8i",
+    "virus_id": "219f242f"
+}

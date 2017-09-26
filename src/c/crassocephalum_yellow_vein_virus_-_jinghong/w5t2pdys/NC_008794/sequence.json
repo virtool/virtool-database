@@ -1,1 +1,8 @@
-{"_id": "NC_008794", "definition": "Crassocephalum yellow vein virus - Jinghong, complete genome", "molecule_structure": "circular", "host": "Crassocephalum crepidioides (Benth.) S. Moore", "isolate_id": "w5t2pdys", "virus_id": "dd235dd0"}
+{
+    "_id": "NC_008794",
+    "definition": "Crassocephalum yellow vein virus - Jinghong, complete genome",
+    "molecule_structure": "circular",
+    "host": "Crassocephalum crepidioides (Benth.) S. Moore",
+    "isolate_id": "w5t2pdys",
+    "virus_id": "dd235dd0"
+}

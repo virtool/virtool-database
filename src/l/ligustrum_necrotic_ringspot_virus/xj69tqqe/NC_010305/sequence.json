@@ -1,1 +1,8 @@
-{"_id": "NC_010305", "definition": "Ligustrum necrotic ringspot virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "xj69tqqe", "virus_id": "71ee088c"}
+{
+    "_id": "NC_010305",
+    "definition": "Ligustrum necrotic ringspot virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "xj69tqqe",
+    "virus_id": "71ee088c"
+}

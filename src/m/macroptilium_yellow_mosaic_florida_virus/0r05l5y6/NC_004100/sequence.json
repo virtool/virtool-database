@@ -1,1 +1,9 @@
-{"_id": "NC_004100", "_version": 0, "definition": "Macroptilium yellow mosaic Florida virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "0r05l5y6", "host": null, "virus_id": "ab7b42d3"}
+{
+    "_id": "NC_004100",
+    "_version": 0,
+    "definition": "Macroptilium yellow mosaic Florida virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "0r05l5y6",
+    "host": null,
+    "virus_id": "ab7b42d3"
+}

@@ -1,1 +1,7 @@
-{"_id": "HG313807", "definition": "Pepino mosaic virus complete genome, isolate Yur1.5.", "host": "Solanum peruvianum", "isolate_id": "6mv9jjnl", "virus_id": "be3b9938"}
+{
+    "_id": "HG313807",
+    "definition": "Pepino mosaic virus complete genome, isolate Yur1.5.",
+    "host": "Solanum peruvianum",
+    "isolate_id": "6mv9jjnl",
+    "virus_id": "be3b9938"
+}

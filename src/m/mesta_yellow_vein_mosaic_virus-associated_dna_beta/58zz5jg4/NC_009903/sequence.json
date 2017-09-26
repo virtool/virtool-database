@@ -1,1 +1,8 @@
-{"_id": "NC_009903", "definition": "Mesta yellow vein mosaic virus-associated DNA beta, complete", "molecule_structure": "linear", "host": "Hibiscus sabdariffa L.", "isolate_id": "58zz5jg4", "virus_id": "20829a87"}
+{
+    "_id": "NC_009903",
+    "definition": "Mesta yellow vein mosaic virus-associated DNA beta, complete",
+    "molecule_structure": "linear",
+    "host": "Hibiscus sabdariffa L.",
+    "isolate_id": "58zz5jg4",
+    "virus_id": "20829a87"
+}

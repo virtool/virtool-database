@@ -1,1 +1,7 @@
-{"_id": "HQ326095", "definition": "Apple scar skin viroid isolate AY10ch13, complete genome.", "host": "Pyrus communis", "isolate_id": "yyhwo1q0", "virus_id": "82666a09"}
+{
+    "_id": "HQ326095",
+    "definition": "Apple scar skin viroid isolate AY10ch13, complete genome.",
+    "host": "Pyrus communis",
+    "isolate_id": "yyhwo1q0",
+    "virus_id": "82666a09"
+}

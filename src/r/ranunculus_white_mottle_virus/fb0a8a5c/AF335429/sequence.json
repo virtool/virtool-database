@@ -1,1 +1,7 @@
-{"_id": "AF335429", "definition": "Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds.", "host": "Ranunculus spp.", "isolate_id": "fb0a8a5c", "virus_id": "76ad89fb"}
+{
+    "_id": "AF335429",
+    "definition": "Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene, partial cds.",
+    "host": "Ranunculus spp.",
+    "isolate_id": "fb0a8a5c",
+    "virus_id": "76ad89fb"
+}

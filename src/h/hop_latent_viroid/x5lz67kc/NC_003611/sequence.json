@@ -1,1 +1,8 @@
-{"_id": "NC_003611", "definition": "Hop latent viroid complete sequence", "host": "hops", "molecule_structure": "", "isolate_id": "x5lz67kc", "virus_id": "8b6764a7"}
+{
+    "_id": "NC_003611",
+    "definition": "Hop latent viroid complete sequence",
+    "host": "hops",
+    "molecule_structure": "",
+    "isolate_id": "x5lz67kc",
+    "virus_id": "8b6764a7"
+}

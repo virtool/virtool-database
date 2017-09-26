@@ -1,1 +1,9 @@
-{"_id": "NC_001438", "_version": 0, "definition": "Bean golden yellow mosaic virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "vo3vzf1n", "host": null, "virus_id": "5c0dac1f"}
+{
+    "_id": "NC_001438",
+    "_version": 0,
+    "definition": "Bean golden yellow mosaic virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "vo3vzf1n",
+    "host": null,
+    "virus_id": "5c0dac1f"
+}

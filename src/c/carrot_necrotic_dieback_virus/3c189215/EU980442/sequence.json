@@ -1,1 +1,7 @@
-{"_id": "EU980442", "definition": "Carrot necrotic dieback virus strain Anthriscus, complete genome.", "host": "Daucus carota", "isolate_id": "3c189215", "virus_id": "a47b53d5"}
+{
+    "_id": "EU980442",
+    "definition": "Carrot necrotic dieback virus strain Anthriscus, complete genome.",
+    "host": "Daucus carota",
+    "isolate_id": "3c189215",
+    "virus_id": "a47b53d5"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_005051", "definition": "Okra yellow vein disease associated sequence virion, complete", "molecule_structure": "circular", "host": "Hibiscus esculentis", "isolate_id": "lluwesc7", "virus_id": "0955573f"}
+{
+    "_id": "NC_005051",
+    "definition": "Okra yellow vein disease associated sequence virion, complete",
+    "molecule_structure": "circular",
+    "host": "Hibiscus esculentis",
+    "isolate_id": "lluwesc7",
+    "virus_id": "0955573f"
+}

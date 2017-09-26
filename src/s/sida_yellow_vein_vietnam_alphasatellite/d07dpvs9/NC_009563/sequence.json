@@ -1,1 +1,8 @@
-{"_id": "NC_009563", "definition": "Sida yellow vein Vietnam virus-associated DNA 1, complete genome", "molecule_structure": "circular", "host": "arrow leaf (Sida rhombiforlia, Malvaceae); weed", "isolate_id": "d07dpvs9", "virus_id": "5b2962bd"}
+{
+    "_id": "NC_009563",
+    "definition": "Sida yellow vein Vietnam virus-associated DNA 1, complete genome",
+    "molecule_structure": "circular",
+    "host": "arrow leaf (Sida rhombiforlia, Malvaceae); weed",
+    "isolate_id": "d07dpvs9",
+    "virus_id": "5b2962bd"
+}

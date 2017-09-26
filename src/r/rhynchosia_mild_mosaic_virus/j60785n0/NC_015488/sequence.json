@@ -1,1 +1,9 @@
-{"_id": "NC_015488", "_version": 0, "definition": "Rhynchosai mild mosaic virus DNA-A, complete genome", "molecule_structure": "circular", "isolate_id": "j60785n0", "host": "Rhynchosia minima", "virus_id": "4ab1bb96"}
+{
+    "_id": "NC_015488",
+    "_version": 0,
+    "definition": "Rhynchosai mild mosaic virus DNA-A, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "j60785n0",
+    "host": "Rhynchosia minima",
+    "virus_id": "4ab1bb96"
+}

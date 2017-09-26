@@ -1,1 +1,8 @@
-{"_id": "NC_012698", "definition": "Cassava brown streak virus, complete genome", "molecule_structure": "linear", "host": "cassava", "isolate_id": "7tg1j55z", "virus_id": "913fc4ee"}
+{
+    "_id": "NC_012698",
+    "definition": "Cassava brown streak virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "cassava",
+    "isolate_id": "7tg1j55z",
+    "virus_id": "913fc4ee"
+}

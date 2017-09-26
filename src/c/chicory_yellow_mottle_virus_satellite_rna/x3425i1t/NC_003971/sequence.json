@@ -1,1 +1,8 @@
-{"_id": "NC_003971", "definition": "Chicory yellow mottle virus satellite RNA, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "x3425i1t", "virus_id": "e0cd82ac"}
+{
+    "_id": "NC_003971",
+    "definition": "Chicory yellow mottle virus satellite RNA, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "x3425i1t",
+    "virus_id": "e0cd82ac"
+}

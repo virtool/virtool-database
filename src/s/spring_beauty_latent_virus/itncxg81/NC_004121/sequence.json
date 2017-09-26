@@ -1,1 +1,9 @@
-{"_id": "NC_004121", "_version": 0, "definition": "Spring beauty latent virus RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "itncxg81", "host": null, "virus_id": "cee27980"}
+{
+    "_id": "NC_004121",
+    "_version": 0,
+    "definition": "Spring beauty latent virus RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "itncxg81",
+    "host": null,
+    "virus_id": "cee27980"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_025834", "definition": "Switchgrass mosaic-associated virus 1 isolate Cloud Nine movement", "molecule_structure": "linear", "host": "switchgrass", "isolate_id": "ipiq4gj6", "virus_id": "2a9b332c"}
+{
+    "_id": "NC_025834",
+    "definition": "Switchgrass mosaic-associated virus 1 isolate Cloud Nine movement",
+    "molecule_structure": "linear",
+    "host": "switchgrass",
+    "isolate_id": "ipiq4gj6",
+    "virus_id": "2a9b332c"
+}

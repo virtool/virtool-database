@@ -1,1 +1,8 @@
-{"_id": "NC_006942", "definition": "Taro vein chlorosis virus, complete genome", "molecule_structure": "linear", "host": "taro (Colocasia esculenta)", "isolate_id": "o3v158p8", "virus_id": "d569b990"}
+{
+    "_id": "NC_006942",
+    "definition": "Taro vein chlorosis virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "taro (Colocasia esculenta)",
+    "isolate_id": "o3v158p8",
+    "virus_id": "d569b990"
+}

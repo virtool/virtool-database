@@ -1,1 +1,8 @@
-{"_id": "NC_014647", "definition": "Malvastrum yellow vein Changa Manga virus, complete genome", "molecule_structure": "circular", "host": "Malvastrum coromandelianum", "isolate_id": "atk03p28", "virus_id": "c80cd343"}
+{
+    "_id": "NC_014647",
+    "definition": "Malvastrum yellow vein Changa Manga virus, complete genome",
+    "molecule_structure": "circular",
+    "host": "Malvastrum coromandelianum",
+    "isolate_id": "atk03p28",
+    "virus_id": "c80cd343"
+}

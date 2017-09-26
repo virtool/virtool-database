@@ -1,1 +1,8 @@
-{"_id": "NC_021196", "definition": "Calla lily latent virus strain m19 polyprotein gene, complete cds", "molecule_structure": "linear", "host": "calla lily", "isolate_id": "8mz1k74y", "virus_id": "563c2411"}
+{
+    "_id": "NC_021196",
+    "definition": "Calla lily latent virus strain m19 polyprotein gene, complete cds",
+    "molecule_structure": "linear",
+    "host": "calla lily",
+    "isolate_id": "8mz1k74y",
+    "virus_id": "563c2411"
+}

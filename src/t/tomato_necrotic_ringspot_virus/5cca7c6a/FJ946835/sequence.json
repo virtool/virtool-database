@@ -1,1 +1,7 @@
-{"_id": "FJ946835", "definition": "Tomato necrotic ringspot virus nucleocapsid (N) gene, complete cds.", "host": "Solanum lycopersicum (tomato)", "isolate_id": "5cca7c6a", "virus_id": "50ae2bc3"}
+{
+    "_id": "FJ946835",
+    "definition": "Tomato necrotic ringspot virus nucleocapsid (N) gene, complete cds.",
+    "host": "Solanum lycopersicum (tomato)",
+    "isolate_id": "5cca7c6a",
+    "virus_id": "50ae2bc3"
+}

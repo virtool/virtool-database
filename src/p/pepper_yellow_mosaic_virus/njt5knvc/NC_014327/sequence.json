@@ -1,1 +1,8 @@
-{"_id": "NC_014327", "definition": "Pepper yellow mosaic virus RNA, complete genome, strain: DF", "molecule_structure": "linear", "host": "Capsicum annuum cv. Magali", "isolate_id": "njt5knvc", "virus_id": "48ac2443"}
+{
+    "_id": "NC_014327",
+    "definition": "Pepper yellow mosaic virus RNA, complete genome, strain: DF",
+    "molecule_structure": "linear",
+    "host": "Capsicum annuum cv. Magali",
+    "isolate_id": "njt5knvc",
+    "virus_id": "48ac2443"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_008492", "_version": 0, "definition": "Corchorus yellow spot virus DNA A, complete sequence", "molecule_structure": "linear", "isolate_id": "eym0adwc", "host": "Corchorus siliquosus", "virus_id": "a50530ca"}
+{
+    "_id": "NC_008492",
+    "_version": 0,
+    "definition": "Corchorus yellow spot virus DNA A, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "eym0adwc",
+    "host": "Corchorus siliquosus",
+    "virus_id": "a50530ca"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_020471", "definition": "Andean potato mild mosaic virus isolate Hu, complete genome", "molecule_structure": "linear", "host": "Solanum tuberosum", "isolate_id": "p24ifmwz", "virus_id": "5caf32dd"}
+{
+    "_id": "NC_020471",
+    "definition": "Andean potato mild mosaic virus isolate Hu, complete genome",
+    "molecule_structure": "linear",
+    "host": "Solanum tuberosum",
+    "isolate_id": "p24ifmwz",
+    "virus_id": "5caf32dd"
+}

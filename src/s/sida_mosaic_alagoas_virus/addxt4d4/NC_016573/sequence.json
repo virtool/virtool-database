@@ -1,1 +1,9 @@
-{"_id": "NC_016573", "_version": 0, "definition": "Sida mosaic Alagoas virus DNA-A, complete genome", "molecule_structure": "circular", "isolate_id": "addxt4d4", "host": "Sida sp.", "virus_id": "f7276ca4"}
+{
+    "_id": "NC_016573",
+    "_version": 0,
+    "definition": "Sida mosaic Alagoas virus DNA-A, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "addxt4d4",
+    "host": "Sida sp.",
+    "virus_id": "f7276ca4"
+}

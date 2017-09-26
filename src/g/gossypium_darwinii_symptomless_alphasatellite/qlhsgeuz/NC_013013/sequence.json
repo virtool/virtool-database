@@ -1,1 +1,8 @@
-{"_id": "NC_013013", "definition": "Gossypium darwinii symptomless alphasatellite DNA-alpha, complete", "molecule_structure": "circular", "host": "Gossypium hirsutum (octaploid)", "isolate_id": "qlhsgeuz", "virus_id": "0e60648b"}
+{
+    "_id": "NC_013013",
+    "definition": "Gossypium darwinii symptomless alphasatellite DNA-alpha, complete",
+    "molecule_structure": "circular",
+    "host": "Gossypium hirsutum (octaploid)",
+    "isolate_id": "qlhsgeuz",
+    "virus_id": "0e60648b"
+}

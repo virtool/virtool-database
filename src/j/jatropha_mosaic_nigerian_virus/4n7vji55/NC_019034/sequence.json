@@ -1,1 +1,8 @@
-{"_id": "NC_019034", "definition": "Jatropha mosaic Nigerian virus isolate 2 segment DNA-A, complete", "molecule_structure": "circular", "host": "Jatropha curcas L.", "isolate_id": "4n7vji55", "virus_id": "6f976d95"}
+{
+    "_id": "NC_019034",
+    "definition": "Jatropha mosaic Nigerian virus isolate 2 segment DNA-A, complete",
+    "molecule_structure": "circular",
+    "host": "Jatropha curcas L.",
+    "isolate_id": "4n7vji55",
+    "virus_id": "6f976d95"
+}

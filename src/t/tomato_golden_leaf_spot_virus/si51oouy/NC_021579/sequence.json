@@ -1,1 +1,8 @@
-{"_id": "NC_021579", "definition": "UNVERIFIED: Tomato golden leaf spot virus isolate TO83 Araguaina", "molecule_structure": "circular", "host": "tomato", "isolate_id": "si51oouy", "virus_id": "d9b83307"}
+{
+    "_id": "NC_021579",
+    "definition": "UNVERIFIED: Tomato golden leaf spot virus isolate TO83 Araguaina",
+    "molecule_structure": "circular",
+    "host": "tomato",
+    "isolate_id": "si51oouy",
+    "virus_id": "d9b83307"
+}

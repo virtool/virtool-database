@@ -1,1 +1,7 @@
-{"_id": "NC_023641", "isolate_id": "dknecqd7", "definition": "Lagenaria siceraria endornavirus-California isolate FB, complete genome.", "host": "Lagenaria siceraria (ornamental hard shell bottle gourd)", "virus_id": "4c9ddfb7"}
+{
+    "_id": "NC_023641",
+    "isolate_id": "dknecqd7",
+    "definition": "Lagenaria siceraria endornavirus-California isolate FB, complete genome.",
+    "host": "Lagenaria siceraria (ornamental hard shell bottle gourd)",
+    "virus_id": "4c9ddfb7"
+}

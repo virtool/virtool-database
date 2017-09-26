@@ -1,1 +1,8 @@
-{"_id": "NC_003463", "definition": "Apple dimple viroid complete sequence", "host": "malus", "molecule_structure": "circular", "isolate_id": "eqntqdxx", "virus_id": "39d3f3e7"}
+{
+    "_id": "NC_003463",
+    "definition": "Apple dimple viroid complete sequence",
+    "host": "malus",
+    "molecule_structure": "circular",
+    "isolate_id": "eqntqdxx",
+    "virus_id": "39d3f3e7"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_012137", "definition": "Cotton leaf curl Burewala virus - [India:Vehari:2004], complete", "molecule_structure": "circular", "host": "Gossypium hirsutum", "isolate_id": "d3wuwmkz", "virus_id": "938c4dd2"}
+{
+    "_id": "NC_012137",
+    "definition": "Cotton leaf curl Burewala virus - [India:Vehari:2004], complete",
+    "molecule_structure": "circular",
+    "host": "Gossypium hirsutum",
+    "isolate_id": "d3wuwmkz",
+    "virus_id": "938c4dd2"
+}

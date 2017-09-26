@@ -1,1 +1,7 @@
-{"_id": "KC937026", "definition": "Cherry leaf roll virus isolate 739 segment RNA2, complete sequence.", "host": "Actinidia chinensis 'Hort 16A'", "isolate_id": "5i5tk8kr", "virus_id": "aa86c402"}
+{
+    "_id": "KC937026",
+    "definition": "Cherry leaf roll virus isolate 739 segment RNA2, complete sequence.",
+    "host": "Actinidia chinensis 'Hort 16A'",
+    "isolate_id": "5i5tk8kr",
+    "virus_id": "aa86c402"
+}

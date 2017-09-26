@@ -1,1 +1,7 @@
-{"_id": "HQ840786", "definition": "Eggplant mild leaf mottle virus polyprotein gene, complete cds.", "host": "Solanum melongena (eggplant)", "isolate_id": "envuq6mb", "virus_id": "9d77e98f"}
+{
+    "_id": "HQ840786",
+    "definition": "Eggplant mild leaf mottle virus polyprotein gene, complete cds.",
+    "host": "Solanum melongena (eggplant)",
+    "isolate_id": "envuq6mb",
+    "virus_id": "9d77e98f"
+}

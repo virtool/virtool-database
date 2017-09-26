@@ -1,1 +1,7 @@
-{"_id": "NC_025680", "definition": "Tomato yellow leaf curl Axarquia virus isolate Homra, complete genome.", "host": "Solanum lycopersicum", "isolate_id": "jyuhkeok", "virus_id": "2066fedf"}
+{
+    "_id": "NC_025680",
+    "definition": "Tomato yellow leaf curl Axarquia virus isolate Homra, complete genome.",
+    "host": "Solanum lycopersicum",
+    "isolate_id": "jyuhkeok",
+    "virus_id": "2066fedf"
+}

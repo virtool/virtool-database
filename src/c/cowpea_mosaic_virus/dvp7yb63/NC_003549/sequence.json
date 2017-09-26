@@ -1,1 +1,9 @@
-{"_id": "NC_003549", "_version": 0, "definition": "Cowpea mosaic virus RNA 1, complete sequence", "molecule_structure": "linear", "isolate_id": "dvp7yb63", "host": null, "virus_id": "0051b10f"}
+{
+    "_id": "NC_003549",
+    "_version": 0,
+    "definition": "Cowpea mosaic virus RNA 1, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "dvp7yb63",
+    "host": null,
+    "virus_id": "0051b10f"
+}

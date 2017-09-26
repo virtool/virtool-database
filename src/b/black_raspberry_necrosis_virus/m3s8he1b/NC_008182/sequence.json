@@ -1,1 +1,9 @@
-{"_id": "NC_008182", "_version": 0, "definition": "Black raspberry necrosis virus RNA1, complete genome", "molecule_structure": "linear", "isolate_id": "m3s8he1b", "host": null, "virus_id": "7700142d"}
+{
+    "_id": "NC_008182",
+    "_version": 0,
+    "definition": "Black raspberry necrosis virus RNA1, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "m3s8he1b",
+    "host": null,
+    "virus_id": "7700142d"
+}

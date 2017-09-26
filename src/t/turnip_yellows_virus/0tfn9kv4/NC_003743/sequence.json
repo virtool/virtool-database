@@ -1,1 +1,8 @@
-{"_id": "NC_003743", "definition": "Turnip yellows virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "0tfn9kv4", "virus_id": "4ff329d5"}
+{
+    "_id": "NC_003743",
+    "definition": "Turnip yellows virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "0tfn9kv4",
+    "virus_id": "4ff329d5"
+}

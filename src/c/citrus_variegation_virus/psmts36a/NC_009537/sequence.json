@@ -1,1 +1,9 @@
-{"_id": "NC_009537", "_version": 0, "definition": "Citrus variegation virus RNA1, complete sequence", "molecule_structure": "linear", "isolate_id": "psmts36a", "host": null, "virus_id": "bb52249f"}
+{
+    "_id": "NC_009537",
+    "_version": 0,
+    "definition": "Citrus variegation virus RNA1, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "psmts36a",
+    "host": null,
+    "virus_id": "bb52249f"
+}

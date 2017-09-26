@@ -1,1 +1,8 @@
-{"_id": "NC_021851", "definition": "Tomato blistering mosaic virus isolate SC50, complete genome", "molecule_structure": "linear", "host": "Solanum lycopersicum", "isolate_id": "3ws6fi50", "virus_id": "5cfc36d5"}
+{
+    "_id": "NC_021851",
+    "definition": "Tomato blistering mosaic virus isolate SC50, complete genome",
+    "molecule_structure": "linear",
+    "host": "Solanum lycopersicum",
+    "isolate_id": "3ws6fi50",
+    "virus_id": "5cfc36d5"
+}

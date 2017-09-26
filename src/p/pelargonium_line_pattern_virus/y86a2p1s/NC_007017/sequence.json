@@ -1,1 +1,8 @@
-{"_id": "NC_007017", "definition": "Pelargonium line pattern virus isolate PV-0193, complete genome", "molecule_structure": "linear", "host": "Pelargonium zonale", "isolate_id": "y86a2p1s", "virus_id": "8c8bdab4"}
+{
+    "_id": "NC_007017",
+    "definition": "Pelargonium line pattern virus isolate PV-0193, complete genome",
+    "molecule_structure": "linear",
+    "host": "Pelargonium zonale",
+    "isolate_id": "y86a2p1s",
+    "virus_id": "8c8bdab4"
+}

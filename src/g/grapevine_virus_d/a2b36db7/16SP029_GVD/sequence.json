@@ -1,1 +1,7 @@
-{"definition": "Grapevine Virus D, complete genome", "_id": "16SP029_GVD", "isolate_id": "a2b36db7", "host": "vitis, 3138-6Z1P2", "virus_id": "819bebd7"}
+{
+    "definition": "Grapevine Virus D, complete genome",
+    "_id": "16SP029_GVD",
+    "isolate_id": "a2b36db7",
+    "host": "vitis, 3138-6Z1P2",
+    "virus_id": "819bebd7"
+}

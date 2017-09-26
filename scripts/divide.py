@@ -51,7 +51,7 @@ with open("viruses.json", "r") as export_handle:
                 sequence_text = sequence.pop("sequence")
 
                 with open(os.path.join(sequence_path, "sequence.json"), "w") as f:
-                    json.dump(sequence, f)
+                    json.dump(sequence, f, indent=4)
 
                 with open(os.path.join(sequence_path, "sequence.fa"), "w") as f:
                     f.write(">{}\n{}\n".format(sequence_id, sequence_text))

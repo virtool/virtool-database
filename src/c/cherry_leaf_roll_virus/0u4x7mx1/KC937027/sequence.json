@@ -1,1 +1,7 @@
-{"_id": "KC937027", "definition": "Cherry leaf roll virus isolate 54 segment RNA2, complete sequence.", "host": "Malus domestica", "isolate_id": "0u4x7mx1", "virus_id": "aa86c402"}
+{
+    "_id": "KC937027",
+    "definition": "Cherry leaf roll virus isolate 54 segment RNA2, complete sequence.",
+    "host": "Malus domestica",
+    "isolate_id": "0u4x7mx1",
+    "virus_id": "aa86c402"
+}

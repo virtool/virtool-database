@@ -1,1 +1,8 @@
-{"_id": "NC_022895", "definition": "Yam spherical virus DSM:PV-0517, complete genome", "molecule_structure": "linear", "host": "Dioscorea rotundata", "isolate_id": "lhrzuzvh", "virus_id": "9727cf12"}
+{
+    "_id": "NC_022895",
+    "definition": "Yam spherical virus DSM:PV-0517, complete genome",
+    "molecule_structure": "linear",
+    "host": "Dioscorea rotundata",
+    "isolate_id": "lhrzuzvh",
+    "virus_id": "9727cf12"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_014447", "_version": 0, "definition": "Sida golden mosaic Florida virus-Malvastrum DNA-B, complete genome", "molecule_structure": "circular", "isolate_id": "kfsp18fm", "host": "Malvastrum coromandelianum", "virus_id": "e0f2de1a"}
+{
+    "_id": "NC_014447",
+    "_version": 0,
+    "definition": "Sida golden mosaic Florida virus-Malvastrum DNA-B, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "kfsp18fm",
+    "host": "Malvastrum coromandelianum",
+    "virus_id": "e0f2de1a"
+}

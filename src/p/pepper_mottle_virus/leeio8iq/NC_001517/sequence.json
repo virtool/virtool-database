@@ -1,1 +1,8 @@
-{"_id": "NC_001517", "definition": "Pepper mottle virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "leeio8iq", "virus_id": "fb38921d"}
+{
+    "_id": "NC_001517",
+    "definition": "Pepper mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "leeio8iq",
+    "virus_id": "fb38921d"
+}

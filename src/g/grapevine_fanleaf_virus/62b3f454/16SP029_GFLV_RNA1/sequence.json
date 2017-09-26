@@ -1,1 +1,7 @@
-{"_id": "16SP029_GFLV_RNA1", "definition": "Grapevine Fanleaf Virus, RNA1, complete genome", "host": "vitis, 3138-6Z1P2", "isolate_id": "62b3f454", "virus_id": "cbb7c8d4"}
+{
+    "_id": "16SP029_GFLV_RNA1",
+    "definition": "Grapevine Fanleaf Virus, RNA1, complete genome",
+    "host": "vitis, 3138-6Z1P2",
+    "isolate_id": "62b3f454",
+    "virus_id": "cbb7c8d4"
+}

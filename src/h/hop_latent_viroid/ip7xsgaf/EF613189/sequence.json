@@ -1,1 +1,7 @@
-{"_id": "EF613189", "definition": "Hop latent viroid isolate T4, complete genome.", "host": "", "isolate_id": "ip7xsgaf", "virus_id": "8b6764a7"}
+{
+    "_id": "EF613189",
+    "definition": "Hop latent viroid isolate T4, complete genome.",
+    "host": "",
+    "isolate_id": "ip7xsgaf",
+    "virus_id": "8b6764a7"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_021481", "definition": "Barley yellow dwarf virus Ker-II isolate K439, complete genome", "molecule_structure": "linear", "host": "Poa cookii", "isolate_id": "ot1c747p", "virus_id": "3ae51c0e"}
+{
+    "_id": "NC_021481",
+    "definition": "Barley yellow dwarf virus Ker-II isolate K439, complete genome",
+    "molecule_structure": "linear",
+    "host": "Poa cookii",
+    "isolate_id": "ot1c747p",
+    "virus_id": "3ae51c0e"
+}

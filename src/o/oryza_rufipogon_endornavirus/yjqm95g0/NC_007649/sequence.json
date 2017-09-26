@@ -1,1 +1,8 @@
-{"_id": "NC_007649", "definition": "Oryza rufipogon endornavirus, complete genome", "molecule_structure": "linear", "host": "Oryza rufipogon W1714", "isolate_id": "yjqm95g0", "virus_id": "20822662"}
+{
+    "_id": "NC_007649",
+    "definition": "Oryza rufipogon endornavirus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Oryza rufipogon W1714",
+    "isolate_id": "yjqm95g0",
+    "virus_id": "20822662"
+}

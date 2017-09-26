@@ -1,1 +1,7 @@
-{"_id": "13C208_RNA1", "definition": "Prune dwarf virus RNA1", "host": "", "isolate_id": "456jaz1y", "virus_id": "0d400637"}
+{
+    "_id": "13C208_RNA1",
+    "definition": "Prune dwarf virus RNA1",
+    "host": "",
+    "isolate_id": "456jaz1y",
+    "virus_id": "0d400637"
+}

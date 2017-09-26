@@ -1,1 +1,7 @@
-{"_id": "NC_030229", "definition": "Tropical soda apple mosaic virus isolate Okeechobee, complete genome.", "host": "Solanum viarum", "isolate_id": "bd9f9b03", "virus_id": "daa3c5af"}
+{
+    "_id": "NC_030229",
+    "definition": "Tropical soda apple mosaic virus isolate Okeechobee, complete genome.",
+    "host": "Solanum viarum",
+    "isolate_id": "bd9f9b03",
+    "virus_id": "daa3c5af"
+}

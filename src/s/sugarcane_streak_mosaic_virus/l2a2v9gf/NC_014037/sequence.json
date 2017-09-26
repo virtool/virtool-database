@@ -1,1 +1,8 @@
-{"_id": "NC_014037", "definition": "Sugarcane streak mosaic virus, complete genome", "molecule_structure": "linear", "host": "Saccharum hybrid", "isolate_id": "l2a2v9gf", "virus_id": "cab3ac4f"}
+{
+    "_id": "NC_014037",
+    "definition": "Sugarcane streak mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Saccharum hybrid",
+    "isolate_id": "l2a2v9gf",
+    "virus_id": "cab3ac4f"
+}

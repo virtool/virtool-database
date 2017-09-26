@@ -1,1 +1,7 @@
-{"_id": "JN104385", "definition": "Cherry leaf roll virus isolate Olm1 segment RNA2, complete sequence.", "host": "Prunus avium (Bing sweet cherry)", "isolate_id": "ccn05yls", "virus_id": "aa86c402"}
+{
+    "_id": "JN104385",
+    "definition": "Cherry leaf roll virus isolate Olm1 segment RNA2, complete sequence.",
+    "host": "Prunus avium (Bing sweet cherry)",
+    "isolate_id": "ccn05yls",
+    "virus_id": "aa86c402"
+}

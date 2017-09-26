@@ -1,1 +1,8 @@
-{"_id": "NC_022365", "definition": "Piper yellow mottle virus strain ISH-1, complete genome", "molecule_structure": "linear", "host": "Piper nigrum", "isolate_id": "4vgffi4m", "virus_id": "c5f3145b"}
+{
+    "_id": "NC_022365",
+    "definition": "Piper yellow mottle virus strain ISH-1, complete genome",
+    "molecule_structure": "linear",
+    "host": "Piper nigrum",
+    "isolate_id": "4vgffi4m",
+    "virus_id": "c5f3145b"
+}

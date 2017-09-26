@@ -1,1 +1,7 @@
-{"_id": "DQ371472", "definition": "Grapevine yellow speckle viroid 1 clone Tu CGVd 1-2, complete genome.", "host": "Vitis vinifera cv. Thompson Seedless", "isolate_id": "ra3houup", "virus_id": "41b0a442"}
+{
+    "_id": "DQ371472",
+    "definition": "Grapevine yellow speckle viroid 1 clone Tu CGVd 1-2, complete genome.",
+    "host": "Vitis vinifera cv. Thompson Seedless",
+    "isolate_id": "ra3houup",
+    "virus_id": "41b0a442"
+}

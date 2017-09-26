@@ -1,1 +1,8 @@
-{"_id": "NC_013467", "definition": "Sweet potato leaf curl Lanzarote virus, complete genome", "molecule_structure": "circular", "host": "Ipomoea batatas", "isolate_id": "2lzkuwsb", "virus_id": "c1b1542a"}
+{
+    "_id": "NC_013467",
+    "definition": "Sweet potato leaf curl Lanzarote virus, complete genome",
+    "molecule_structure": "circular",
+    "host": "Ipomoea batatas",
+    "isolate_id": "2lzkuwsb",
+    "virus_id": "c1b1542a"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_008249", "definition": "Chickpea chlorotic stunt virus, complete genome", "molecule_structure": "linear", "host": "faba bean", "isolate_id": "qtnmcd01", "virus_id": "a39e46d2"}
+{
+    "_id": "NC_008249",
+    "definition": "Chickpea chlorotic stunt virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "faba bean",
+    "isolate_id": "qtnmcd01",
+    "virus_id": "a39e46d2"
+}

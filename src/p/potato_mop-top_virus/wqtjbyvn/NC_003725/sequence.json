@@ -1,1 +1,9 @@
-{"_id": "NC_003725", "_version": 0, "definition": "Potato mop-top virus RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "wqtjbyvn", "host": "Potato", "virus_id": "e6bc241f"}
+{
+    "_id": "NC_003725",
+    "_version": 0,
+    "definition": "Potato mop-top virus RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "wqtjbyvn",
+    "host": "Potato",
+    "virus_id": "e6bc241f"
+}

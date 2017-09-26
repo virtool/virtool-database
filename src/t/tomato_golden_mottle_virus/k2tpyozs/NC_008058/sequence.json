@@ -1,1 +1,9 @@
-{"_id": "NC_008058", "_version": 0, "definition": "Tomato golden mottle virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "k2tpyozs", "host": "Lycopersicon sculentum", "virus_id": "c673385e"}
+{
+    "_id": "NC_008058",
+    "_version": 0,
+    "definition": "Tomato golden mottle virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "k2tpyozs",
+    "host": "Lycopersicon sculentum",
+    "virus_id": "c673385e"
+}

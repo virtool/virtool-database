@@ -1,1 +1,8 @@
-{"_id": "NC_010295", "definition": "Phaius virus X, complete genome", "molecule_structure": "linear", "host": "Phaius flavus f. flavus", "isolate_id": "ylo58rr7", "virus_id": "022b343a"}
+{
+    "_id": "NC_010295",
+    "definition": "Phaius virus X, complete genome",
+    "molecule_structure": "linear",
+    "host": "Phaius flavus f. flavus",
+    "isolate_id": "ylo58rr7",
+    "virus_id": "022b343a"
+}

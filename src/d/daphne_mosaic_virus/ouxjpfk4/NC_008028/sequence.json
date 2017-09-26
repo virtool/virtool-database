@@ -1,1 +1,8 @@
-{"_id": "NC_008028", "definition": "Daphne mosaic virus, complete genome", "molecule_structure": "linear", "host": "Daphne mezereum", "isolate_id": "ouxjpfk4", "virus_id": "68624725"}
+{
+    "_id": "NC_008028",
+    "definition": "Daphne mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Daphne mezereum",
+    "isolate_id": "ouxjpfk4",
+    "virus_id": "68624725"
+}

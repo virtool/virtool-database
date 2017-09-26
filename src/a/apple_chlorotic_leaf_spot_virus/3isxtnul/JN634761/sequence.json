@@ -1,1 +1,7 @@
-{"_id": "JN634761", "definition": "Apple chlorotic leaf spot virus isolate Z3, complete genome.", "host": "Prunus persica", "isolate_id": "3isxtnul", "virus_id": "54a508b1"}
+{
+    "_id": "JN634761",
+    "definition": "Apple chlorotic leaf spot virus isolate Z3, complete genome.",
+    "host": "Prunus persica",
+    "isolate_id": "3isxtnul",
+    "virus_id": "54a508b1"
+}

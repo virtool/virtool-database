@@ -1,1 +1,9 @@
-{"_id": "NC_004638", "_version": 0, "definition": "Potato yellow mosaic Trinidad virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "uo1xx7m6", "host": "tomato", "virus_id": "abbbb0ea"}
+{
+    "_id": "NC_004638",
+    "_version": 0,
+    "definition": "Potato yellow mosaic Trinidad virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "uo1xx7m6",
+    "host": "tomato",
+    "virus_id": "abbbb0ea"
+}

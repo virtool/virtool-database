@@ -1,1 +1,7 @@
-{"_id": "NC_026819", "isolate_id": "rfb0g8h5", "definition": "Taro bacilliform CH virus isolate TaBCHV-1, complete genome.", "host": "Colocasia esculenta", "virus_id": "8aab5188"}
+{
+    "_id": "NC_026819",
+    "isolate_id": "rfb0g8h5",
+    "definition": "Taro bacilliform CH virus isolate TaBCHV-1, complete genome.",
+    "host": "Colocasia esculenta",
+    "virus_id": "8aab5188"
+}

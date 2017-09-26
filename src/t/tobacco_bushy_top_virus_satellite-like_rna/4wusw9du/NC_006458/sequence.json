@@ -1,1 +1,8 @@
-{"_id": "NC_006458", "definition": "Tobacco bushy top virus satellite-like RNA, complete genome", "molecule_structure": "linear", "host": "tobacco", "isolate_id": "4wusw9du", "virus_id": "7cddf58b"}
+{
+    "_id": "NC_006458",
+    "definition": "Tobacco bushy top virus satellite-like RNA, complete genome",
+    "molecule_structure": "linear",
+    "host": "tobacco",
+    "isolate_id": "4wusw9du",
+    "virus_id": "7cddf58b"
+}

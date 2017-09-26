@@ -1,1 +1,7 @@
-{"_id": "NC_026771", "definition": "Mulberry mosaic dwarf associated virus isolate AK1-8, complete genome.", "host": "mulberry", "isolate_id": "bfs0xjeu", "virus_id": "8b9b2144"}
+{
+    "_id": "NC_026771",
+    "definition": "Mulberry mosaic dwarf associated virus isolate AK1-8, complete genome.",
+    "host": "mulberry",
+    "isolate_id": "bfs0xjeu",
+    "virus_id": "8b9b2144"
+}

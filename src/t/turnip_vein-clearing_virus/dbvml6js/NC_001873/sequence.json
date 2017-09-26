@@ -1,1 +1,8 @@
-{"_id": "NC_001873", "definition": "Turnip vein-clearing virus, complete genome", "molecule_structure": "linear", "host": "Brassica rapa", "isolate_id": "dbvml6js", "virus_id": "e2a1d19a"}
+{
+    "_id": "NC_001873",
+    "definition": "Turnip vein-clearing virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Brassica rapa",
+    "isolate_id": "dbvml6js",
+    "virus_id": "e2a1d19a"
+}

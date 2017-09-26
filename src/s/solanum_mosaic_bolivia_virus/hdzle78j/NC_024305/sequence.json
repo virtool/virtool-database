@@ -1,1 +1,9 @@
-{"_id": "NC_024305", "_version": 0, "definition": "Solanum mosaic Bolivia virus segment DNA-B, complete sequence", "molecule_structure": "circular", "isolate_id": "hdzle78j", "host": "Solanum", "virus_id": "b944669b"}
+{
+    "_id": "NC_024305",
+    "_version": 0,
+    "definition": "Solanum mosaic Bolivia virus segment DNA-B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "hdzle78j",
+    "host": "Solanum",
+    "virus_id": "b944669b"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_004655", "_version": 0, "definition": "East African cassava mosaic Zanzibar virus DNA-A, complete genome", "molecule_structure": "circular", "isolate_id": "eba0ufgw", "host": "cassava plant", "virus_id": "b2ff3483"}
+{
+    "_id": "NC_004655",
+    "_version": 0,
+    "definition": "East African cassava mosaic Zanzibar virus DNA-A, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "eba0ufgw",
+    "host": "cassava plant",
+    "virus_id": "b2ff3483"
+}

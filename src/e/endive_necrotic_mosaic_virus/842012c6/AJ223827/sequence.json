@@ -1,1 +1,7 @@
-{"_id": "AJ223827", "definition": "Endive necrotic mosaic virus, genomic RNA for coat protein.", "host": "endive origin Frankfurt area", "isolate_id": "842012c6", "virus_id": "6f027cc4"}
+{
+    "_id": "AJ223827",
+    "definition": "Endive necrotic mosaic virus, genomic RNA for coat protein.",
+    "host": "endive origin Frankfurt area",
+    "isolate_id": "842012c6",
+    "virus_id": "6f027cc4"
+}

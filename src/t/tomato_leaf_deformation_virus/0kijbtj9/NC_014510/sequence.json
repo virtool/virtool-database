@@ -1,1 +1,7 @@
-{"_id": "NC_014510", "definition": "Tomato leaf deformation virus DNA-A, complete genome.", "host": "Solanum lycopersicum", "isolate_id": "0kijbtj9", "virus_id": "cd437aed"}
+{
+    "_id": "NC_014510",
+    "definition": "Tomato leaf deformation virus DNA-A, complete genome.",
+    "host": "Solanum lycopersicum",
+    "isolate_id": "0kijbtj9",
+    "virus_id": "cd437aed"
+}

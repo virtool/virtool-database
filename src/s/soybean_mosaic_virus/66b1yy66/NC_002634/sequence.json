@@ -1,1 +1,8 @@
-{"_id": "NC_002634", "definition": "Soybean mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "66b1yy66", "virus_id": "6879ab2e"}
+{
+    "_id": "NC_002634",
+    "definition": "Soybean mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "66b1yy66",
+    "virus_id": "6879ab2e"
+}

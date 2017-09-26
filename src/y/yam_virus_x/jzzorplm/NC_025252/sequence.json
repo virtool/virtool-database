@@ -1,1 +1,8 @@
-{"_id": "NC_025252", "definition": "Yam virus X isolate T551, complete genome", "molecule_structure": "linear", "host": "Dioscorea trifida", "isolate_id": "jzzorplm", "virus_id": "e9d25d87"}
+{
+    "_id": "NC_025252",
+    "definition": "Yam virus X isolate T551, complete genome",
+    "molecule_structure": "linear",
+    "host": "Dioscorea trifida",
+    "isolate_id": "jzzorplm",
+    "virus_id": "e9d25d87"
+}

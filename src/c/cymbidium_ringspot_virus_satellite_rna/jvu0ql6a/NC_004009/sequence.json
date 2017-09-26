@@ -1,1 +1,8 @@
-{"_id": "NC_004009", "definition": "Cymbidium ringspot virus satellite RNA, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "jvu0ql6a", "virus_id": "bad532a4"}
+{
+    "_id": "NC_004009",
+    "definition": "Cymbidium ringspot virus satellite RNA, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "jvu0ql6a",
+    "virus_id": "bad532a4"
+}

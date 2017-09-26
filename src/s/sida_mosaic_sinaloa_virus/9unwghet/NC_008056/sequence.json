@@ -1,1 +1,9 @@
-{"_id": "NC_008056", "_version": 0, "definition": "Sida mosaic Sinaloa virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "9unwghet", "host": null, "virus_id": "91f8479c"}
+{
+    "_id": "NC_008056",
+    "_version": 0,
+    "definition": "Sida mosaic Sinaloa virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "9unwghet",
+    "host": null,
+    "virus_id": "91f8479c"
+}

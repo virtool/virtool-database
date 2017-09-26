@@ -1,1 +1,8 @@
-{"_id": "NC_004452", "definition": "Beet black scorch virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "mc1np2ua", "virus_id": "5a33e462"}
+{
+    "_id": "NC_004452",
+    "definition": "Beet black scorch virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "mc1np2ua",
+    "virus_id": "5a33e462"
+}

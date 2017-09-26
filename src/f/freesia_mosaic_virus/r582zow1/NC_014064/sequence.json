@@ -1,1 +1,8 @@
-{"_id": "NC_014064", "definition": "Freesia mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "r582zow1", "virus_id": "44e952f7"}
+{
+    "_id": "NC_014064",
+    "definition": "Freesia mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "r582zow1",
+    "virus_id": "44e952f7"
+}

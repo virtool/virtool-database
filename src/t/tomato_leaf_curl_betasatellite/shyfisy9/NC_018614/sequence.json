@@ -1,1 +1,7 @@
-{"_id": "NC_018614", "definition": "Tomato leaf curl Hajipur betasatellite clone HJP09, complete sequence.", "host": "tomato", "isolate_id": "shyfisy9", "virus_id": "397fe1d9"}
+{
+    "_id": "NC_018614",
+    "definition": "Tomato leaf curl Hajipur betasatellite clone HJP09, complete sequence.",
+    "host": "tomato",
+    "isolate_id": "shyfisy9",
+    "virus_id": "397fe1d9"
+}

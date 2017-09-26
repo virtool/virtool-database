@@ -1,1 +1,9 @@
-{"_id": "NC_013219", "_version": 0, "definition": "Turnip ringspot virus RNA 2, complete genome", "molecule_structure": "linear", "isolate_id": "iouen0j3", "host": null, "virus_id": "1042e8f8"}
+{
+    "_id": "NC_013219",
+    "_version": 0,
+    "definition": "Turnip ringspot virus RNA 2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "iouen0j3",
+    "host": null,
+    "virus_id": "1042e8f8"
+}

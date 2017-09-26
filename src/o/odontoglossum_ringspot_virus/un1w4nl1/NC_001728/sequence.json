@@ -1,1 +1,8 @@
-{"_id": "NC_001728", "definition": "Odontoglossum ringspot virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "un1w4nl1", "virus_id": "e8487ae1"}
+{
+    "_id": "NC_001728",
+    "definition": "Odontoglossum ringspot virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "un1w4nl1",
+    "virus_id": "e8487ae1"
+}

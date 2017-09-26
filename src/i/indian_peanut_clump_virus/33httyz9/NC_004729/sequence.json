@@ -1,1 +1,9 @@
-{"_id": "NC_004729", "_version": 0, "definition": "Indian peanut clump virus RNA 1, complete sequence", "molecule_structure": "linear", "isolate_id": "33httyz9", "host": "Groundnut", "virus_id": "b15f4cfb"}
+{
+    "_id": "NC_004729",
+    "_version": 0,
+    "definition": "Indian peanut clump virus RNA 1, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "33httyz9",
+    "host": "Groundnut",
+    "virus_id": "b15f4cfb"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_019412", "definition": "Yam mild mosaic virus from Brazil, complete genome", "molecule_structure": "linear", "host": "Dioscorea trifida", "isolate_id": "hfhyp5ot", "virus_id": "4e65845c"}
+{
+    "_id": "NC_019412",
+    "definition": "Yam mild mosaic virus from Brazil, complete genome",
+    "molecule_structure": "linear",
+    "host": "Dioscorea trifida",
+    "isolate_id": "hfhyp5ot",
+    "virus_id": "4e65845c"
+}

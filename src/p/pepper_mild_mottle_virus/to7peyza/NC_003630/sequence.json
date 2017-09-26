@@ -1,1 +1,8 @@
-{"_id": "NC_003630", "definition": "Pepper mild mottle virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "to7peyza", "virus_id": "c86437c7"}
+{
+    "_id": "NC_003630",
+    "definition": "Pepper mild mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "to7peyza",
+    "virus_id": "c86437c7"
+}

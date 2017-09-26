@@ -1,1 +1,9 @@
-{"_id": "NC_001508", "_version": 0, "definition": "Tomato golden mosaic virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "wz3wlats", "host": null, "virus_id": "79d8c5f9"}
+{
+    "_id": "NC_001508",
+    "_version": 0,
+    "definition": "Tomato golden mosaic virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "wz3wlats",
+    "host": null,
+    "virus_id": "79d8c5f9"
+}

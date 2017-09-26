@@ -1,1 +1,9 @@
-{"_id": "NC_010647", "_version": 0, "definition": "Macroptilium yellow mosaic virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "alf8im94", "host": "Macroptilium lathyroides", "virus_id": "d16fafc9"}
+{
+    "_id": "NC_010647",
+    "_version": 0,
+    "definition": "Macroptilium yellow mosaic virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "alf8im94",
+    "host": "Macroptilium lathyroides",
+    "virus_id": "d16fafc9"
+}

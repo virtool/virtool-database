@@ -1,1 +1,9 @@
-{"_id": "NC_009646", "_version": 0, "definition": "Corchorus golden mosaic virus DNA-B, complete sequence", "molecule_structure": "circular", "isolate_id": "eiwko9wj", "host": "jute mallow (Corchorus capsularis)", "virus_id": "096bec4e"}
+{
+    "_id": "NC_009646",
+    "_version": 0,
+    "definition": "Corchorus golden mosaic virus DNA-B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "eiwko9wj",
+    "host": "jute mallow (Corchorus capsularis)",
+    "virus_id": "096bec4e"
+}

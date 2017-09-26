@@ -1,1 +1,8 @@
-{"_id": "NC_012484", "definition": "Grapevine Syrah Virus-1, complete genome", "molecule_structure": "linear", "host": "Vitis vinifera cv. Syrah (grapevine)", "isolate_id": "rnvu77qm", "virus_id": "4114ebff"}
+{
+    "_id": "NC_012484",
+    "definition": "Grapevine Syrah Virus-1, complete genome",
+    "molecule_structure": "linear",
+    "host": "Vitis vinifera cv. Syrah (grapevine)",
+    "isolate_id": "rnvu77qm",
+    "virus_id": "4114ebff"
+}

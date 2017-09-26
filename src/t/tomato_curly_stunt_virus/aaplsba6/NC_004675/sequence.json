@@ -1,1 +1,8 @@
-{"_id": "NC_004675", "definition": "Tomato curly stunt virus, complete genome", "molecule_structure": "circular", "host": null, "isolate_id": "aaplsba6", "virus_id": "910bc2b4"}
+{
+    "_id": "NC_004675",
+    "definition": "Tomato curly stunt virus, complete genome",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "aaplsba6",
+    "virus_id": "910bc2b4"
+}

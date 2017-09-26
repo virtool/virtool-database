@@ -1,1 +1,7 @@
-{"_id": "EF442668", "definition": "Alternanthera mild mosaic virus polyprotein gene, partial cds.", "host": "Alternanthera tenella Colla", "isolate_id": "25632dd6", "virus_id": "f0a490c6"}
+{
+    "_id": "EF442668",
+    "definition": "Alternanthera mild mosaic virus polyprotein gene, partial cds.",
+    "host": "Alternanthera tenella Colla",
+    "isolate_id": "25632dd6",
+    "virus_id": "f0a490c6"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_004810", "_version": 0, "definition": "Cucurbit yellow stunting disorder virus RNA2, complete genome", "molecule_structure": "linear", "isolate_id": "2p0oac99", "host": "melon", "virus_id": "4bada966"}
+{
+    "_id": "NC_004810",
+    "_version": 0,
+    "definition": "Cucurbit yellow stunting disorder virus RNA2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "2p0oac99",
+    "host": "melon",
+    "virus_id": "4bada966"
+}

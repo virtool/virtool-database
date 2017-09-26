@@ -1,1 +1,8 @@
-{"_id": "NC_001265", "definition": "Carnation mottle virus (CarMV) complete genomic RNA sequence", "molecule_structure": "linear", "host": null, "isolate_id": "1qn4ykr2", "virus_id": "3c9dc3e3"}
+{
+    "_id": "NC_001265",
+    "definition": "Carnation mottle virus (CarMV) complete genomic RNA sequence",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "1qn4ykr2",
+    "virus_id": "3c9dc3e3"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_015524", "definition": "Bombyx mori Macula-like virus, complete genome", "molecule_structure": "linear", "host": "Bombyx mori", "isolate_id": "urf5cf3m", "virus_id": "7517cd9a"}
+{
+    "_id": "NC_015524",
+    "definition": "Bombyx mori Macula-like virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Bombyx mori",
+    "isolate_id": "urf5cf3m",
+    "virus_id": "7517cd9a"
+}

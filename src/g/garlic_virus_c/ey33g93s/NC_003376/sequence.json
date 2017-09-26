@@ -1,1 +1,8 @@
-{"_id": "NC_003376", "definition": "Garlic virus C, complete genome", "molecule_structure": "linear", "host": "Allium sativum", "isolate_id": "ey33g93s", "virus_id": "1d365dc4"}
+{
+    "_id": "NC_003376",
+    "definition": "Garlic virus C, complete genome",
+    "molecule_structure": "linear",
+    "host": "Allium sativum",
+    "isolate_id": "ey33g93s",
+    "virus_id": "1d365dc4"
+}

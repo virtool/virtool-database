@@ -1,1 +1,9 @@
-{"_id": "NC_002984", "_version": 0, "definition": "Cucurbit leaf crumple virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "ud69iyk4", "host": null, "virus_id": "3b20e057"}
+{
+    "_id": "NC_002984",
+    "_version": 0,
+    "definition": "Cucurbit leaf crumple virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "ud69iyk4",
+    "host": null,
+    "virus_id": "3b20e057"
+}

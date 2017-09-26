@@ -1,1 +1,7 @@
-{"_id": "15AH014_RYNV_partial", "definition": "Rufus yellow net virus. almost complete", "host": "rubs", "isolate_id": "475940dd", "virus_id": "b9a6d886"}
+{
+    "_id": "15AH014_RYNV_partial",
+    "definition": "Rufus yellow net virus. almost complete",
+    "host": "rubs",
+    "isolate_id": "475940dd",
+    "virus_id": "b9a6d886"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_007966", "_version": 0, "definition": "Merremia mosaic virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "hh2f85pa", "host": null, "virus_id": "e574ad7e"}
+{
+    "_id": "NC_007966",
+    "_version": 0,
+    "definition": "Merremia mosaic virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "hh2f85pa",
+    "host": null,
+    "virus_id": "e574ad7e"
+}

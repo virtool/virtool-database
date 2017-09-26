@@ -1,1 +1,8 @@
-{"_id": "NC_012728", "definition": "Sweetpotato badnavirus B, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "un2lppid", "virus_id": "9222efcb"}
+{
+    "_id": "NC_012728",
+    "definition": "Sweetpotato badnavirus B, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "un2lppid",
+    "virus_id": "9222efcb"
+}

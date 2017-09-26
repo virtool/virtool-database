@@ -1,1 +1,8 @@
-{"_id": "NC_003847", "definition": "Panicum mosaic satellite virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "6d7bltr9", "virus_id": "e7de5b86"}
+{
+    "_id": "NC_003847",
+    "definition": "Panicum mosaic satellite virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "6d7bltr9",
+    "virus_id": "e7de5b86"
+}

@@ -1,1 +1,7 @@
-{"_id": "KP114220", "definition": "Grapevine virus F isolate V5, complete genome.", "host": "Vitis vinifera cv. Chenin blanc", "isolate_id": "82xyjeam", "virus_id": "6a15a795"}
+{
+    "_id": "KP114220",
+    "definition": "Grapevine virus F isolate V5, complete genome.",
+    "host": "Vitis vinifera cv. Chenin blanc",
+    "isolate_id": "82xyjeam",
+    "virus_id": "6a15a795"
+}

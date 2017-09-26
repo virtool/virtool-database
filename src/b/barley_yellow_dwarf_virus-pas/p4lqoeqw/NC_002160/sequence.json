@@ -1,1 +1,8 @@
-{"_id": "NC_002160", "definition": "Barley yellow dwarf virus-PAS, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "p4lqoeqw", "virus_id": "7c77d883"}
+{
+    "_id": "NC_002160",
+    "definition": "Barley yellow dwarf virus-PAS, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "p4lqoeqw",
+    "virus_id": "7c77d883"
+}

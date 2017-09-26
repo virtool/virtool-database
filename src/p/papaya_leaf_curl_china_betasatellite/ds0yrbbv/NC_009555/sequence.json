@@ -1,1 +1,8 @@
-{"_id": "NC_009555", "definition": "Papaya leaf curl China virus satellite DNA beta, complete genome", "molecule_structure": "circular", "host": "tobacco (Nicotiana tabacum, Solanaceae); crop", "isolate_id": "ds0yrbbv", "virus_id": "3a59b6f8"}
+{
+    "_id": "NC_009555",
+    "definition": "Papaya leaf curl China virus satellite DNA beta, complete genome",
+    "molecule_structure": "circular",
+    "host": "tobacco (Nicotiana tabacum, Solanaceae); crop",
+    "isolate_id": "ds0yrbbv",
+    "virus_id": "3a59b6f8"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_023160", "_version": 0, "definition": "Pea necrotic yellow dwarf virus segment DNA-U1, complete sequence", "molecule_structure": "circular", "isolate_id": "trdiolou", "host": "Pisum sativum", "virus_id": "e8498c68"}
+{
+    "_id": "NC_023160",
+    "_version": 0,
+    "definition": "Pea necrotic yellow dwarf virus segment DNA-U1, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "trdiolou",
+    "host": "Pisum sativum",
+    "virus_id": "e8498c68"
+}

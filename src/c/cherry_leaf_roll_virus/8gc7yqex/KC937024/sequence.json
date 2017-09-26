@@ -1,1 +1,7 @@
-{"_id": "KC937024", "definition": "Cherry leaf roll virus isolate 737 segment RNA1, complete sequence.", "host": "Rumex obtusifolius", "isolate_id": "8gc7yqex", "virus_id": "aa86c402"}
+{
+    "_id": "KC937024",
+    "definition": "Cherry leaf roll virus isolate 737 segment RNA1, complete sequence.",
+    "host": "Rumex obtusifolius",
+    "isolate_id": "8gc7yqex",
+    "virus_id": "aa86c402"
+}

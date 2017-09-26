@@ -1,1 +1,7 @@
-{"_id": "HQ650560", "definition": "Pepino mosaic virus isolate P22, complete genome.", "host": "Solanum lycopersicum", "isolate_id": "d7uwcacq", "virus_id": "be3b9938"}
+{
+    "_id": "HQ650560",
+    "definition": "Pepino mosaic virus isolate P22, complete genome.",
+    "host": "Solanum lycopersicum",
+    "isolate_id": "d7uwcacq",
+    "virus_id": "be3b9938"
+}

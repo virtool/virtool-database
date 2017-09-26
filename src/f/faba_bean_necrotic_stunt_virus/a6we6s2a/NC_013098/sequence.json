@@ -1,1 +1,9 @@
-{"_id": "NC_013098", "_version": 0, "definition": "Faba bean necrotic stunt virus DNA N, complete genome", "molecule_structure": "circular", "isolate_id": "a6we6s2a", "host": "Vicia faba", "virus_id": "1545f6ba"}
+{
+    "_id": "NC_013098",
+    "_version": 0,
+    "definition": "Faba bean necrotic stunt virus DNA N, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "a6we6s2a",
+    "host": "Vicia faba",
+    "virus_id": "1545f6ba"
+}

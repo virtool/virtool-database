@@ -1,1 +1,9 @@
-{"_id": "NC_003865", "_version": 0, "definition": "Melon chlorotic leaf curl virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "lomjzs79", "host": "Cucurbita sp.", "virus_id": "9763b7a3"}
+{
+    "_id": "NC_003865",
+    "_version": 0,
+    "definition": "Melon chlorotic leaf curl virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "lomjzs79",
+    "host": "Cucurbita sp.",
+    "virus_id": "9763b7a3"
+}

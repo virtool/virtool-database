@@ -1,1 +1,9 @@
-{"_id": "NC_014630", "_version": 0, "definition": "Euphorbia mosaic virus associated DNA 1, complete genome", "molecule_structure": "circular", "isolate_id": "7su17apv", "host": "Cleome affinis", "virus_id": "2cd2c0fc"}
+{
+    "_id": "NC_014630",
+    "_version": 0,
+    "definition": "Euphorbia mosaic virus associated DNA 1, complete genome",
+    "molecule_structure": "circular",
+    "isolate_id": "7su17apv",
+    "host": "Cleome affinis",
+    "virus_id": "2cd2c0fc"
+}

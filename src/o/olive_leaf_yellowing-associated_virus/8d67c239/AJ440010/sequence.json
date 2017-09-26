@@ -1,1 +1,7 @@
-{"_id": "AJ440010", "definition": "Olive leaf yellowing associated virus partial RdRp gene, ORF 1-3 and partial ORF4, genomic RNA.", "host": "Olea europea", "isolate_id": "8d67c239", "virus_id": "a5627f11"}
+{
+    "_id": "AJ440010",
+    "definition": "Olive leaf yellowing associated virus partial RdRp gene, ORF 1-3 and partial ORF4, genomic RNA.",
+    "host": "Olea europea",
+    "isolate_id": "8d67c239",
+    "virus_id": "a5627f11"
+}

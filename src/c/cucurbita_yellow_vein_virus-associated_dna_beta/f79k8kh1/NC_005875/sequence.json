@@ -1,1 +1,8 @@
-{"_id": "NC_005875", "definition": "Cucurbita yellow vein virus-associated DNA beta, complete genome", "molecule_structure": "circular", "host": "Cucurbita", "isolate_id": "f79k8kh1", "virus_id": "fe6097ef"}
+{
+    "_id": "NC_005875",
+    "definition": "Cucurbita yellow vein virus-associated DNA beta, complete genome",
+    "molecule_structure": "circular",
+    "host": "Cucurbita",
+    "isolate_id": "f79k8kh1",
+    "virus_id": "fe6097ef"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_007242", "_version": 0, "definition": "Vicia cryptic virus RNA2, complete genome", "molecule_structure": "linear", "isolate_id": "lrpvtlhr", "host": "Vicia faba cv. Divine", "virus_id": "7eb6987e"}
+{
+    "_id": "NC_007242",
+    "_version": 0,
+    "definition": "Vicia cryptic virus RNA2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "lrpvtlhr",
+    "host": "Vicia faba cv. Divine",
+    "virus_id": "7eb6987e"
+}

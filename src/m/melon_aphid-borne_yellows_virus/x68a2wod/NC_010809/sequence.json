@@ -1,1 +1,8 @@
-{"_id": "NC_010809", "definition": "Melon aphid-borne yellows virus, complete genome", "molecule_structure": "linear", "host": "Benincasa hispida", "isolate_id": "x68a2wod", "virus_id": "c17f395a"}
+{
+    "_id": "NC_010809",
+    "definition": "Melon aphid-borne yellows virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Benincasa hispida",
+    "isolate_id": "x68a2wod",
+    "virus_id": "c17f395a"
+}

@@ -1,1 +1,7 @@
-{"_id": "JX866667", "definition": "Pepino mosaic virus isolate VFTX12-19, complete genome.", "host": "Solanum lycopersicum", "isolate_id": "y14v7uif", "virus_id": "be3b9938"}
+{
+    "_id": "JX866667",
+    "definition": "Pepino mosaic virus isolate VFTX12-19, complete genome.",
+    "host": "Solanum lycopersicum",
+    "isolate_id": "y14v7uif",
+    "virus_id": "be3b9938"
+}

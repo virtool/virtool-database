@@ -1,1 +1,8 @@
-{"_id": "NC_005286", "definition": "Pelargonium flower break virus, complete genome", "molecule_structure": "linear", "host": "Pelargonium zonale", "isolate_id": "yyh9073p", "virus_id": "dfa9c5c7"}
+{
+    "_id": "NC_005286",
+    "definition": "Pelargonium flower break virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Pelargonium zonale",
+    "isolate_id": "yyh9073p",
+    "virus_id": "dfa9c5c7"
+}

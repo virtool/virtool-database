@@ -1,1 +1,8 @@
-{"_id": "NC_023851", "definition": "Niminivirus isolate NimiV, complete genome", "molecule_structure": "circular", "host": null, "isolate_id": "1aiehm33", "virus_id": "a6d81bee"}
+{
+    "_id": "NC_023851",
+    "definition": "Niminivirus isolate NimiV, complete genome",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "1aiehm33",
+    "virus_id": "a6d81bee"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_020073", "definition": "Moroccan pepper virus isolate MPV-PM75, complete genome", "molecule_structure": "linear", "host": "pepper", "isolate_id": "zrhhfoy4", "virus_id": "955e3d65"}
+{
+    "_id": "NC_020073",
+    "definition": "Moroccan pepper virus isolate MPV-PM75, complete genome",
+    "molecule_structure": "linear",
+    "host": "pepper",
+    "isolate_id": "zrhhfoy4",
+    "virus_id": "955e3d65"
+}

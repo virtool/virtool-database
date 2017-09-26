@@ -1,1 +1,7 @@
-{"_id": "16GVP031_GAMaV", "definition": "Grapevine asteroid mosaic associated virus, complete genome", "host": "vitis", "isolate_id": "bf1f1e36", "virus_id": "4cd4a420"}
+{
+    "_id": "16GVP031_GAMaV",
+    "definition": "Grapevine asteroid mosaic associated virus, complete genome",
+    "host": "vitis",
+    "isolate_id": "bf1f1e36",
+    "virus_id": "4cd4a420"
+}

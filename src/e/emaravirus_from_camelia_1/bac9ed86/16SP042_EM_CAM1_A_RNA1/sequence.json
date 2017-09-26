@@ -1,1 +1,7 @@
-{"_id": "16SP042_EM_CAM1_A_RNA1", "definition": "Emaravirus RNA1, complete sequence", "host": "Camelia", "isolate_id": "bac9ed86", "virus_id": "459a6c2a"}
+{
+    "_id": "16SP042_EM_CAM1_A_RNA1",
+    "definition": "Emaravirus RNA1, complete sequence",
+    "host": "Camelia",
+    "isolate_id": "bac9ed86",
+    "virus_id": "459a6c2a"
+}

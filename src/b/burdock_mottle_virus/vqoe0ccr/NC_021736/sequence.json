@@ -1,1 +1,9 @@
-{"_id": "NC_021736", "_version": 0, "definition": "Burdock mottle virus genomic RNA, RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "vqoe0ccr", "host": "Arctium lappa", "virus_id": "f33c5e79"}
+{
+    "_id": "NC_021736",
+    "_version": 0,
+    "definition": "Burdock mottle virus genomic RNA, RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "vqoe0ccr",
+    "host": "Arctium lappa",
+    "virus_id": "f33c5e79"
+}

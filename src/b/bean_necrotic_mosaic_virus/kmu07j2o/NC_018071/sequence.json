@@ -1,1 +1,9 @@
-{"_id": "NC_018071", "_version": 0, "definition": "Bean necrotic mosaic virus segment S, complete sequence", "molecule_structure": "linear", "isolate_id": "kmu07j2o", "host": "Phaseolus vulgaris", "virus_id": "2c09fc8c"}
+{
+    "_id": "NC_018071",
+    "_version": 0,
+    "definition": "Bean necrotic mosaic virus segment S, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "kmu07j2o",
+    "host": "Phaseolus vulgaris",
+    "virus_id": "2c09fc8c"
+}

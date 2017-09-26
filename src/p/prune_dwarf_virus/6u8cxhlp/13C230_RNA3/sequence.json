@@ -1,1 +1,7 @@
-{"_id": "13C230_RNA3", "definition": "Prune dwarf virus RNA3", "host": "", "isolate_id": "6u8cxhlp", "virus_id": "0d400637"}
+{
+    "_id": "13C230_RNA3",
+    "definition": "Prune dwarf virus RNA3",
+    "host": "",
+    "isolate_id": "6u8cxhlp",
+    "virus_id": "0d400637"
+}

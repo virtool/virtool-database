@@ -1,1 +1,9 @@
-{"_id": "NC_013105", "_version": 0, "definition": "European mountain ash ringspot-associated virus RNA 1, complete", "molecule_structure": "linear", "isolate_id": "0l0v4zbl", "host": "Sorbus aucuparia L.", "virus_id": "596bea7e"}
+{
+    "_id": "NC_013105",
+    "_version": 0,
+    "definition": "European mountain ash ringspot-associated virus RNA 1, complete",
+    "molecule_structure": "linear",
+    "isolate_id": "0l0v4zbl",
+    "host": "Sorbus aucuparia L.",
+    "virus_id": "596bea7e"
+}

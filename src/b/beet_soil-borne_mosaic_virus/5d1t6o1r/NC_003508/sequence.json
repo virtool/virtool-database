@@ -1,1 +1,9 @@
-{"_id": "NC_003508", "_version": 0, "definition": "Beet soil-borne mosaic virus RNA4, complete genome", "molecule_structure": "linear", "isolate_id": "5d1t6o1r", "host": null, "virus_id": "b98016ed"}
+{
+    "_id": "NC_003508",
+    "_version": 0,
+    "definition": "Beet soil-borne mosaic virus RNA4, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "5d1t6o1r",
+    "host": null,
+    "virus_id": "b98016ed"
+}

@@ -1,1 +1,7 @@
-{"_id": "DQ143875", "definition": "Stocky prune virus segment RNA-2 polyprotein gene, partial cds.", "host": "", "isolate_id": "z7ujh2b8", "virus_id": "fa5ae08e"}
+{
+    "_id": "DQ143875",
+    "definition": "Stocky prune virus segment RNA-2 polyprotein gene, partial cds.",
+    "host": "",
+    "isolate_id": "z7ujh2b8",
+    "virus_id": "fa5ae08e"
+}

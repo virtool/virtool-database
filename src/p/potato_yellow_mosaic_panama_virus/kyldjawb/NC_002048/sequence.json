@@ -1,1 +1,9 @@
-{"_id": "NC_002048", "_version": 0, "definition": "Potato yellow mosaic Panama virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "kyldjawb", "host": null, "virus_id": "d1262011"}
+{
+    "_id": "NC_002048",
+    "_version": 0,
+    "definition": "Potato yellow mosaic Panama virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "kyldjawb",
+    "host": null,
+    "virus_id": "d1262011"
+}

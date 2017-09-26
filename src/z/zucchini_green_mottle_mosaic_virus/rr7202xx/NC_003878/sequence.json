@@ -1,1 +1,8 @@
-{"_id": "NC_003878", "definition": "Zucchini green mottle mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "rr7202xx", "virus_id": "b4196696"}
+{
+    "_id": "NC_003878",
+    "definition": "Zucchini green mottle mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "rr7202xx",
+    "virus_id": "b4196696"
+}

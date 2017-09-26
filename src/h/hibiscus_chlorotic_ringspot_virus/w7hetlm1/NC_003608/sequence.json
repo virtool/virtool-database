@@ -1,1 +1,8 @@
-{"_id": "NC_003608", "definition": "Hibiscus chlorotic ringspot virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "w7hetlm1", "virus_id": "0716c1e1"}
+{
+    "_id": "NC_003608",
+    "definition": "Hibiscus chlorotic ringspot virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "w7hetlm1",
+    "virus_id": "0716c1e1"
+}

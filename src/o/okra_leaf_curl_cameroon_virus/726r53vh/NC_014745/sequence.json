@@ -1,1 +1,8 @@
-{"_id": "NC_014745", "definition": "Okra leaf curl Cameroon virus, complete genome", "molecule_structure": "circular", "host": null, "isolate_id": "726r53vh", "virus_id": "1555a33b"}
+{
+    "_id": "NC_014745",
+    "definition": "Okra leaf curl Cameroon virus, complete genome",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "726r53vh",
+    "virus_id": "1555a33b"
+}

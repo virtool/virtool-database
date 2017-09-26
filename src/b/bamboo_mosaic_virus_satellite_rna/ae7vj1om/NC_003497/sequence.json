@@ -1,1 +1,8 @@
-{"_id": "NC_003497", "definition": "Bamboo mosaic virus satellite RNA, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "ae7vj1om", "virus_id": "c6c4253d"}
+{
+    "_id": "NC_003497",
+    "definition": "Bamboo mosaic virus satellite RNA, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "ae7vj1om",
+    "virus_id": "c6c4253d"
+}

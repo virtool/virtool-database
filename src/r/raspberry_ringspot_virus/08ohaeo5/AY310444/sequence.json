@@ -1,1 +1,7 @@
-{"_id": "AY310444", "definition": "Raspberry ringspot virus grapevine strain RNA 1 complete sequence.", "host": "", "isolate_id": "08ohaeo5", "virus_id": "9fe2f60d"}
+{
+    "_id": "AY310444",
+    "definition": "Raspberry ringspot virus grapevine strain RNA 1 complete sequence.",
+    "host": "",
+    "isolate_id": "08ohaeo5",
+    "virus_id": "9fe2f60d"
+}

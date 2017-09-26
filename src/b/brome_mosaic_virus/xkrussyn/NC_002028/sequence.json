@@ -1,1 +1,9 @@
-{"_id": "NC_002028", "_version": 0, "definition": "Brome mosaic virus RNA 3, complete sequence", "molecule_structure": "linear", "isolate_id": "xkrussyn", "host": null, "virus_id": "367baeab"}
+{
+    "_id": "NC_002028",
+    "_version": 0,
+    "definition": "Brome mosaic virus RNA 3, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "xkrussyn",
+    "host": null,
+    "virus_id": "367baeab"
+}

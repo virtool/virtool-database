@@ -1,1 +1,8 @@
-{"_id": "NC_025681", "definition": "Sweet potato leaf curl Sao Paulo virus isolate", "molecule_structure": "circular", "host": "Ipomoea batatas", "isolate_id": "v8ck22y4", "virus_id": "6412fab1"}
+{
+    "_id": "NC_025681",
+    "definition": "Sweet potato leaf curl Sao Paulo virus isolate",
+    "molecule_structure": "circular",
+    "host": "Ipomoea batatas",
+    "isolate_id": "v8ck22y4",
+    "virus_id": "6412fab1"
+}

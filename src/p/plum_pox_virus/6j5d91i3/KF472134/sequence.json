@@ -1,1 +1,7 @@
-{"_id": "KF472134", "definition": "Plum pox virus strain Rec, complete genome.", "host": "Prunus cerasifera", "isolate_id": "6j5d91i3", "virus_id": "b74b73ea"}
+{
+    "_id": "KF472134",
+    "definition": "Plum pox virus strain Rec, complete genome.",
+    "host": "Prunus cerasifera",
+    "isolate_id": "6j5d91i3",
+    "virus_id": "b74b73ea"
+}

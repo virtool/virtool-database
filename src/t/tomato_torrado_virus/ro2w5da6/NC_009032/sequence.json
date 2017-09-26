@@ -1,1 +1,9 @@
-{"_id": "NC_009032", "_version": 0, "definition": "Tomato torrado virus RNA2, complete sequence", "molecule_structure": "linear", "isolate_id": "ro2w5da6", "host": null, "virus_id": "b55cd4e3"}
+{
+    "_id": "NC_009032",
+    "_version": 0,
+    "definition": "Tomato torrado virus RNA2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "ro2w5da6",
+    "host": null,
+    "virus_id": "b55cd4e3"
+}

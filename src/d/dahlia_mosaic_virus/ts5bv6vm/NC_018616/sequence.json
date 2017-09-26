@@ -1,1 +1,8 @@
-{"_id": "NC_018616", "definition": "Dahlia mosaic virus clone pDaMV-p2, complete genome", "molecule_structure": "circular", "host": "Dahlia variabilis", "isolate_id": "ts5bv6vm", "virus_id": "b2198bc3"}
+{
+    "_id": "NC_018616",
+    "definition": "Dahlia mosaic virus clone pDaMV-p2, complete genome",
+    "molecule_structure": "circular",
+    "host": "Dahlia variabilis",
+    "isolate_id": "ts5bv6vm",
+    "virus_id": "b2198bc3"
+}

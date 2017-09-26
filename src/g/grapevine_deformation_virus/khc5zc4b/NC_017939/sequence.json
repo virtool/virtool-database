@@ -1,1 +1,9 @@
-{"_id": "NC_017939", "_version": 0, "definition": "Grapevine deformation virus RNA1, complete genome", "molecule_structure": "linear", "isolate_id": "khc5zc4b", "host": "Vitis vinifera, cultivar Dimrit", "virus_id": "fc4a329d"}
+{
+    "_id": "NC_017939",
+    "_version": 0,
+    "definition": "Grapevine deformation virus RNA1, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "khc5zc4b",
+    "host": "Vitis vinifera, cultivar Dimrit",
+    "virus_id": "fc4a329d"
+}

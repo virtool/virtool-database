@@ -1,1 +1,7 @@
-{"_id": "15RB035", "definition": "Grapevine Red Blotch associated virus, complete genome", "host": "vitis", "isolate_id": "ugmmj5q0", "virus_id": "cbfd9bca"}
+{
+    "_id": "15RB035",
+    "definition": "Grapevine Red Blotch associated virus, complete genome",
+    "host": "vitis",
+    "isolate_id": "ugmmj5q0",
+    "virus_id": "cbfd9bca"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_014906", "definition": "Okra yellow crinkle Cameroon alphasatellite [CM:Lys1sp2:09],", "molecule_structure": "linear", "host": null, "isolate_id": "av66npqg", "virus_id": "f4f05f0f"}
+{
+    "_id": "NC_014906",
+    "definition": "Okra yellow crinkle Cameroon alphasatellite [CM:Lys1sp2:09],",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "av66npqg",
+    "virus_id": "f4f05f0f"
+}

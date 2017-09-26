@@ -1,1 +1,9 @@
-{"_id": "NC_006272", "_version": 0, "definition": "Cherry rasp leaf virus RNA2, complete sequence", "molecule_structure": "linear", "isolate_id": "pbp5lyyb", "host": null, "virus_id": "1691f2ed"}
+{
+    "_id": "NC_006272",
+    "_version": 0,
+    "definition": "Cherry rasp leaf virus RNA2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "pbp5lyyb",
+    "host": null,
+    "virus_id": "1691f2ed"
+}

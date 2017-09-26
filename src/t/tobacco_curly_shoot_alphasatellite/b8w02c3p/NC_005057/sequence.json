@@ -1,1 +1,8 @@
-{"_id": "NC_005057", "definition": "Tobacco curly shoot virus associated DNA 1, complete genome", "molecule_structure": "circular", "host": null, "isolate_id": "b8w02c3p", "virus_id": "6bce52b5"}
+{
+    "_id": "NC_005057",
+    "definition": "Tobacco curly shoot virus associated DNA 1, complete genome",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "b8w02c3p",
+    "virus_id": "6bce52b5"
+}

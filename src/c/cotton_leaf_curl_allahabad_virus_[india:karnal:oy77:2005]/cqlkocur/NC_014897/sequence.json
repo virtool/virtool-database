@@ -1,1 +1,8 @@
-{"_id": "NC_014897", "definition": "Cotton leaf curl Allahabad virus [India:Karnal:OY77:2005] DNA-A,", "molecule_structure": "circular", "host": "Abelmoschus esculentus (okra)", "isolate_id": "cqlkocur", "virus_id": "5967d935"}
+{
+    "_id": "NC_014897",
+    "definition": "Cotton leaf curl Allahabad virus [India:Karnal:OY77:2005] DNA-A,",
+    "molecule_structure": "circular",
+    "host": "Abelmoschus esculentus (okra)",
+    "isolate_id": "cqlkocur",
+    "virus_id": "5967d935"
+}

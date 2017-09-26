@@ -1,1 +1,9 @@
-{"_id": "NC_003531", "_version": 0, "definition": "Carnation ringspot virus RNA 2, complete sequence", "molecule_structure": "linear", "isolate_id": "bme1ei5a", "host": null, "virus_id": "ef1aaa10"}
+{
+    "_id": "NC_003531",
+    "_version": 0,
+    "definition": "Carnation ringspot virus RNA 2, complete sequence",
+    "molecule_structure": "linear",
+    "isolate_id": "bme1ei5a",
+    "host": null,
+    "virus_id": "ef1aaa10"
+}

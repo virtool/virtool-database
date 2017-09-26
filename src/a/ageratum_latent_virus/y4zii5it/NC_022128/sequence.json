@@ -1,1 +1,9 @@
-{"_id": "NC_022128", "_version": 0, "definition": "Ageratum latent virus isolate 1998 segment RNA 2, complete", "molecule_structure": "linear", "isolate_id": "y4zii5it", "host": "Ageratum houstonianum", "virus_id": "3f9928c8"}
+{
+    "_id": "NC_022128",
+    "_version": 0,
+    "definition": "Ageratum latent virus isolate 1998 segment RNA 2, complete",
+    "molecule_structure": "linear",
+    "isolate_id": "y4zii5it",
+    "host": "Ageratum houstonianum",
+    "virus_id": "3f9928c8"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_016044", "definition": "Chilli ringspot virus, complete genome", "molecule_structure": "linear", "host": "chilli", "isolate_id": "ikpq4qgz", "virus_id": "9011df17"}
+{
+    "_id": "NC_016044",
+    "definition": "Chilli ringspot virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "chilli",
+    "isolate_id": "ikpq4qgz",
+    "virus_id": "9011df17"
+}

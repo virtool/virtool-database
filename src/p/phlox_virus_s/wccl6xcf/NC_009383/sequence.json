@@ -1,1 +1,8 @@
-{"_id": "NC_009383", "definition": "Phlox virus S, complete genome", "molecule_structure": "linear", "host": "Phlox stolonifera cv. 'Blue Ridge'", "isolate_id": "wccl6xcf", "virus_id": "d40b7df2"}
+{
+    "_id": "NC_009383",
+    "definition": "Phlox virus S, complete genome",
+    "molecule_structure": "linear",
+    "host": "Phlox stolonifera cv. 'Blue Ridge'",
+    "isolate_id": "wccl6xcf",
+    "virus_id": "d40b7df2"
+}

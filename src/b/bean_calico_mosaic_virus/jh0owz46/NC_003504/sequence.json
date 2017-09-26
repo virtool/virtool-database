@@ -1,1 +1,9 @@
-{"_id": "NC_003504", "_version": 0, "definition": "Bean calico mosaic virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "jh0owz46", "host": null, "virus_id": "edbcabb8"}
+{
+    "_id": "NC_003504",
+    "_version": 0,
+    "definition": "Bean calico mosaic virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "jh0owz46",
+    "host": null,
+    "virus_id": "edbcabb8"
+}

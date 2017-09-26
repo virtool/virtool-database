@@ -1,1 +1,9 @@
-{"_id": "NC_018717", "_version": 0, "definition": "Datura leaf distortion virus isolate Venezuela:Rubio 933:2007", "molecule_structure": "circular", "isolate_id": "h0k62aqh", "host": "Datura stramonium", "virus_id": "3c4a077d"}
+{
+    "_id": "NC_018717",
+    "_version": 0,
+    "definition": "Datura leaf distortion virus isolate Venezuela:Rubio 933:2007",
+    "molecule_structure": "circular",
+    "isolate_id": "h0k62aqh",
+    "host": "Datura stramonium",
+    "virus_id": "3c4a077d"
+}

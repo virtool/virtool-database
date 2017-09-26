@@ -1,1 +1,8 @@
-{"_id": "NC_018448", "definition": "Sweet potato virus C-6, complete genome", "molecule_structure": "linear", "host": "sweet potato", "isolate_id": "0yoq6xrn", "virus_id": "0561569e"}
+{
+    "_id": "NC_018448",
+    "definition": "Sweet potato virus C-6, complete genome",
+    "molecule_structure": "linear",
+    "host": "sweet potato",
+    "isolate_id": "0yoq6xrn",
+    "virus_id": "0561569e"
+}

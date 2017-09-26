@@ -1,1 +1,7 @@
-{"_id": "NC_001464", "definition": "Citrus exocortis viroid, complete genome.", "host": "", "isolate_id": "9h2u3pct", "virus_id": "12c636ca"}
+{
+    "_id": "NC_001464",
+    "definition": "Citrus exocortis viroid, complete genome.",
+    "host": "",
+    "isolate_id": "9h2u3pct",
+    "virus_id": "12c636ca"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_004071", "definition": "Hollyhock leaf crumple virus, complete genome", "molecule_structure": "circular", "host": "hollyhock", "isolate_id": "4hwearmu", "virus_id": "76330708"}
+{
+    "_id": "NC_004071",
+    "definition": "Hollyhock leaf crumple virus, complete genome",
+    "molecule_structure": "circular",
+    "host": "hollyhock",
+    "isolate_id": "4hwearmu",
+    "virus_id": "76330708"
+}

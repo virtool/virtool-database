@@ -1,1 +1,8 @@
-{"_id": "NC_002198", "definition": "Cereal yellow dwarf virus-RPS, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "wxgm7hnk", "virus_id": "64753b9c"}
+{
+    "_id": "NC_002198",
+    "definition": "Cereal yellow dwarf virus-RPS, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "wxgm7hnk",
+    "virus_id": "64753b9c"
+}

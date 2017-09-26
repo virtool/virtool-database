@@ -1,1 +1,8 @@
-{"_id": "NC_023892", "definition": "Gaillardia latent virus isolate 5/18-05-2010, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "ziz5ajx1", "virus_id": "f8a56910"}
+{
+    "_id": "NC_023892",
+    "definition": "Gaillardia latent virus isolate 5/18-05-2010, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "ziz5ajx1",
+    "virus_id": "f8a56910"
+}

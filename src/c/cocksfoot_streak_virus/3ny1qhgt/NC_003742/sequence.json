@@ -1,1 +1,8 @@
-{"_id": "NC_003742", "definition": "Cocksfoot streak virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "3ny1qhgt", "virus_id": "b9af9ad8"}
+{
+    "_id": "NC_003742",
+    "definition": "Cocksfoot streak virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "3ny1qhgt",
+    "virus_id": "b9af9ad8"
+}

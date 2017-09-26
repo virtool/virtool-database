@@ -1,1 +1,8 @@
-{"_id": "NC_005288", "definition": "Lily mottle virus, complete genome", "molecule_structure": "linear", "host": "Lilium sp. cv. Sorbonne", "isolate_id": "ixizgd53", "virus_id": "e08f0552"}
+{
+    "_id": "NC_005288",
+    "definition": "Lily mottle virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Lilium sp. cv. Sorbonne",
+    "isolate_id": "ixizgd53",
+    "virus_id": "e08f0552"
+}

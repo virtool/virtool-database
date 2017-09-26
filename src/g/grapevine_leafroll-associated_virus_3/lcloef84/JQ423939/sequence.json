@@ -1,1 +1,7 @@
-{"_id": "JQ423939", "definition": "Grapevine leafroll-associated virus 3 isolate LN, complete genome.", "host": "Vitis vinifera cv Venus Seedless", "isolate_id": "lcloef84", "virus_id": "73cd8244"}
+{
+    "_id": "JQ423939",
+    "definition": "Grapevine leafroll-associated virus 3 isolate LN, complete genome.",
+    "host": "Vitis vinifera cv Venus Seedless",
+    "isolate_id": "lcloef84",
+    "virus_id": "73cd8244"
+}

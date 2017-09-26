@@ -1,1 +1,8 @@
-{"_id": "NC_014740", "definition": "Chickpea chlorosis virus-A, complete genome", "molecule_structure": "circular", "host": "Cicer arietinum voucher DAR 76857", "isolate_id": "0zs7lznt", "virus_id": "c7a6bdb4"}
+{
+    "_id": "NC_014740",
+    "definition": "Chickpea chlorosis virus-A, complete genome",
+    "molecule_structure": "circular",
+    "host": "Cicer arietinum voucher DAR 76857",
+    "isolate_id": "0zs7lznt",
+    "virus_id": "c7a6bdb4"
+}

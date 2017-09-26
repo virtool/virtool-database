@@ -1,1 +1,9 @@
-{"_id": "NC_004658", "_version": 0, "definition": "Sida golden mosaic Costa Rica virus DNA B, complete sequence", "molecule_structure": "circular", "isolate_id": "y1539er2", "host": null, "virus_id": "29d56f74"}
+{
+    "_id": "NC_004658",
+    "_version": 0,
+    "definition": "Sida golden mosaic Costa Rica virus DNA B, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "y1539er2",
+    "host": null,
+    "virus_id": "29d56f74"
+}

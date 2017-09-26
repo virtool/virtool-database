@@ -1,1 +1,9 @@
-{"_id": "NC_011557", "_version": 0, "definition": "Beet cryptic virus 1 RNA 2, complete genome", "molecule_structure": "linear", "isolate_id": "dbrxftrr", "host": "Beta vulgaris cv. Mars", "virus_id": "03e6d91a"}
+{
+    "_id": "NC_011557",
+    "_version": 0,
+    "definition": "Beet cryptic virus 1 RNA 2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "dbrxftrr",
+    "host": "Beta vulgaris cv. Mars",
+    "virus_id": "03e6d91a"
+}

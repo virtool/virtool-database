@@ -1,1 +1,8 @@
-{"_id": "NC_010569", "definition": "Ludwigia leaf distortion betasatellite", "molecule_structure": "circular", "host": "Hibiscus cannabinus", "isolate_id": "i9qftr92", "virus_id": "6ac9932e"}
+{
+    "_id": "NC_010569",
+    "definition": "Ludwigia leaf distortion betasatellite",
+    "molecule_structure": "circular",
+    "host": "Hibiscus cannabinus",
+    "isolate_id": "i9qftr92",
+    "virus_id": "6ac9932e"
+}

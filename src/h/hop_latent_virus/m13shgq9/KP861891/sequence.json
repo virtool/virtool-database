@@ -1,1 +1,7 @@
-{"_id": "KP861891", "definition": "Hop latent virus isolate Taurus, complete genome.", "host": "Humulus lupulus", "isolate_id": "m13shgq9", "virus_id": "b67008d3"}
+{
+    "_id": "KP861891",
+    "definition": "Hop latent virus isolate Taurus, complete genome.",
+    "host": "Humulus lupulus",
+    "isolate_id": "m13shgq9",
+    "virus_id": "b67008d3"
+}

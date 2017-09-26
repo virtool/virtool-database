@@ -1,1 +1,8 @@
-{"_id": "NC_003632", "definition": "Potato aucuba mosaic virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "kvcqc7jk", "virus_id": "a9d4b58c"}
+{
+    "_id": "NC_003632",
+    "definition": "Potato aucuba mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "kvcqc7jk",
+    "virus_id": "a9d4b58c"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_015394", "definition": "Hardenbergia mosaic virus, complete genome", "molecule_structure": "linear", "host": "Hardenbergia comptoniana", "isolate_id": "hwmbumro", "virus_id": "858e90ea"}
+{
+    "_id": "NC_015394",
+    "definition": "Hardenbergia mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Hardenbergia comptoniana",
+    "isolate_id": "hwmbumro",
+    "virus_id": "858e90ea"
+}

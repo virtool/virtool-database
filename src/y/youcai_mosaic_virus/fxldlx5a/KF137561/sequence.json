@@ -1,1 +1,7 @@
-{"_id": "KF137561", "definition": "Youcai mosaic virus isolate W41, complete genome.", "host": "Arabidopsis thaliana (Col-0) infected with wild-type virions of Oilseed rape mosaic virus", "isolate_id": "fxldlx5a", "virus_id": "07950c3a"}
+{
+    "_id": "KF137561",
+    "definition": "Youcai mosaic virus isolate W41, complete genome.",
+    "host": "Arabidopsis thaliana (Col-0) infected with wild-type virions of Oilseed rape mosaic virus",
+    "isolate_id": "fxldlx5a",
+    "virus_id": "07950c3a"
+}

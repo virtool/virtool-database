@@ -1,1 +1,7 @@
-{"_id": "NC_021096", "definition": "Red clover cryptic virus 2 isolate IPP_Nemaro segment RNA 1, complete sequence.", "host": "Trifolium pratense cv. Nemaro", "isolate_id": "d7j491a5", "virus_id": "0db0ac26"}
+{
+    "_id": "NC_021096",
+    "definition": "Red clover cryptic virus 2 isolate IPP_Nemaro segment RNA 1, complete sequence.",
+    "host": "Trifolium pratense cv. Nemaro",
+    "isolate_id": "d7j491a5",
+    "virus_id": "0db0ac26"
+}

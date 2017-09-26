@@ -1,1 +1,8 @@
-{"_id": "NC_001632", "definition": "Rice tungro spherical virus, complete genome", "molecule_structure": "linear", "host": null, "isolate_id": "zlv5ltp9", "virus_id": "55f7c604"}
+{
+    "_id": "NC_001632",
+    "definition": "Rice tungro spherical virus, complete genome",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "zlv5ltp9",
+    "virus_id": "55f7c604"
+}

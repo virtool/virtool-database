@@ -1,1 +1,8 @@
-{"_id": "NC_016441", "definition": "Yam bean mosaic virus, complete genome", "molecule_structure": "linear", "host": "yam bean", "isolate_id": "b5vpw6fa", "virus_id": "7c4b9c5a"}
+{
+    "_id": "NC_016441",
+    "definition": "Yam bean mosaic virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "yam bean",
+    "isolate_id": "b5vpw6fa",
+    "virus_id": "7c4b9c5a"
+}

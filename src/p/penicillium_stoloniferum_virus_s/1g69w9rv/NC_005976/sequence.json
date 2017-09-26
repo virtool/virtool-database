@@ -1,1 +1,9 @@
-{"_id": "NC_005976", "_version": 0, "definition": "Penicillium stoloniferum virus S segment 1, complete genome", "molecule_structure": "linear", "isolate_id": "1g69w9rv", "host": null, "virus_id": "424b55dc"}
+{
+    "_id": "NC_005976",
+    "_version": 0,
+    "definition": "Penicillium stoloniferum virus S segment 1, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "1g69w9rv",
+    "host": null,
+    "virus_id": "424b55dc"
+}

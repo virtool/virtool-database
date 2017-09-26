@@ -1,1 +1,8 @@
-{"_id": "NC_011062", "definition": "Potato virus T, complete genome", "molecule_structure": "linear", "host": "Chenopodium amaranticolor", "isolate_id": "72o6t3nt", "virus_id": "cb5d4fd4"}
+{
+    "_id": "NC_011062",
+    "definition": "Potato virus T, complete genome",
+    "molecule_structure": "linear",
+    "host": "Chenopodium amaranticolor",
+    "isolate_id": "72o6t3nt",
+    "virus_id": "cb5d4fd4"
+}

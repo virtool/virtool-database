@@ -1,1 +1,8 @@
-{"_id": "NC_018703", "definition": "Culex originated Tymoviridae-like virus, complete genome", "molecule_structure": "linear", "host": "Culex sp. (mosquito)", "isolate_id": "2bv346un", "virus_id": "0cffd61e"}
+{
+    "_id": "NC_018703",
+    "definition": "Culex originated Tymoviridae-like virus, complete genome",
+    "molecule_structure": "linear",
+    "host": "Culex sp. (mosquito)",
+    "isolate_id": "2bv346un",
+    "virus_id": "0cffd61e"
+}

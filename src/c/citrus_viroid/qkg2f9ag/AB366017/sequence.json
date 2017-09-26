@@ -1,1 +1,7 @@
-{"_id": "AB366017", "definition": "Citrus viroid VI genomic RNA, complete genome, clone: Kaki13-5.", "host": "Diospyros kaki L.", "isolate_id": "qkg2f9ag", "virus_id": "82139644"}
+{
+    "_id": "AB366017",
+    "definition": "Citrus viroid VI genomic RNA, complete genome, clone: Kaki13-5.",
+    "host": "Diospyros kaki L.",
+    "isolate_id": "qkg2f9ag",
+    "virus_id": "82139644"
+}

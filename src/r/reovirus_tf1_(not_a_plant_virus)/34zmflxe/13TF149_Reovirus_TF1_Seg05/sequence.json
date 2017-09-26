@@ -1,1 +1,7 @@
-{"_id": "13TF149_Reovirus_TF1_Seg05", "definition": "Reovirus Segment 5, from Tree Fruit, complete, new virus", "host": "", "isolate_id": "34zmflxe", "virus_id": "b22b0fa1"}
+{
+    "_id": "13TF149_Reovirus_TF1_Seg05",
+    "definition": "Reovirus Segment 5, from Tree Fruit, complete, new virus",
+    "host": "",
+    "isolate_id": "34zmflxe",
+    "virus_id": "b22b0fa1"
+}

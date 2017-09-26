@@ -1,1 +1,7 @@
-{"_id": "13TF174_ASPV_A", "definition": "Apple stem pitting virus, complete genome", "host": "malus", "isolate_id": "vlcr5rp9", "virus_id": "e74f3ad3"}
+{
+    "_id": "13TF174_ASPV_A",
+    "definition": "Apple stem pitting virus, complete genome",
+    "host": "malus",
+    "isolate_id": "vlcr5rp9",
+    "virus_id": "e74f3ad3"
+}

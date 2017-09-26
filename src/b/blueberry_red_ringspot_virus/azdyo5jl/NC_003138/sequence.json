@@ -1,1 +1,8 @@
-{"_id": "NC_003138", "definition": "Blueberry red ringspot virus, complete genome", "molecule_structure": "circular", "host": null, "isolate_id": "azdyo5jl", "virus_id": "4d7fefe6"}
+{
+    "_id": "NC_003138",
+    "definition": "Blueberry red ringspot virus, complete genome",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "azdyo5jl",
+    "virus_id": "4d7fefe6"
+}

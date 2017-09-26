@@ -1,1 +1,8 @@
-{"_id": "NC_022894", "definition": "Donkey orchid symptomless virus isolate Mariginiup11, complete", "molecule_structure": "linear", "host": "Diuris longifolia", "isolate_id": "sl9xjg1s", "virus_id": "b321a17e"}
+{
+    "_id": "NC_022894",
+    "definition": "Donkey orchid symptomless virus isolate Mariginiup11, complete",
+    "molecule_structure": "linear",
+    "host": "Diuris longifolia",
+    "isolate_id": "sl9xjg1s",
+    "virus_id": "b321a17e"
+}

@@ -1,1 +1,8 @@
-{"_id": "NC_004637", "definition": "Sida mottle virus, complete genome", "molecule_structure": "circular", "host": null, "isolate_id": "qj5asn7y", "virus_id": "cb6f1b86"}
+{
+    "_id": "NC_004637",
+    "definition": "Sida mottle virus, complete genome",
+    "molecule_structure": "circular",
+    "host": null,
+    "isolate_id": "qj5asn7y",
+    "virus_id": "cb6f1b86"
+}

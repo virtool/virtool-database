@@ -1,1 +1,8 @@
-{"_id": "NC_015395", "definition": "Hardenbergia virus A, complete genome", "molecule_structure": "linear", "host": "Hardenbergia comptoniana", "isolate_id": "4pj29ivz", "virus_id": "0b9f16ba"}
+{
+    "_id": "NC_015395",
+    "definition": "Hardenbergia virus A, complete genome",
+    "molecule_structure": "linear",
+    "host": "Hardenbergia comptoniana",
+    "isolate_id": "4pj29ivz",
+    "virus_id": "0b9f16ba"
+}

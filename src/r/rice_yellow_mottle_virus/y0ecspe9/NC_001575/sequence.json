@@ -1,1 +1,8 @@
-{"_id": "NC_001575", "definition": "Rice yellow mottle virus complete genome, isolate CI4", "molecule_structure": "linear", "host": null, "isolate_id": "y0ecspe9", "virus_id": "4902083a"}
+{
+    "_id": "NC_001575",
+    "definition": "Rice yellow mottle virus complete genome, isolate CI4",
+    "molecule_structure": "linear",
+    "host": null,
+    "isolate_id": "y0ecspe9",
+    "virus_id": "4902083a"
+}

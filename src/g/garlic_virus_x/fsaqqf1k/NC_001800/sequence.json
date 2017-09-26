@@ -1,1 +1,8 @@
-{"_id": "NC_001800", "definition": "Garlic virus X, complete genome", "molecule_structure": "linear", "host": "Allium sativum", "isolate_id": "fsaqqf1k", "virus_id": "50c730fd"}
+{
+    "_id": "NC_001800",
+    "definition": "Garlic virus X, complete genome",
+    "molecule_structure": "linear",
+    "host": "Allium sativum",
+    "isolate_id": "fsaqqf1k",
+    "virus_id": "50c730fd"
+}

@@ -1,1 +1,9 @@
-{"_id": "NC_004608", "_version": 0, "definition": "Mungbean yellow mosaic India virus DNA A, complete sequence", "molecule_structure": "circular", "isolate_id": "srzzri5n", "host": null, "virus_id": "1eba6f82"}
+{
+    "_id": "NC_004608",
+    "_version": 0,
+    "definition": "Mungbean yellow mosaic India virus DNA A, complete sequence",
+    "molecule_structure": "circular",
+    "isolate_id": "srzzri5n",
+    "host": null,
+    "virus_id": "1eba6f82"
+}

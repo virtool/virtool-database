@@ -1,1 +1,8 @@
-{"_id": "NC_007003", "definition": "Banana streak virus strain Acuminata Vietnam, complete genome", "molecule_structure": "circular", "host": "plantain", "isolate_id": "5ogn2v86", "virus_id": "5be41bc9"}
+{
+    "_id": "NC_007003",
+    "definition": "Banana streak virus strain Acuminata Vietnam, complete genome",
+    "molecule_structure": "circular",
+    "host": "plantain",
+    "isolate_id": "5ogn2v86",
+    "virus_id": "5be41bc9"
+}

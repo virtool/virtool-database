@@ -1,1 +1,8 @@
-{"_id": "NC_010238", "definition": "Radish leaf curl virus segment A, complete sequence", "molecule_structure": "circular", "host": "radish cultivar Japanese white", "isolate_id": "nhjneg5q", "virus_id": "fafeac50"}
+{
+    "_id": "NC_010238",
+    "definition": "Radish leaf curl virus segment A, complete sequence",
+    "molecule_structure": "circular",
+    "host": "radish cultivar Japanese white",
+    "isolate_id": "nhjneg5q",
+    "virus_id": "fafeac50"
+}

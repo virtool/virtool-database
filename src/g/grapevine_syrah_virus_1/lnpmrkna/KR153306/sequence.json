@@ -1,1 +1,7 @@
-{"_id": "KR153306", "definition": "Grapevine Syrah virus 1 isolate VF-BR putative 230 kDa polyprotein and p26 genes, complete cds.", "host": "Vitis flexuosa (grapevine)", "isolate_id": "lnpmrkna", "virus_id": "4114ebff"}
+{
+    "_id": "KR153306",
+    "definition": "Grapevine Syrah virus 1 isolate VF-BR putative 230 kDa polyprotein and p26 genes, complete cds.",
+    "host": "Vitis flexuosa (grapevine)",
+    "isolate_id": "lnpmrkna",
+    "virus_id": "4114ebff"
+}

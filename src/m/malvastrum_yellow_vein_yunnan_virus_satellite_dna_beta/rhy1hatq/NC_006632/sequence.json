@@ -1,1 +1,8 @@
-{"_id": "NC_006632", "definition": "Malvastrum yellow vein Yunnan virus satellite DNA beta, complete", "molecule_structure": "circular", "host": "Malvastrum coromandelianum", "isolate_id": "rhy1hatq", "virus_id": "57b1345f"}
+{
+    "_id": "NC_006632",
+    "definition": "Malvastrum yellow vein Yunnan virus satellite DNA beta, complete",
+    "molecule_structure": "circular",
+    "host": "Malvastrum coromandelianum",
+    "isolate_id": "rhy1hatq",
+    "virus_id": "57b1345f"
+}

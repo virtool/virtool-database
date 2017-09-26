@@ -1,1 +1,9 @@
-{"_id": "NC_006960", "_version": 0, "definition": "Pleurotus ostreatus virus 1 RNA-2, complete genome", "molecule_structure": "linear", "isolate_id": "c3xnp56p", "host": "Pleurotus ostreatus", "virus_id": "82ac5d42"}
+{
+    "_id": "NC_006960",
+    "_version": 0,
+    "definition": "Pleurotus ostreatus virus 1 RNA-2, complete genome",
+    "molecule_structure": "linear",
+    "isolate_id": "c3xnp56p",
+    "host": "Pleurotus ostreatus",
+    "virus_id": "82ac5d42"
+}
