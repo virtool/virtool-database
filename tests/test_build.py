@@ -5,6 +5,8 @@ import shutil
 import pytest
 import subprocess
 
+from hashlib import sha256
+
 TEST_FILE_PATH = "tests/files/viruses.json"
 
 
@@ -57,6 +59,4 @@ def test_divide_build(tmpdir):
 
     subprocess.call(["python", "scripts/build.py", "-f", out_path, src_path])
 
-    with open(json_path, "r") as f1:
-        with open(out_path, "r") as f2:
-            assert json.load(f1)["data"] == json.load(f2)["data"]
+    assert os.path.getsize(json_path) == os.path.getsize(out_path)
