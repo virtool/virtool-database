@@ -64,22 +64,26 @@ if __name__ == "__main__":
 
                 with open(os.path.join(isolate_path, "sequences.fa"), "r") as f:
                     sid = None
-                    sequence = list()
+                    seq = list()
 
                     for line in f:
                         if line[0] == ">":
                             if sid:
                                 for sequence in isolate["sequences"]:
                                     if sequence["_id"] == sid:
-                                        sequence["sequence"] = "".join(sequence)
+                                        sequence["sequence"] = "".join(seq)
                                         break
 
                             sid = line.rstrip().replace(">", "")
-                            sequence = list()
-                            continue
+                            seq = list()
 
-                        if line:
-                            sequence.append(line.rstrip())
+                        elif line:
+                            seq.append(line.rstrip())
+
+                    if sid:
+                        for sequence in isolate["sequences"]:
+                            if sequence["_id"] == sid:
+                                sequence["sequence"] = "".join(seq)
 
                 virus["isolates"].append(isolate)
 

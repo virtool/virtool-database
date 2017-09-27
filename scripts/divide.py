@@ -1,6 +1,7 @@
 import os
 import json
 import shutil
+import argparse
 
 DELETED_KEYS = [
     "user",
@@ -10,19 +11,40 @@ DELETED_KEYS = [
     "verified"
 ]
 
-shutil.rmtree("src", ignore_errors=True)
-os.mkdir("src")
 
-with open("viruses.json", "r") as export_handle:
-    for virus in json.load(export_handle):
+parser = argparse.ArgumentParser(description="Building a viruses.json file from a virtool-databse src directory")
+
+parser.add_argument(
+    "src",
+    type=str,
+    help="the path to input viruses.json file",
+)
+
+parser.add_argument(
+    "-o",
+    type=str,
+    dest="output",
+    default="src",
+    help="the output path for divided source directory tree"
+)
+
+args = parser.parse_args()
+
+shutil.rmtree(args.output, ignore_errors=True)
+os.mkdir(args.output)
+
+with open(args.src, "r") as export_handle:
+    data = json.load(export_handle)
+
+    for virus in data["data"]:
         first_letter = virus["lower_name"][0]
 
         try:
-            os.mkdir(os.path.join("src", first_letter))
+            os.mkdir(os.path.join(args.output, first_letter))
         except FileExistsError:
             pass
         
-        virus_path = os.path.join("src", first_letter, virus["lower_name"].replace(" ", "_").replace("/", "_"))
+        virus_path = os.path.join(args.output, first_letter, virus["lower_name"].replace(" ", "_").replace("/", "_"))
         os.mkdir(virus_path)
 
         isolates = virus.pop("isolates")
