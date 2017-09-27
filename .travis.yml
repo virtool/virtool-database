@@ -1,17 +1,13 @@
 language: python
 sudo: false
-python: "3.6"
-
+python: '3.6'
 cache:
   pip: true
   apt: true
-
 install:
 - pip install -r requirements.txt
-
 script:
 - pytest -v
-
 after_success:
 - rm -f viruses.json
 - rm -f viruses.json.gz
@@ -19,10 +15,9 @@ after_success:
 - gzip viruses.json
 
 deploy:
-  skip_cleanup: true
   provider: releases
   api_key:
-    secure: Otm5EqAcBp2i/KghWT/LZkLlpY1qHbYolCRk/Mwgqr0IQvy1ryM8IQot88/mntzKjVFbUIlJDVU8UmWgXac0cBCCT4rvzpRqMXEiWK+sl0Lqqg4tiOMS5gdQF5ywYVinT8e5Zl7O4g05zjU7mUMnSLRlTCNtcffdwOAqp9tfNJ4/FqlmHK+mhufmThQOdschbPLo7dFfSA7oioXesPWSA33lwG8PQWwQjmm55oMOqZiN38HG0wdZQgoH3QsVXLlTwqxAuyBfmOjrwkhTLhTfJ1EWwnlq1RF9uzxZF7J7bYR+IWm8Ws7z9n9kMX0F6/onnAS4D3QLue59jzfR7MJqyaDpyEONjjaP/8wC0afJ8vdc3X5SEdLz5S3/4X8d0llJLEZPL2i1PNfJzDIF7GDerF+0UARhtnHjMQFy5oV6UO6Pd3UuFaoaQUQff4Gw6ZYxVGEkbCUwYqMn4JaiDBrViUK2fzFQzWqiMnI3CrYYW19lcC4ppHLuTJz8YlpNwCsxpCU5YB14m6ra5ZPSJ+dqBLuF46KU+4uW+cXi+oAoS6t4Mb9Jz5Nhfgum965uFuOcsYaEilQSGzqRdIJFhBxyp+ow9Cnq0acmffm+W7jT+m0v2IvUlDkthAPSIBDLRrjOECTUXB7VorSusrK6J3hBcdkl6J58DfNi55N2px8KB7w=
+    secure: IaVf7PBhCEfqDAJLXihrXr2cyy4yaH0ylpGS883jOTctE67GKOOkmeCYvZxINgtVggmzBtBHjrpqWHXA3EJeDRlRk2DGJ4t3H5jb1STvYohvKarWjRzeKEpUx2N/vx8OjhZ4fMDUmAp8B1rrS0r0by3owdI6r7NmHRT0siAVEluT0rUgBz0WniiXfrbOlH22tPPn9w2vm6s9HdMTIJbtlyNInM3ccwaSotLAm3H1G+tORhWXpHorZ0G5kJ169trZjHnMuL61mDo+zkiCLzh8OF7I04Wf/3q3cOD17kWPsPjgLwWffy8yiaqnaKdQQgAQl2vtEjtIpa76R1Vhnt6LM5JeV65ksxcpRqeK4I7lz3VMaXe91hk+f25lXMn57bARem3PmpzotAwNNErfHDZp9immBLnHrDdKF5ajiazFKujx97n7FXhfzTWIknRcOIgch1IXOIQarBNO+gkbeCzlj/y65ZLPfciylYBV0l2NfNaTq3OANdYKgk2HC3Tz8AgVG4/JsfnuipSXC9zULPUseCvfykrvE6ioww4FRlUhjIH0m07jbJHp6ibK6UQP6NdVQIAiPqVB8rktc3m0oHnV+bd5WojdgYqVkz4u94ZC4PvATu3A3HSncQ5sgbgthjfyFFgQCouDaIR1mdJivqEJTBR11t42DI6eI99JvirXGjU=
   file: viruses.json.gz
   on:
-    tags: true
+    repo: virtool/virtool-database
