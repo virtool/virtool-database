@@ -19,8 +19,10 @@ in the form of
 
 ## Using
 
-Download the ``viruses.json.gz`` file for the
-[latest release](https://github.com/virtool/virtool-database/releases/latest).
+1. Download the ``viruses.json.gz`` file for the [latest release](https://github.com/virtool/virtool-database/releases/latest).
+2. In a virgin instance of Virtool, go to the *Viruses* view and click on the *Import* link.
+3. Follow the instructions to import the virus data.
+4. Rebuild the index to use the virus data in analyses.
 
 ## Contributing
 
