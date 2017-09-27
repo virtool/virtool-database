@@ -1,0 +1,20 @@
+[
+    {
+        "host": "oats",
+        "isolate_id": "rolsqhqk",
+        "_version": 0,
+        "definition": "Oat mosaic virus RNA 1, complete genome",
+        "_id": "NC_004016",
+        "virus_id": "b313da23",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "oats",
+        "isolate_id": "rolsqhqk",
+        "_version": 0,
+        "definition": "Oat mosaic virus RNA 2, complete sequence",
+        "_id": "NC_004017",
+        "virus_id": "b313da23",
+        "molecule_structure": "linear"
+    }
+]

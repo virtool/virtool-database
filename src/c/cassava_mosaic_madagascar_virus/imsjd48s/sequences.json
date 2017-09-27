@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Manihot esculenta",
+        "isolate_id": "imsjd48s",
+        "_version": 0,
+        "definition": "Cassava mosaic Madagascar virus DNA B, complete genome",
+        "_id": "NC_017005",
+        "virus_id": "eae79107",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Manihot esculenta",
+        "isolate_id": "imsjd48s",
+        "_version": 0,
+        "definition": "Cassava mosaic Madagascar virus DNA A, complete genome",
+        "_id": "NC_017004",
+        "virus_id": "eae79107",
+        "molecule_structure": "circular"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Citrus volkameriana",
+        "isolate_id": "9wez04n2",
+        "_version": 0,
+        "definition": "Hibiscus green spot virus isolate WAI 1-1 segment RNA3, complete",
+        "_id": "NC_016142",
+        "virus_id": "400ab879",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Citrus volkameriana",
+        "isolate_id": "9wez04n2",
+        "_version": 0,
+        "definition": "Hibiscus green spot virus isolate WAI 1-1 segment RNA1, complete",
+        "_id": "NC_016141",
+        "virus_id": "400ab879",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Citrus volkameriana",
+        "isolate_id": "9wez04n2",
+        "_version": 0,
+        "definition": "Hibiscus green spot virus isolate WAI 1-1 segment RNA2, complete",
+        "_id": "NC_016143",
+        "virus_id": "400ab879",
+        "molecule_structure": "linear"
+    }
+]

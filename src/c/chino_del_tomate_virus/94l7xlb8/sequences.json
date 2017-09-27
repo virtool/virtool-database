@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "94l7xlb8",
+        "_version": 0,
+        "definition": "Chino del tomate virus DNA B, complete sequence",
+        "_id": "NC_003831",
+        "virus_id": "fe9a85e1",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "94l7xlb8",
+        "_version": 0,
+        "definition": "Chino del tomate virus DNA A, complete sequence",
+        "_id": "NC_003830",
+        "virus_id": "fe9a85e1",
+        "molecule_structure": "circular"
+    }
+]

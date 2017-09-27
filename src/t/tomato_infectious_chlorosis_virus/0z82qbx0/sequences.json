@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "0z82qbx0",
+        "_version": 0,
+        "definition": "Tomato infectious chlorosis virus RNA 1, complete genome",
+        "_id": "NC_013258",
+        "virus_id": "342cb4b1",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "0z82qbx0",
+        "_version": 0,
+        "definition": "Tomato infectious chlorosis virus RNA 2, complete genome",
+        "_id": "NC_013259",
+        "virus_id": "342cb4b1",
+        "molecule_structure": "linear"
+    }
+]

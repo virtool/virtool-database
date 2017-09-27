@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "2sjh2eh1",
+        "_version": 0,
+        "definition": "Sida golden mosaic virus DNA-A, complete sequence",
+        "_id": "NC_002046",
+        "virus_id": "b6decbfb",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "2sjh2eh1",
+        "_version": 0,
+        "definition": "Sida golden mosaic virus DNA-B, complete sequence",
+        "_id": "NC_002047",
+        "virus_id": "b6decbfb",
+        "molecule_structure": "linear"
+    }
+]

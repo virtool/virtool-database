@@ -1,0 +1,20 @@
+[
+    {
+        "host": "potato",
+        "isolate_id": "jwhyk06x",
+        "_version": 0,
+        "definition": "Tomato yellow vein streak virus DNA-B, complete genome",
+        "_id": "NC_010950",
+        "virus_id": "9c2f4ca0",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "potato",
+        "isolate_id": "jwhyk06x",
+        "_version": 0,
+        "definition": "Tomato yellow vein streak virus DNA-A, complete genome",
+        "_id": "NC_010949",
+        "virus_id": "9c2f4ca0",
+        "molecule_structure": "circular"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Lycopersicon esculentum (tomato)",
+        "isolate_id": "4ym3cs3d",
+        "_version": 0,
+        "definition": "Tomato chlorosis virus RNA 1, complete genome",
+        "_id": "NC_007340",
+        "virus_id": "1e7c34f5",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Lycopersicon esculentum (tomato)",
+        "isolate_id": "4ym3cs3d",
+        "_version": 0,
+        "definition": "Tomato chlorosis virus RNA 2, complete genome",
+        "_id": "NC_007341",
+        "virus_id": "1e7c34f5",
+        "molecule_structure": "linear"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "i6fxdvpj",
+        "_version": 0,
+        "definition": "Cassia yellow blotch virus RNA1, complete sequence",
+        "_id": "NC_006999",
+        "virus_id": "904d02b1",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "i6fxdvpj",
+        "_version": 0,
+        "definition": "Cassia yellow blotch virus RNA2, complete sequence",
+        "_id": "NC_007000",
+        "virus_id": "904d02b1",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "i6fxdvpj",
+        "_version": 0,
+        "definition": "Cassia yellow blotch virus RNA3, complete sequence",
+        "_id": "NC_007001",
+        "virus_id": "904d02b1",
+        "molecule_structure": "linear"
+    }
+]

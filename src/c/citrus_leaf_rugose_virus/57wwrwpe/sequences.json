@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "57wwrwpe",
+        "_version": 0,
+        "definition": "Citrus leaf rugose virus RNA 1, complete sequence",
+        "_id": "NC_003548",
+        "virus_id": "f3df6e7b",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "57wwrwpe",
+        "_version": 0,
+        "definition": "Citrus leaf rugose virus RNA 3, complete sequence",
+        "_id": "NC_003546",
+        "virus_id": "f3df6e7b",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Citrus spp.",
+        "isolate_id": "57wwrwpe",
+        "_version": 0,
+        "definition": "Citrus leaf rugose virus RNA 2, complete sequence",
+        "_id": "NC_003547",
+        "virus_id": "f3df6e7b",
+        "molecule_structure": "linear"
+    }
+]

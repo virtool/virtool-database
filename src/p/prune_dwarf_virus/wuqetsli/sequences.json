@@ -1,0 +1,23 @@
+[
+    {
+        "host": "",
+        "isolate_id": "wuqetsli",
+        "_id": "13C258_RNA1",
+        "definition": "Prune dwarf virus RNA1",
+        "virus_id": "0d400637"
+    },
+    {
+        "host": "",
+        "isolate_id": "wuqetsli",
+        "_id": "13C258_RNA3",
+        "definition": "Prune dwarf virus RNA3",
+        "virus_id": "0d400637"
+    },
+    {
+        "host": "",
+        "isolate_id": "wuqetsli",
+        "_id": "13C258_RNA2",
+        "definition": "Prune dwarf virus RNA2",
+        "virus_id": "0d400637"
+    }
+]

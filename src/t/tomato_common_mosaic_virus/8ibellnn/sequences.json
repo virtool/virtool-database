@@ -1,0 +1,20 @@
+[
+    {
+        "host": "tomato",
+        "isolate_id": "8ibellnn",
+        "_version": 0,
+        "definition": "Tomato common mosaic virus DNA-A, complete genome",
+        "_id": "NC_010835",
+        "virus_id": "2159c94e",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "tomato",
+        "isolate_id": "8ibellnn",
+        "_version": 0,
+        "definition": "Tomato common mosaic virus DNA-B, complete genome",
+        "_id": "NC_010836",
+        "virus_id": "2159c94e",
+        "molecule_structure": "circular"
+    }
+]

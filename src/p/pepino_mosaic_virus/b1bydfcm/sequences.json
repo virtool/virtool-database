@@ -1,0 +1,10 @@
+[
+    {
+        "host": "tomato",
+        "isolate_id": "b1bydfcm",
+        "definition": "Pepino mosaic virus, complete genome",
+        "_id": "NC_004067",
+        "virus_id": "be3b9938",
+        "molecule_structure": "linear"
+    }
+]

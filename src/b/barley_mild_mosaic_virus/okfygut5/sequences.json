@@ -1,0 +1,20 @@
+[
+    {
+        "host": "barley",
+        "isolate_id": "okfygut5",
+        "_version": 0,
+        "definition": "Barley mild mosaic virus RNA 1, complete sequence",
+        "_id": "NC_003483",
+        "virus_id": "77684e08",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "barley",
+        "isolate_id": "okfygut5",
+        "_version": 0,
+        "definition": "Barley mild mosaic virus RNA2, complete sequence",
+        "_id": "NC_003482",
+        "virus_id": "77684e08",
+        "molecule_structure": "linear"
+    }
+]

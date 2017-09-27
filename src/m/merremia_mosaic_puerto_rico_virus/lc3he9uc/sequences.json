@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Merremia quinquefolia",
+        "isolate_id": "lc3he9uc",
+        "_version": 0,
+        "definition": "Merremia mosaic Puerto Rico virus DNA A, complete genome",
+        "_id": "NC_015490",
+        "virus_id": "8af7ee7c",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Merremia quinquefolia",
+        "isolate_id": "lc3he9uc",
+        "_version": 0,
+        "definition": "Merremia mosaic Puerto Rico virus DNA B, complete genome",
+        "_id": "NC_015491",
+        "virus_id": "8af7ee7c",
+        "molecule_structure": "circular"
+    }
+]

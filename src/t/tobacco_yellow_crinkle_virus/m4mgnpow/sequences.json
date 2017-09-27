@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Nicotiana tabacum",
+        "isolate_id": "m4mgnpow",
+        "_version": 0,
+        "definition": "Tobacco yellow crinkle virus DNA A, complete genome",
+        "_id": "NC_015627",
+        "virus_id": "e08018c7",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Nicotiana tabacum",
+        "isolate_id": "m4mgnpow",
+        "_version": 0,
+        "definition": "Tobacco yellow crinkle virus DNA B, complete genome",
+        "_id": "NC_015628",
+        "virus_id": "e08018c7",
+        "molecule_structure": "circular"
+    }
+]

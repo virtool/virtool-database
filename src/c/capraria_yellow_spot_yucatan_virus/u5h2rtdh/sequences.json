@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Capraria biflora",
+        "isolate_id": "u5h2rtdh",
+        "_version": 0,
+        "definition": "Capraria yellow spot Yucatan virus segment DNA-B, complete",
+        "_id": "NC_022008",
+        "virus_id": "3e3367ff",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Capraria biflora",
+        "isolate_id": "u5h2rtdh",
+        "_version": 0,
+        "definition": "Capraria yellow spot Yucatan virus segment DNA-A, complete",
+        "_id": "NC_022007",
+        "virus_id": "3e3367ff",
+        "molecule_structure": "circular"
+    }
+]

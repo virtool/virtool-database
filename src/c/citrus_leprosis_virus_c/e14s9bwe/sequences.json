@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Citrus sinensis var. Pera",
+        "isolate_id": "e14s9bwe",
+        "_version": 0,
+        "definition": "Citrus leprosis virus C RNA-1, complete genome",
+        "_id": "NC_008169",
+        "virus_id": "3df3e045",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Citrus sinensis var. Pera",
+        "isolate_id": "e14s9bwe",
+        "_version": 0,
+        "definition": "Citrus leprosis virus C RNA-2, complete genome",
+        "_id": "NC_008170",
+        "virus_id": "3df3e045",
+        "molecule_structure": "linear"
+    }
+]

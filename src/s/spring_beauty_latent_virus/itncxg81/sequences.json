@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "itncxg81",
+        "_version": 0,
+        "definition": "Spring beauty latent virus RNA 3, complete sequence",
+        "_id": "NC_004122",
+        "virus_id": "cee27980",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "itncxg81",
+        "_version": 0,
+        "definition": "Spring beauty latent virus RNA 1, complete sequence",
+        "_id": "NC_004120",
+        "virus_id": "cee27980",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "itncxg81",
+        "_version": 0,
+        "definition": "Spring beauty latent virus RNA 2, complete sequence",
+        "_id": "NC_004121",
+        "virus_id": "cee27980",
+        "molecule_structure": "linear"
+    }
+]

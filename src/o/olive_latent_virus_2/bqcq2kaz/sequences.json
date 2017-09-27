@@ -1,0 +1,29 @@
+[
+    {
+        "host": "olive",
+        "isolate_id": "bqcq2kaz",
+        "_version": 0,
+        "definition": "Olive latent virus 2 RNA 2, complete sequence",
+        "_id": "NC_003674",
+        "virus_id": "61214e8e",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "olive",
+        "isolate_id": "bqcq2kaz",
+        "_version": 0,
+        "definition": "Olive latent virus 2 RNA 1, complete sequence",
+        "_id": "NC_003673",
+        "virus_id": "61214e8e",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "bqcq2kaz",
+        "_version": 0,
+        "definition": "Olive latent virus 2 RNA 3, complete sequence",
+        "_id": "NC_003671",
+        "virus_id": "61214e8e",
+        "molecule_structure": "linear"
+    }
+]

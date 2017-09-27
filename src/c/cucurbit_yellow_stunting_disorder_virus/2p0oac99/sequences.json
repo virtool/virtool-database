@@ -1,0 +1,20 @@
+[
+    {
+        "host": "melon",
+        "isolate_id": "2p0oac99",
+        "_version": 0,
+        "definition": "Cucurbit yellow stunting disorder virus RNA1, complete sequence",
+        "_id": "NC_004809",
+        "virus_id": "4bada966",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "melon",
+        "isolate_id": "2p0oac99",
+        "_version": 0,
+        "definition": "Cucurbit yellow stunting disorder virus RNA2, complete genome",
+        "_id": "NC_004810",
+        "virus_id": "4bada966",
+        "molecule_structure": "linear"
+    }
+]

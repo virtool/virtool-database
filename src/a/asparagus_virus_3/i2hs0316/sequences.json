@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Allium chinense",
+        "isolate_id": "i2hs0316",
+        "_version": 0,
+        "definition": "Scallion virus X, complete genome",
+        "_id": "NC_003400",
+        "virus_id": "d9dde9d6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "i2hs0316",
+        "_version": 0,
+        "definition": "Asparagus virus 3, complete genome",
+        "_id": "NC_010416",
+        "virus_id": "d9dde9d6",
+        "molecule_structure": "linear"
+    }
+]

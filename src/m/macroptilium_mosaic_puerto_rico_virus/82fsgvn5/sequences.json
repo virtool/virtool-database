@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "82fsgvn5",
+        "_version": 0,
+        "definition": "Macroptilium mosaic Puerto Rico virus DNA B, complete sequence",
+        "_id": "NC_004098",
+        "virus_id": "69cead8d",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "82fsgvn5",
+        "_version": 0,
+        "definition": "Macroptilium mosaic Puerto Rico virus DNA A, complete sequence",
+        "_id": "NC_004097",
+        "virus_id": "69cead8d",
+        "molecule_structure": "circular"
+    }
+]

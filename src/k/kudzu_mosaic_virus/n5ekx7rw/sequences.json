@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Kudzu (Pueraria montana, Fabaceae); crop",
+        "isolate_id": "n5ekx7rw",
+        "_version": 0,
+        "definition": "Kudzu mosaic virus DNA-B, complete sequence",
+        "_id": "NC_009647",
+        "virus_id": "84b18ae5",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Kudzu (Pueraria montana, Fabaceae); crop",
+        "isolate_id": "n5ekx7rw",
+        "_version": 0,
+        "definition": "Kudzu mosaic virus DNA-A, complete sequence",
+        "_id": "NC_009645",
+        "virus_id": "84b18ae5",
+        "molecule_structure": "circular"
+    }
+]

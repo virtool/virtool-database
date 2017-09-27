@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Beta vulgaris",
+        "isolate_id": "rqh2nokn",
+        "_version": 0,
+        "definition": "Beet soil-borne virus RNA 2, complete sequence",
+        "_id": "NC_003518",
+        "virus_id": "b8b2def1",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "rqh2nokn",
+        "_version": 0,
+        "definition": "Beet soil-borne virus RNA 3, complete sequence",
+        "_id": "NC_003519",
+        "virus_id": "b8b2def1",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "rqh2nokn",
+        "_version": 0,
+        "definition": "Beet soil-borne virus RNA 1, complete sequence",
+        "_id": "NC_003520",
+        "virus_id": "b8b2def1",
+        "molecule_structure": "linear"
+    }
+]

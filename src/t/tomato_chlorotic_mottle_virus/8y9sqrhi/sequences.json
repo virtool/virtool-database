@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "8y9sqrhi",
+        "_version": 0,
+        "definition": "Tomato chlorotic mottle virus DNA A, complete sequence",
+        "_id": "NC_003664",
+        "virus_id": "aa9695b8",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "8y9sqrhi",
+        "_version": 0,
+        "definition": "Tomato chlorotic mottle virus DNA B, complete sequence",
+        "_id": "NC_003665",
+        "virus_id": "aa9695b8",
+        "molecule_structure": "circular"
+    }
+]

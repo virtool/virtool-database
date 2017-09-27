@@ -1,0 +1,92 @@
+[
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 8, complete sequence",
+        "_id": "NC_003758",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 2, complete sequence",
+        "_id": "NC_003750",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 6, complete sequence",
+        "_id": "NC_003752",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 5, complete sequence",
+        "_id": "NC_003759",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 1, complete sequence",
+        "_id": "NC_003749",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 4, complete sequence",
+        "_id": "NC_003771",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 7, complete sequence",
+        "_id": "NC_003770",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 9, complete sequence",
+        "_id": "NC_003757",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 3, complete sequence",
+        "_id": "NC_003751",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kr3towjw",
+        "_version": 0,
+        "definition": "Rice ragged stunt virus segment 10, complete sequence",
+        "_id": "NC_003769",
+        "virus_id": "3a86f912",
+        "molecule_structure": "linear"
+    }
+]

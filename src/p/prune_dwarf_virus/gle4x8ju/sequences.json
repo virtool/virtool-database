@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "gle4x8ju",
+        "_version": 0,
+        "definition": "Prune dwarf virus RNA2, complete genome",
+        "_id": "NC_008037",
+        "virus_id": "0d400637",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "gle4x8ju",
+        "_version": 0,
+        "definition": "Prune dwarf virus, complete genome",
+        "_id": "NC_008038",
+        "virus_id": "0d400637",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Prunus sp.",
+        "isolate_id": "gle4x8ju",
+        "_version": 0,
+        "definition": "Prune dwarf virus RNA1, complete genome",
+        "_id": "NC_008039",
+        "virus_id": "0d400637",
+        "molecule_structure": "linear"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S3, complete sequence",
+        "_id": "NC_009243",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S7, complete sequence",
+        "_id": "NC_009251",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S6, complete sequence",
+        "_id": "NC_009250",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S9, complete sequence",
+        "_id": "NC_009246",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S2, complete sequence",
+        "_id": "NC_009244",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S5, complete sequence",
+        "_id": "NC_009247",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S10, complete sequence",
+        "_id": "NC_009242",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S12, complete sequence",
+        "_id": "NC_009252",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S4, complete sequence",
+        "_id": "NC_009249",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S8, complete sequence",
+        "_id": "NC_009241",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S1, complete sequence",
+        "_id": "NC_009248",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "yv7hggax",
+        "_version": 0,
+        "definition": "Rice gall dwarf virus segment S11, complete sequence",
+        "_id": "NC_009245",
+        "virus_id": "80b38147",
+        "molecule_structure": "linear"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "6uo4iq18",
+        "_version": 0,
+        "definition": "Sorghum chlorotic spot virus RNA 1, complete sequence",
+        "_id": "NC_004014",
+        "virus_id": "340bae33",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "6uo4iq18",
+        "_version": 0,
+        "definition": "Sorghum chlorotic spot virus RNA 2, complete sequence",
+        "_id": "NC_004015",
+        "virus_id": "340bae33",
+        "molecule_structure": "linear"
+    }
+]

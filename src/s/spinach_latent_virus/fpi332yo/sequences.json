@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Spinacia oleracea",
+        "isolate_id": "fpi332yo",
+        "_version": 0,
+        "definition": "Spinach latent virus RNA 1, complete sequence",
+        "_id": "NC_003808",
+        "virus_id": "10798798",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Spinacia oleracea",
+        "isolate_id": "fpi332yo",
+        "_version": 0,
+        "definition": "Spinach latent virus RNA 3, complete sequence",
+        "_id": "NC_003810",
+        "virus_id": "10798798",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Spinacia oleracea",
+        "isolate_id": "fpi332yo",
+        "_version": 0,
+        "definition": "Spinach latent virus RNA 2, complete sequence",
+        "_id": "NC_003809",
+        "virus_id": "10798798",
+        "molecule_structure": "linear"
+    }
+]

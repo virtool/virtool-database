@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "c8mz1530",
+        "_version": 0,
+        "definition": "Sida micrantha mosaic virus segment A, complete sequence",
+        "_id": "NC_005330",
+        "virus_id": "4b207c46",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "c8mz1530",
+        "_version": 0,
+        "definition": "Sida micrantha mosaic virus segment B, complete sequence",
+        "_id": "NC_005331",
+        "virus_id": "4b207c46",
+        "molecule_structure": "circular"
+    }
+]

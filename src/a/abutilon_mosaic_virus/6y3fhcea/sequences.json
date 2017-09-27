@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Abutilon sellovianum REGEL",
+        "isolate_id": "6y3fhcea",
+        "_version": 0,
+        "definition": "Abutilon mosaic virus DNA A, complete sequence",
+        "_id": "NC_001928",
+        "virus_id": "4d0f2a2f",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Abutilon sellovianum REGEL",
+        "isolate_id": "6y3fhcea",
+        "_version": 0,
+        "definition": "Abutilon mosaic virus DNA B, complete sequence",
+        "_id": "NC_001929",
+        "virus_id": "4d0f2a2f",
+        "molecule_structure": "circular"
+    }
+]

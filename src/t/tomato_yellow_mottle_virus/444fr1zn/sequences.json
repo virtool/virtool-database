@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Solanum lycopersicum",
+        "isolate_id": "444fr1zn",
+        "_version": 0,
+        "definition": "Tomato yellow mottle virus segment DNA-B, complete sequence",
+        "_id": "NC_019947",
+        "virus_id": "dca3981a",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Solanum lycopersicum",
+        "isolate_id": "444fr1zn",
+        "_version": 0,
+        "definition": "Tomato yellow mottle virus segment DNA-A, complete sequence",
+        "_id": "NC_019946",
+        "virus_id": "dca3981a",
+        "molecule_structure": "circular"
+    }
+]

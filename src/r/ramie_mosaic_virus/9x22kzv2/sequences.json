@@ -1,0 +1,20 @@
+[
+    {
+        "host": "ramie",
+        "isolate_id": "9x22kzv2",
+        "_version": 0,
+        "definition": "Ramie mosaic virus DNA-B, complete genome",
+        "_id": "NC_010792",
+        "virus_id": "5c14d3c9",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "ramie",
+        "isolate_id": "9x22kzv2",
+        "_version": 0,
+        "definition": "Ramie mosaic virus DNA-A, complete genome",
+        "_id": "NC_010791",
+        "virus_id": "5c14d3c9",
+        "molecule_structure": "circular"
+    }
+]

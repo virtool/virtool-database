@@ -1,0 +1,23 @@
+[
+    {
+        "host": "Urochloa plantaginea",
+        "isolate_id": "cebd2da7",
+        "_id": "U82447",
+        "definition": "Urochloa hoja blanca virus cytoplasmic protein (pv3) and nucleoprotein (pc3) genes, complete cds.",
+        "virus_id": "f650056a"
+    },
+    {
+        "host": "Urochloa plantaginea",
+        "isolate_id": "cebd2da7",
+        "_id": "U82448",
+        "definition": "Urochloa hoja blanca virus RNA replicase (pc1) gene, partial cds.",
+        "virus_id": "f650056a"
+    },
+    {
+        "host": "Urochloa plantaginea",
+        "isolate_id": "cebd2da7",
+        "_id": "U82446",
+        "definition": "Urochloa hoja blanca virus non-capsid protein (pv4) and unknown (pc4) genes, complete cds.",
+        "virus_id": "f650056a"
+    }
+]

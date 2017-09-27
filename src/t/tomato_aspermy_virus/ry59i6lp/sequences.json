@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "ry59i6lp",
+        "_version": 0,
+        "definition": "Tomato aspermy virus RNA 3, complete sequence",
+        "_id": "NC_003836",
+        "virus_id": "cc2ec1d1",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "ry59i6lp",
+        "_version": 0,
+        "definition": "Tomato aspermy virus RNA 1, complete sequence",
+        "_id": "NC_003837",
+        "virus_id": "cc2ec1d1",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "ry59i6lp",
+        "_version": 0,
+        "definition": "Tomato aspermy virus RNA 2, complete sequence",
+        "_id": "NC_003838",
+        "virus_id": "cc2ec1d1",
+        "molecule_structure": "linear"
+    }
+]

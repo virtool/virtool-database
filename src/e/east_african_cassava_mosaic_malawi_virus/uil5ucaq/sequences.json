@@ -1,0 +1,20 @@
+[
+    {
+        "host": "cassava",
+        "isolate_id": "uil5ucaq",
+        "_version": 0,
+        "definition": "East African cassava mosaic Malawi virus clone EACMMV[MA:S8:07]B",
+        "_id": "NC_022644",
+        "virus_id": "2ce85606",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "cassava",
+        "isolate_id": "uil5ucaq",
+        "_version": 0,
+        "definition": "East African cassava mosaic Malawi virus clone EACMMV[MA:07:S4] AV2",
+        "_id": "NC_022645",
+        "virus_id": "2ce85606",
+        "molecule_structure": "circular"
+    }
+]

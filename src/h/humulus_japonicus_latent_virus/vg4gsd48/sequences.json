@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "vg4gsd48",
+        "_version": 0,
+        "definition": "Humulus japonicus latent virus, complete genome",
+        "_id": "NC_006065",
+        "virus_id": "f89695c6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "vg4gsd48",
+        "_version": 0,
+        "definition": "Humulus japonicus latent virus, complete genome",
+        "_id": "NC_006066",
+        "virus_id": "f89695c6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "vg4gsd48",
+        "_version": 0,
+        "definition": "Humulus japonicus latent virus, complete genome",
+        "_id": "NC_006064",
+        "virus_id": "f89695c6",
+        "molecule_structure": "linear"
+    }
+]

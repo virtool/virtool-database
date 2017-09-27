@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Solanum lycopersicum",
+        "isolate_id": "nx1jk69e",
+        "_version": 0,
+        "definition": "Groundnut ringspot and Tomato chlorotic spot virus reassortant",
+        "_id": "NC_015467",
+        "virus_id": "8519b98a",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Solanum lycopersicum",
+        "isolate_id": "nx1jk69e",
+        "_version": 0,
+        "definition": "Groundnut ringspot and Tomato chlorotic spot virus reassortant",
+        "_id": "NC_015469",
+        "virus_id": "8519b98a",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Solanum lycopersicum",
+        "isolate_id": "nx1jk69e",
+        "_version": 0,
+        "definition": "Groundnut ringspot and Tomato chlorotic spot virus reassortant",
+        "_id": "NC_015468",
+        "virus_id": "8519b98a",
+        "molecule_structure": "linear"
+    }
+]

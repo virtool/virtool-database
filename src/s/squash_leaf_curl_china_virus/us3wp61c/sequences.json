@@ -1,0 +1,16 @@
+[
+    {
+        "host": "squash",
+        "isolate_id": "us3wp61c",
+        "_id": "KF999984",
+        "definition": "Squash leaf curl China virus isolate SY segment DNA-B, complete sequence.",
+        "virus_id": "2f0fef67"
+    },
+    {
+        "host": "squash",
+        "isolate_id": "us3wp61c",
+        "_id": "KF999983",
+        "definition": "Squash leaf curl China virus isolate SY segment DNA-A, complete sequence.",
+        "virus_id": "2f0fef67"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Liatris spicata",
+        "isolate_id": "j6afmaz9",
+        "_version": 0,
+        "definition": "Gayfeather mild mottle virus RNA 1, complete sequence",
+        "_id": "NC_012134",
+        "virus_id": "9641c399",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Liatris spicata",
+        "isolate_id": "j6afmaz9",
+        "_version": 0,
+        "definition": "Gayfeather mild mottle virus RNA 3, complete sequence",
+        "_id": "NC_012136",
+        "virus_id": "9641c399",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Liatris spicata",
+        "isolate_id": "j6afmaz9",
+        "_version": 0,
+        "definition": "Gayfeather mild mottle virus RNA 2, complete genome",
+        "_id": "NC_012135",
+        "virus_id": "9641c399",
+        "molecule_structure": "linear"
+    }
+]

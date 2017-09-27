@@ -1,0 +1,16 @@
+[
+    {
+        "host": "Oryza sativa",
+        "isolate_id": "c9c722b8",
+        "_id": "eu099844",
+        "definition": "Rice stripe necrosis virus segment RNA1, complete sequence.",
+        "virus_id": "23d2d1d2"
+    },
+    {
+        "host": "Oryza sativa",
+        "isolate_id": "c9c722b8",
+        "_id": "EU099845",
+        "definition": "Rice stripe necrosis virus segment RNA2, complete sequence.",
+        "virus_id": "23d2d1d2"
+    }
+]

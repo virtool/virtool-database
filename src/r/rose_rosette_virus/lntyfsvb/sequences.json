@@ -1,0 +1,38 @@
+[
+    {
+        "host": "Rosa multiflora",
+        "isolate_id": "lntyfsvb",
+        "_version": 0,
+        "definition": "Rose rosette virus RNA1, complete genome",
+        "_id": "NC_015298",
+        "virus_id": "867886fe",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Rosa multiflora",
+        "isolate_id": "lntyfsvb",
+        "_version": 0,
+        "definition": "Rose rosette virus RNA4, complete genome",
+        "_id": "NC_015301",
+        "virus_id": "867886fe",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Rosa multiflora",
+        "isolate_id": "lntyfsvb",
+        "_version": 0,
+        "definition": "Rose rosette virus RNA2, complete genome",
+        "_id": "NC_015299",
+        "virus_id": "867886fe",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Rosa multiflora",
+        "isolate_id": "lntyfsvb",
+        "_version": 0,
+        "definition": "Rose rosette virus RNA3, complete genome",
+        "_id": "NC_015300",
+        "virus_id": "867886fe",
+        "molecule_structure": "linear"
+    }
+]

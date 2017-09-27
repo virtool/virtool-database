@@ -1,0 +1,16 @@
+[
+    {
+        "host": "Abutilon megapotamicum",
+        "isolate_id": "neqtjreh",
+        "_id": "LN611625.1",
+        "definition": "Abutilon mosaic virus complete genome, segment DNA-B, isolate FP",
+        "virus_id": "4d0f2a2f"
+    },
+    {
+        "host": "Abutilon megapotamicum",
+        "isolate_id": "neqtjreh",
+        "_id": "LN611623.1",
+        "definition": "Abutilon mosaic virus complete genome, segment DNA-A, isolate FP",
+        "virus_id": "4d0f2a2f"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Rheum sp.",
+        "isolate_id": "rovoxbb4",
+        "_version": 0,
+        "definition": "Cherry leaf roll virus RNA1, complete genome",
+        "_id": "NC_015414",
+        "virus_id": "aa86c402",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Rheum sp.",
+        "isolate_id": "rovoxbb4",
+        "_version": 0,
+        "definition": "Cherry leaf roll virus RNA2, complete genome",
+        "_id": "NC_015415",
+        "virus_id": "aa86c402",
+        "molecule_structure": "linear"
+    }
+]

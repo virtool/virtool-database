@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Manihot esculenta",
+        "isolate_id": "7p0zs8wi",
+        "_version": 0,
+        "definition": "Cassava Ivorian bacilliform virus strain SCRI-CV1 putative",
+        "_id": "NC_025483",
+        "virus_id": "972a757b",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Manihot esculenta",
+        "isolate_id": "7p0zs8wi",
+        "_version": 0,
+        "definition": "Cassava Ivorian bacilliform virus strain SCRI-CV1 putative movement",
+        "_id": "NC_025484",
+        "virus_id": "972a757b",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Manihot esculenta",
+        "isolate_id": "7p0zs8wi",
+        "_version": 0,
+        "definition": "Cassava Ivorian bacilliform virus strain SCRI-CV1 putative",
+        "_id": "NC_025482",
+        "virus_id": "972a757b",
+        "molecule_structure": "linear"
+    }
+]

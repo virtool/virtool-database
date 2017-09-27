@@ -1,0 +1,16 @@
+[
+    {
+        "host": "Vaccinium coryumbosum",
+        "isolate_id": "8948a448",
+        "_id": "U20621",
+        "definition": "Blueberry leaf mottle virus segment RNA2 polyprotein gene, partial cds.",
+        "virus_id": "c9d0b8c6"
+    },
+    {
+        "host": "Vaccinium corymbosum",
+        "isolate_id": "8948a448",
+        "_id": "U20622",
+        "definition": "Blueberry leaf mottle virus segment RNA1 polyprotein gene, partial cds.",
+        "virus_id": "c9d0b8c6"
+    }
+]

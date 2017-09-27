@@ -1,0 +1,20 @@
+[
+    {
+        "host": "watermelon",
+        "isolate_id": "v3kh69cw",
+        "_version": 0,
+        "definition": "Melon chlorotic mosaic virus DNA-B, complete genome",
+        "_id": "NC_014381",
+        "virus_id": "f0701b1b",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "watermelon",
+        "isolate_id": "v3kh69cw",
+        "_version": 0,
+        "definition": "Melon chlorotic mosaic virus DNA-A, complete genome",
+        "_id": "NC_014380",
+        "virus_id": "f0701b1b",
+        "molecule_structure": "circular"
+    }
+]

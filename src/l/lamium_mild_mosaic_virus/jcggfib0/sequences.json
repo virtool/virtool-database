@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Lamium album",
+        "isolate_id": "jcggfib0",
+        "_version": 0,
+        "definition": "Lamium mild mosaic virus isolate DSMZ PV-0454 segment RNA2,",
+        "_id": "NC_023017",
+        "virus_id": "13b80dca",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Lamium album",
+        "isolate_id": "jcggfib0",
+        "_version": 0,
+        "definition": "Lamium mild mosaic virus isolate DSMZ PV-0454 segment RNA1,",
+        "_id": "NC_023016",
+        "virus_id": "13b80dca",
+        "molecule_structure": "linear"
+    }
+]

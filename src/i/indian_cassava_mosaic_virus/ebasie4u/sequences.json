@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "ebasie4u",
+        "_version": 0,
+        "definition": "Indian cassava mosaic virus DNA B, complete sequence",
+        "_id": "NC_001933",
+        "virus_id": "8da800ed",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "ebasie4u",
+        "_version": 0,
+        "definition": "Indian cassava mosaic virus DNA A, complete sequence",
+        "_id": "NC_001932",
+        "virus_id": "8da800ed",
+        "molecule_structure": "circular"
+    }
+]

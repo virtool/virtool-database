@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "dkle0hpj",
+        "_version": 0,
+        "definition": "Penicillium stoloniferum virus F segment 3, complete sequence",
+        "_id": "NC_007223",
+        "virus_id": "0f99fcff",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "dkle0hpj",
+        "_version": 0,
+        "definition": "Penicillium stoloniferum virus F segment 2, complete genome",
+        "_id": "NC_007222",
+        "virus_id": "0f99fcff",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "dkle0hpj",
+        "_version": 0,
+        "definition": "Penicillium stoloniferum virus F segment 1, complete genome",
+        "_id": "NC_007221",
+        "virus_id": "0f99fcff",
+        "molecule_structure": "linear"
+    }
+]

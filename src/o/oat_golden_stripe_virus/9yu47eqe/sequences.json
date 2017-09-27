@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Avena sativa (oat)",
+        "isolate_id": "9yu47eqe",
+        "_version": 0,
+        "definition": "Oat golden stripe virus RNA 2, complete genome",
+        "_id": "NC_002357",
+        "virus_id": "c3f20ba6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Avena sativa (oat)",
+        "isolate_id": "9yu47eqe",
+        "_version": 0,
+        "definition": "Oat golden stripe virus RNA 1, complete genome",
+        "_id": "NC_002358",
+        "virus_id": "c3f20ba6",
+        "molecule_structure": "linear"
+    }
+]

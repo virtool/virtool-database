@@ -1,0 +1,74 @@
+[
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-U1",
+        "_id": "NC_023306",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-M",
+        "_id": "NC_023305",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-C",
+        "_id": "NC_023300",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-R",
+        "_id": "NC_023299",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-U4",
+        "_id": "NC_023302",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-S",
+        "_id": "NC_023304",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-N",
+        "_id": "NC_023301",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Pisum sativum",
+        "isolate_id": "clqz1adj",
+        "_version": 0,
+        "definition": "Black medic leafroll virus isolate Bjuv_153 segment DNA-U2",
+        "_id": "NC_023307",
+        "virus_id": "a5c86b32",
+        "molecule_structure": "circular"
+    }
+]

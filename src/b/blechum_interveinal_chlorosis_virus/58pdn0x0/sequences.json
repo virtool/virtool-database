@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Blechum pyramidatum",
+        "isolate_id": "58pdn0x0",
+        "_version": 0,
+        "definition": "Blechum interveinal chlorosis virus DNA B, complete genome",
+        "_id": "NC_019036",
+        "virus_id": "e87553c1",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Blechum pyramidatum",
+        "isolate_id": "58pdn0x0",
+        "_version": 0,
+        "definition": "Blechum interveinal chlorosis virus DNA A, complete genome",
+        "_id": "NC_019035",
+        "virus_id": "e87553c1",
+        "molecule_structure": "circular"
+    }
+]

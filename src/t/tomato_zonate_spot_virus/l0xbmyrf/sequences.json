@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Lycopersicon esculentum",
+        "isolate_id": "l0xbmyrf",
+        "_version": 0,
+        "definition": "Tomato zonate spot virus segment S, complete sequence",
+        "_id": "NC_010489",
+        "virus_id": "e86fdb75",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Lycopersicon esculentum",
+        "isolate_id": "l0xbmyrf",
+        "_version": 0,
+        "definition": "Tomato zonate spot virus segment L, complete sequence",
+        "_id": "NC_010491",
+        "virus_id": "e86fdb75",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Lycopersicon esculentum",
+        "isolate_id": "l0xbmyrf",
+        "_version": 0,
+        "definition": "Tomato zonate spot virus segment M, complete sequence",
+        "_id": "NC_010490",
+        "virus_id": "e86fdb75",
+        "molecule_structure": "linear"
+    }
+]

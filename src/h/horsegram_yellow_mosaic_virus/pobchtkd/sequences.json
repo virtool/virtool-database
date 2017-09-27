@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Macrotyloma uniflorum (Lam.) Verdc.",
+        "isolate_id": "pobchtkd",
+        "_version": 0,
+        "definition": "Horsegram yellow mosaic virus DNA B, complete genome",
+        "_id": "NC_005636",
+        "virus_id": "7b4df290",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Macrotyloma uniflorum (Lam.) Verdc.",
+        "isolate_id": "pobchtkd",
+        "_version": 0,
+        "definition": "Horsegram yellow mosaic virus, complete genome",
+        "_id": "NC_005635",
+        "virus_id": "7b4df290",
+        "molecule_structure": "circular"
+    }
+]

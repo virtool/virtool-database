@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Fragaria chiloensis",
+        "isolate_id": "v1yx0bri",
+        "_version": 0,
+        "definition": "Fragaria chiloensis latent virus RNA 2, complete genome",
+        "_id": "NC_006567",
+        "virus_id": "60c4ab61",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Fragaria chiloensis",
+        "isolate_id": "v1yx0bri",
+        "_version": 0,
+        "definition": "Fragaria chiloensis latent virus RNA 3, complete sequence",
+        "_id": "NC_006568",
+        "virus_id": "60c4ab61",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Fragaria chiloensis",
+        "isolate_id": "v1yx0bri",
+        "_version": 0,
+        "definition": "Fragaria chiloensis latent virus RNA 1, complete genome",
+        "_id": "NC_006566",
+        "virus_id": "60c4ab61",
+        "molecule_structure": "linear"
+    }
+]

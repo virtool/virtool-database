@@ -10,7 +10,7 @@ DELETED_KEYS = [
     "verified"
 ]
 
-shutil.rmtree("src")
+shutil.rmtree("src", ignore_errors=True)
 os.mkdir("src")
 
 with open("viruses.json", "r") as export_handle:
@@ -42,16 +42,14 @@ with open("viruses.json", "r") as export_handle:
             with open(os.path.join(isolate_path, "isolate.json"), "w") as f:
                 json.dump(isolate, f, indent=4)
 
-            for sequence in sequences:
-                sequence_id = sequence["_id"]
+            fasta_dict = dict()
 
-                sequence_path = os.path.join(isolate_path, sequence_id)
-                os.mkdir(sequence_path)
+            with open(os.path.join(isolate_path, "sequences.json"), "w") as f:
+                for sequence in sequences:
+                    fasta_dict[sequence["_id"]] = sequence.pop("sequence")
 
-                sequence_text = sequence.pop("sequence")
+                json.dump(sequences, f, indent=4)
 
-                with open(os.path.join(sequence_path, "sequence.json"), "w") as f:
-                    json.dump(sequence, f, indent=4)
-
-                with open(os.path.join(sequence_path, "sequence.fa"), "w") as f:
-                    f.write(">{}\n{}\n".format(sequence_id, sequence_text))
+            with open(os.path.join(isolate_path, "sequences.fa"), "w") as f:
+                output = "\n".join(">{}\n{}".format(sid, s) for sid, s in fasta_dict.items())
+                f.write(output)

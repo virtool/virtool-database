@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "m3h8cxgg",
+        "_version": 0,
+        "definition": "Melandrium yellow fleck virus RNA1, complete genome",
+        "_id": "NC_013266",
+        "virus_id": "c3288bc5",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "m3h8cxgg",
+        "_version": 0,
+        "definition": "Melandrium yellow fleck virus RNA2, complete genome",
+        "_id": "NC_013267",
+        "virus_id": "c3288bc5",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "m3h8cxgg",
+        "_version": 0,
+        "definition": "Melandrium yellow fleck virus RNA3, complete genome",
+        "_id": "NC_013268",
+        "virus_id": "c3288bc5",
+        "molecule_structure": "linear"
+    }
+]

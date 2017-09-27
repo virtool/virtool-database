@@ -1,0 +1,16 @@
+[
+    {
+        "host": "Citrus sinensis",
+        "isolate_id": "mvbaeqra",
+        "_id": "KP336747.1",
+        "definition": "Citrus leprosis virus C isolate SJRP segment RNA2, complete sequence",
+        "virus_id": "3df3e045"
+    },
+    {
+        "host": "Citrus sinensis",
+        "isolate_id": "mvbaeqra",
+        "_id": "KP336746.1",
+        "definition": "Citrus leprosis virus C isolate SJRP segment RNA1, complete sequence",
+        "virus_id": "3df3e045"
+    }
+]

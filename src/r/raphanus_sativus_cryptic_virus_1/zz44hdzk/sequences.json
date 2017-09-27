@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Raphanus sativus",
+        "isolate_id": "zz44hdzk",
+        "_version": 0,
+        "definition": "Raphanus sativus cryptic virus 1 dsRNA 1, complete sequence",
+        "_id": "NC_008191",
+        "virus_id": "80074a16",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Raphanus sativus",
+        "isolate_id": "zz44hdzk",
+        "_version": 0,
+        "definition": "Raphanus sativus cryptic virus 1 dsRNA 2, complete sequence",
+        "_id": "NC_008190",
+        "virus_id": "80074a16",
+        "molecule_structure": "linear"
+    }
+]

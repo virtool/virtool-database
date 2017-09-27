@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Raphanus sativus-root cv. Yipinghong",
+        "isolate_id": "wqcgjogr",
+        "_version": 0,
+        "definition": "Raphanus sativus cryptic virus 2 segment 2, complete sequence",
+        "_id": "NC_010344",
+        "virus_id": "50f6d0ec",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Raphanus sativus-root cv. Yipinghong",
+        "isolate_id": "wqcgjogr",
+        "_version": 0,
+        "definition": "Raphanus sativus cryptic virus 2 segment 3, complete sequence",
+        "_id": "NC_010345",
+        "virus_id": "50f6d0ec",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Raphanus sativus-root cv. Yipinghong",
+        "isolate_id": "wqcgjogr",
+        "_version": 0,
+        "definition": "Raphanus sativus cryptic virus 2 segment 1, complete sequence",
+        "_id": "NC_010343",
+        "virus_id": "50f6d0ec",
+        "molecule_structure": "linear"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 8, complete sequence",
+        "_id": "NC_003653",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 4, complete sequence",
+        "_id": "NC_003657",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 9, complete sequence",
+        "_id": "NC_003661",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 10, complete sequence",
+        "_id": "NC_003652",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 6, complete sequence",
+        "_id": "NC_003659",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 1, complete sequence",
+        "_id": "NC_003654",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 5, complete sequence",
+        "_id": "NC_003658",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 2, complete sequence",
+        "_id": "NC_003655",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 7, complete sequence",
+        "_id": "NC_003660",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "u84dm37q",
+        "_version": 0,
+        "definition": "Nilaparvata lugens reovirus segment 3, complete sequence",
+        "_id": "NC_003656",
+        "virus_id": "d48f9d46",
+        "molecule_structure": "linear"
+    }
+]

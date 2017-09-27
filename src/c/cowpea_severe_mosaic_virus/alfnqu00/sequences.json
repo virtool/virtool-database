@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "alfnqu00",
+        "_version": 0,
+        "definition": "Cowpea severe mosaic virus RNA 2, complete sequence",
+        "_id": "NC_003544",
+        "virus_id": "72ffa4ed",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "alfnqu00",
+        "_version": 0,
+        "definition": "Cowpea severe mosaic virus RNA 1, complete sequence",
+        "_id": "NC_003545",
+        "virus_id": "72ffa4ed",
+        "molecule_structure": "linear"
+    }
+]

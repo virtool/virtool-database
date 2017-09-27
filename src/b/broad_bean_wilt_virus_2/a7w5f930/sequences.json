@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "a7w5f930",
+        "_version": 0,
+        "definition": "Broad bean wilt virus 2 RNA2, complete sequence",
+        "_id": "NC_003004",
+        "virus_id": "8986c655",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "a7w5f930",
+        "_version": 0,
+        "definition": "Broad bean wilt virus 2 RNA1, complete sequence",
+        "_id": "NC_003003",
+        "virus_id": "8986c655",
+        "molecule_structure": "linear"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "iouen0j3",
+        "_version": 0,
+        "definition": "Turnip ringspot virus RNA 1, complete genome",
+        "_id": "NC_013218",
+        "virus_id": "1042e8f8",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "iouen0j3",
+        "_version": 0,
+        "definition": "Turnip ringspot virus RNA 2, complete genome",
+        "_id": "NC_013219",
+        "virus_id": "1042e8f8",
+        "molecule_structure": "linear"
+    }
+]

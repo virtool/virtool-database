@@ -1,0 +1,56 @@
+[
+    {
+        "host": null,
+        "isolate_id": "kqgqplhp",
+        "_version": 0,
+        "definition": "Rice grassy stunt virus RNA 4, complete sequence",
+        "_id": "NC_002326",
+        "virus_id": "18c1562f",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kqgqplhp",
+        "_version": 0,
+        "definition": "Rice grassy stunt virus RNA 1, complete sequence",
+        "_id": "NC_002323",
+        "virus_id": "18c1562f",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kqgqplhp",
+        "_version": 0,
+        "definition": "Rice grassy stunt virus RNA 3, complete sequence",
+        "_id": "NC_002325",
+        "virus_id": "18c1562f",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kqgqplhp",
+        "_version": 0,
+        "definition": "Rice grassy stunt virus RNA 5, complete sequence",
+        "_id": "NC_002327",
+        "virus_id": "18c1562f",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kqgqplhp",
+        "_version": 0,
+        "definition": "Rice grassy stunt virus RNA 6, complete sequence",
+        "_id": "NC_002328",
+        "virus_id": "18c1562f",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "kqgqplhp",
+        "_version": 0,
+        "definition": "Rice grassy stunt virus RNA 2, complete sequence",
+        "_id": "NC_002324",
+        "virus_id": "18c1562f",
+        "molecule_structure": "linear"
+    }
+]

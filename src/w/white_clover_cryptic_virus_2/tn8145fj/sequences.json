@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Trifolium repens cv. Lirepa",
+        "isolate_id": "tn8145fj",
+        "_version": 0,
+        "definition": "White clover cryptic virus 2 isolate IPP_Lirepa segment RNA 2,",
+        "_id": "NC_021095",
+        "virus_id": "7858f59e",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Trifolium repens cv. Lirepa",
+        "isolate_id": "tn8145fj",
+        "_version": 0,
+        "definition": "White clover cryptic virus 2 isolate IPP_Lirepa segment RNA 1,",
+        "_id": "NC_021094",
+        "virus_id": "7858f59e",
+        "molecule_structure": "linear"
+    }
+]

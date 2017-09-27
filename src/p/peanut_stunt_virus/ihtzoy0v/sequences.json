@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Vigna unguiculata",
+        "isolate_id": "ihtzoy0v",
+        "_version": 0,
+        "definition": "Peanut stunt virus RNA 3, complete sequence",
+        "_id": "NC_002040",
+        "virus_id": "a8985e15",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Vigna unguiculata",
+        "isolate_id": "ihtzoy0v",
+        "_version": 0,
+        "definition": "Peanut stunt virus RNA 1, complete sequence",
+        "_id": "NC_002038",
+        "virus_id": "a8985e15",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Vigna unguiculata",
+        "isolate_id": "ihtzoy0v",
+        "_version": 0,
+        "definition": "Peanut stunt virus RNA 2, complete sequence",
+        "_id": "NC_002039",
+        "virus_id": "a8985e15",
+        "molecule_structure": "linear"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "g02tmn3s",
+        "_version": 0,
+        "definition": "Barley stripe mosaic virus RNA 2, complete sequence",
+        "_id": "NC_003481",
+        "virus_id": "87c8fc34",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "g02tmn3s",
+        "_version": 0,
+        "definition": "Barley stripe mosaic virus RNA 3, complete sequence",
+        "_id": "NC_003478",
+        "virus_id": "87c8fc34",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "g02tmn3s",
+        "_version": 0,
+        "definition": "Barley stripe mosaic virus RNA 1, complete sequence",
+        "_id": "NC_003469",
+        "virus_id": "87c8fc34",
+        "molecule_structure": "linear"
+    }
+]

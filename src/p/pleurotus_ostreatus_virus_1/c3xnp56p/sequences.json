@@ -1,0 +1,20 @@
+[
+    {
+        "host": "oyster mushroom (Pleurotus ostreatus)",
+        "isolate_id": "c3xnp56p",
+        "_version": 0,
+        "definition": "Pleurotus ostreatus virus 1 RNA-1, complete genome",
+        "_id": "NC_006961",
+        "virus_id": "82ac5d42",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Pleurotus ostreatus",
+        "isolate_id": "c3xnp56p",
+        "_version": 0,
+        "definition": "Pleurotus ostreatus virus 1 RNA-2, complete genome",
+        "_id": "NC_006960",
+        "virus_id": "82ac5d42",
+        "molecule_structure": "linear"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Corchorus capsularis (Jute mallow)",
+        "isolate_id": "vaxkf1t7",
+        "_version": 0,
+        "definition": "Corchorus yellow vein virus - [Hoa Binh] DNA B, complete genome",
+        "_id": "NC_006359",
+        "virus_id": "bf11db36",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Corchorus capsularis (Jute mallow)",
+        "isolate_id": "vaxkf1t7",
+        "_version": 0,
+        "definition": "Corchorus yellow vein virus - [Hoa Binh] DNA A, complete genome",
+        "_id": "NC_006358",
+        "virus_id": "bf11db36",
+        "molecule_structure": "circular"
+    }
+]

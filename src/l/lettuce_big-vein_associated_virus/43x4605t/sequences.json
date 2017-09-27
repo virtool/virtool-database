@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "43x4605t",
+        "_version": 0,
+        "definition": "Lettuce big-vein associated virus RNA 1, complete genome",
+        "_id": "NC_011558",
+        "virus_id": "d28e0cd7",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "43x4605t",
+        "_version": 0,
+        "definition": "Lettuce big-vein associated virus segment 2, complete genome",
+        "_id": "NC_011568",
+        "virus_id": "d28e0cd7",
+        "molecule_structure": "linear"
+    }
+]

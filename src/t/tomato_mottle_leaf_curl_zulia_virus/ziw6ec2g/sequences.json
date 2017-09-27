@@ -1,0 +1,10 @@
+[
+    {
+        "host": "tomato",
+        "isolate_id": "ziw6ec2g",
+        "definition": "Tomato mottle leaf curl Zulia virus DNA-A, complete genome",
+        "_id": "NC_015122",
+        "virus_id": "4139ab13",
+        "molecule_structure": "circular"
+    }
+]

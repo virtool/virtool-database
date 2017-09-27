@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Dichopogon strictus",
+        "isolate_id": "2a7tm73y",
+        "_version": 0,
+        "definition": "Chocolate lily virus A RNA1, complete genome",
+        "_id": "NC_016443",
+        "virus_id": "6531d8a4",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Dichopogon strictus",
+        "isolate_id": "2a7tm73y",
+        "_version": 0,
+        "definition": "Chocolate lily virus A RNA2, complete genome",
+        "_id": "NC_016444",
+        "virus_id": "6531d8a4",
+        "molecule_structure": "linear"
+    }
+]

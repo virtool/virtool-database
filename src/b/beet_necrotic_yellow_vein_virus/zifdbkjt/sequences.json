@@ -1,0 +1,47 @@
+[
+    {
+        "host": null,
+        "isolate_id": "zifdbkjt",
+        "_version": 0,
+        "definition": "Beet necrotic yellow vein virus RNA 3, complete sequence",
+        "_id": "NC_003516",
+        "virus_id": "950b78e6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "zifdbkjt",
+        "_version": 0,
+        "definition": "Beet necrotic yellow vein virus RNA 1, complete sequence",
+        "_id": "NC_003514",
+        "virus_id": "950b78e6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "zifdbkjt",
+        "_version": 0,
+        "definition": "Beet necrotic yellow vein virus RNA 5, complete sequence",
+        "_id": "NC_003513",
+        "virus_id": "950b78e6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "zifdbkjt",
+        "_version": 0,
+        "definition": "Beet necrotic yellow vein virus RNA 2, complete sequence",
+        "_id": "NC_003515",
+        "virus_id": "950b78e6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "zifdbkjt",
+        "_version": 0,
+        "definition": "Beet necrotic yellow vein virus RNA 4, complete sequence",
+        "_id": "NC_003517",
+        "virus_id": "950b78e6",
+        "molecule_structure": "linear"
+    }
+]

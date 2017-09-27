@@ -1,6 +1,6 @@
 {
+    "default": true,
     "source_type": "strain",
     "source_name": "ATCC PV132",
-    "default": true,
     "id": "agidm4l8"
 }

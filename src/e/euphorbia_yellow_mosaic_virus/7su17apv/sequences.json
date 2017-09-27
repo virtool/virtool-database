@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Euphorbia heterophylla",
+        "isolate_id": "7su17apv",
+        "_version": 0,
+        "definition": "Euphorbia yellow mosaic virus DNA A, complete genome",
+        "_id": "NC_012553",
+        "virus_id": "2cd2c0fc",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Euphorbia heterophylla",
+        "isolate_id": "7su17apv",
+        "_version": 0,
+        "definition": "Euphorbia yellow mosaic virus DNA B, complete genome",
+        "_id": "NC_012554",
+        "virus_id": "2cd2c0fc",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Cleome affinis",
+        "isolate_id": "7su17apv",
+        "_version": 0,
+        "definition": "Euphorbia mosaic virus associated DNA 1, complete genome",
+        "_id": "NC_014630",
+        "virus_id": "2cd2c0fc",
+        "molecule_structure": "circular"
+    }
+]

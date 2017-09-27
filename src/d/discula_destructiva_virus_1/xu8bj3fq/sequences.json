@@ -1,0 +1,38 @@
+[
+    {
+        "host": "Discula destructiva Redlin",
+        "isolate_id": "xu8bj3fq",
+        "_version": 0,
+        "definition": "Discula destructiva virus 1 segment 3, complete genome",
+        "_id": "NC_002801",
+        "virus_id": "2cb9cec7",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Discula destructiva Redlin",
+        "isolate_id": "xu8bj3fq",
+        "_version": 0,
+        "definition": "Discula destructiva virus 1 segment 1, complete genome",
+        "_id": "NC_002797",
+        "virus_id": "2cb9cec7",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Discula destructiva Redlin",
+        "isolate_id": "xu8bj3fq",
+        "_version": 0,
+        "definition": "Discula destructiva virus 1 RNA 4, complete genome",
+        "_id": "NC_002802",
+        "virus_id": "2cb9cec7",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Discula destructiva Redlin",
+        "isolate_id": "xu8bj3fq",
+        "_version": 0,
+        "definition": "Discula destructiva virus 1 segment 2, complete genome",
+        "_id": "NC_002800",
+        "virus_id": "2cb9cec7",
+        "molecule_structure": "linear"
+    }
+]

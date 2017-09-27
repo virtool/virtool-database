@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "vkravqqr",
+        "_version": 0,
+        "definition": "Tomato black ring virus RNA 2, complete sequence",
+        "_id": "NC_004440",
+        "virus_id": "add930f0",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "vkravqqr",
+        "_version": 0,
+        "definition": "Tomato black ring virus RNA 1, complete sequence",
+        "_id": "NC_004439",
+        "virus_id": "add930f0",
+        "molecule_structure": "linear"
+    }
+]

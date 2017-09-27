@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Sclerotinia sclerotiorum strain Sunf-M",
+        "isolate_id": "t8b2qpyg",
+        "_version": 0,
+        "definition": "Sclerotinia sclerotiorum partitivirus S segment 1, complete genome",
+        "_id": "NC_013014",
+        "virus_id": "4fb00831",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Sclerotinia sclerotiorum strain Sunf-M",
+        "isolate_id": "t8b2qpyg",
+        "_version": 0,
+        "definition": "Sclerotinia sclerotiorum partitivirus S segment 2, complete genome",
+        "_id": "NC_013015",
+        "virus_id": "4fb00831",
+        "molecule_structure": "linear"
+    }
+]

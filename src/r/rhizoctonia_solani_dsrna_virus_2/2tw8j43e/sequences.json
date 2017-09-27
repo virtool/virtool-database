@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Rhizoctonia solani AG-1 IA; strain GD11",
+        "isolate_id": "2tw8j43e",
+        "_version": 0,
+        "definition": "Rhizoctonia solani dsRNA virus 2 segment 2, complete sequence",
+        "_id": "NC_023685",
+        "virus_id": "8243edf6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Rhizoctonia solani AG-1 IA; strain GD11",
+        "isolate_id": "2tw8j43e",
+        "_version": 0,
+        "definition": "Rhizoctonia solani dsRNA virus 2 segment 1, complete sequence",
+        "_id": "NC_023684",
+        "virus_id": "8243edf6",
+        "molecule_structure": "linear"
+    }
+]

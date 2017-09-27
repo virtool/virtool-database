@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "hay6kla1",
+        "_version": 0,
+        "definition": "Sweet clover necrotic mosaic virus RNA 2, complete sequence",
+        "_id": "NC_003807",
+        "virus_id": "b9694555",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "hay6kla1",
+        "_version": 0,
+        "definition": "Sweet clover necrotic mosaic virus RNA 1, complete sequence",
+        "_id": "NC_003806",
+        "virus_id": "b9694555",
+        "molecule_structure": "linear"
+    }
+]

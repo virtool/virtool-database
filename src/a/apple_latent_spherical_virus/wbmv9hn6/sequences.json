@@ -1,0 +1,20 @@
+[
+    {
+        "host": null,
+        "isolate_id": "wbmv9hn6",
+        "_version": 0,
+        "definition": "Apple latent spherical virus segment 2, complete sequence",
+        "_id": "NC_003788",
+        "virus_id": "96691bc6",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "wbmv9hn6",
+        "_version": 0,
+        "definition": "Apple latent spherical virus segment 1, complete sequence",
+        "_id": "NC_003787",
+        "virus_id": "96691bc6",
+        "molecule_structure": "linear"
+    }
+]

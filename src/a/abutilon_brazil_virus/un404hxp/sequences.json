@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Abutilon sp.",
+        "isolate_id": "un404hxp",
+        "_version": 0,
+        "definition": "Abutilon Brazil virus DNA A, complete genome",
+        "_id": "NC_014138",
+        "virus_id": "fdc4f575",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Abutilon sp.",
+        "isolate_id": "un404hxp",
+        "_version": 0,
+        "definition": "Abutilon Brazil virus DNA B, complete genome",
+        "_id": "NC_014139",
+        "virus_id": "fdc4f575",
+        "molecule_structure": "circular"
+    }
+]

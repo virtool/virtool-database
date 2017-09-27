@@ -1,0 +1,20 @@
+[
+    {
+        "host": "watermelon",
+        "isolate_id": "4rz5qi66",
+        "_version": 0,
+        "definition": "Watermelon chlorotic stunt virus DNA B, complete sequence",
+        "_id": "NC_003709",
+        "virus_id": "05a8e531",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "watermelon",
+        "isolate_id": "4rz5qi66",
+        "_version": 0,
+        "definition": "Watermelon chlorotic stunt virus DNA A, complete sequence",
+        "_id": "NC_003708",
+        "virus_id": "05a8e531",
+        "molecule_structure": "circular"
+    }
+]

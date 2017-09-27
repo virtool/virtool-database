@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Asystasia gangetica",
+        "isolate_id": "kijp2l1p",
+        "_version": 0,
+        "definition": "Asystasia begomovirus 1 segment DNA-A, complete sequence",
+        "_id": "NC_016575",
+        "virus_id": "59982f86",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Asystasia gangetica",
+        "isolate_id": "kijp2l1p",
+        "_version": 0,
+        "definition": "Asystasia begomovirus 1 isolate ABgV1 segment DNA-B, complete",
+        "_id": "NC_016576",
+        "virus_id": "59982f86",
+        "molecule_structure": "circular"
+    }
+]

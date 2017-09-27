@@ -1,0 +1,29 @@
+[
+    {
+        "host": null,
+        "isolate_id": "wgfgl03q",
+        "_version": 0,
+        "definition": "Groundnut bud necrosis virus segment S, complete sequence",
+        "_id": "NC_003619",
+        "virus_id": "f7b4b2ed",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "wgfgl03q",
+        "_version": 0,
+        "definition": "Groundnut bud necrosis virus segment M, complete sequence",
+        "_id": "NC_003620",
+        "virus_id": "f7b4b2ed",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "wgfgl03q",
+        "_version": 0,
+        "definition": "Groundnut bud necrosis virus segment L, complete sequence",
+        "_id": "NC_003614",
+        "virus_id": "f7b4b2ed",
+        "molecule_structure": "linear"
+    }
+]

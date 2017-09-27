@@ -1,0 +1,16 @@
+[
+    {
+        "host": "malus",
+        "isolate_id": "dbebfa4e",
+        "_id": "16TFP078_Partiti_TF2_seg2",
+        "definition": "complete? segment 2 of a new Partitivirus",
+        "virus_id": "5d42a7fa"
+    },
+    {
+        "host": "malus",
+        "isolate_id": "dbebfa4e",
+        "_id": "16TFP078_Partiti_TF2_seg1",
+        "definition": "complete? segment 1 of new Partitivirus. Unclassified cryptic virus?",
+        "virus_id": "5d42a7fa"
+    }
+]

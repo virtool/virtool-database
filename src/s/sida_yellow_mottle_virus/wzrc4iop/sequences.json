@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Malvastrum coromandelianum",
+        "isolate_id": "wzrc4iop",
+        "_version": 0,
+        "definition": "Sida yellow mottle virus DNA-B, complete genome",
+        "_id": "NC_016083",
+        "virus_id": "7a6f0678",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Malvastrum coromandelianum",
+        "isolate_id": "wzrc4iop",
+        "_version": 0,
+        "definition": "Sida yellow mottle virus DNA-A, complete genome",
+        "_id": "NC_016082",
+        "virus_id": "7a6f0678",
+        "molecule_structure": "circular"
+    }
+]

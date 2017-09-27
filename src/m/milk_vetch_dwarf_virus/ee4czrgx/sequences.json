@@ -1,0 +1,74 @@
+[
+    {
+        "host": null,
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus segment DNA-R, complete sequence",
+        "_id": "NC_003648",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus segment DNA-U2, complete sequence",
+        "_id": "NC_003644",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus segment DNA-U1, complete sequence",
+        "_id": "NC_003642",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus segment DNA-M, complete sequence",
+        "_id": "NC_003645",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "Astragalus sinicus",
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus segment DNA-S, complete sequence",
+        "_id": "NC_003646",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus genome segment DNA-C encoding viral",
+        "_id": "NC_003641",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus segment DNA-N, complete sequence",
+        "_id": "NC_003643",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": null,
+        "isolate_id": "ee4czrgx",
+        "_version": 0,
+        "definition": "Milk vetch dwarf virus DNA, segment DNA-U4, complete sequence",
+        "_id": "NC_023626",
+        "virus_id": "cf5a5920",
+        "molecule_structure": "circular"
+    }
+]

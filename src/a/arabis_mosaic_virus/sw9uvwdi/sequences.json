@@ -1,0 +1,20 @@
+[
+    {
+        "host": "grapevine 'Pinot gris'",
+        "isolate_id": "sw9uvwdi",
+        "_id": "NC_006057",
+        "_version": 0,
+        "definition": "Arabis mosaic virus RNA 1, complete sequence",
+        "virus_id": "5628ed52",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "grapevine cultivar Pinot gris",
+        "isolate_id": "sw9uvwdi",
+        "_id": "NC_006056",
+        "_version": 0,
+        "definition": "Arabis mosaic virus RNA 2, complete sequence",
+        "virus_id": "5628ed52",
+        "molecule_structure": "linear"
+    }
+]

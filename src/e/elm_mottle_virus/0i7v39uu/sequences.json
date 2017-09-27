@@ -1,0 +1,29 @@
+[
+    {
+        "host": "Ulmus glabra",
+        "isolate_id": "0i7v39uu",
+        "_version": 0,
+        "definition": "Elm mottle virus RNA 2, complete sequence",
+        "_id": "NC_003568",
+        "virus_id": "39da60ba",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Ulmus glabra",
+        "isolate_id": "0i7v39uu",
+        "_version": 0,
+        "definition": "Elm mottle virus RNA 1, complete sequence",
+        "_id": "NC_003569",
+        "virus_id": "39da60ba",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Ulmus glabra",
+        "isolate_id": "0i7v39uu",
+        "_version": 0,
+        "definition": "Elm mottle virus RNA 3, complete sequence",
+        "_id": "NC_003570",
+        "virus_id": "39da60ba",
+        "molecule_structure": "linear"
+    }
+]

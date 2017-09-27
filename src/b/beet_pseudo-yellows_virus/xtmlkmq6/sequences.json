@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Nicotiana benthamiana",
+        "isolate_id": "xtmlkmq6",
+        "_version": 0,
+        "definition": "Beet pseudo-yellows virus RNA 2, complete genome",
+        "_id": "NC_005210",
+        "virus_id": "27f0bbd2",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": null,
+        "isolate_id": "xtmlkmq6",
+        "_version": 0,
+        "definition": "Beet pseudo-yellows virus RNA 1, complete genome",
+        "_id": "NC_005209",
+        "virus_id": "27f0bbd2",
+        "molecule_structure": "linear"
+    }
+]

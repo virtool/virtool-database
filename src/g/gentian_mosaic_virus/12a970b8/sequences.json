@@ -1,0 +1,16 @@
+[
+    {
+        "host": "",
+        "isolate_id": "12a970b8",
+        "_id": "AB084452",
+        "definition": "Gentian mosaic virus RNA1 gene for polyprotein, complete cds.",
+        "virus_id": "369f318f"
+    },
+    {
+        "host": "",
+        "isolate_id": "12a970b8",
+        "_id": "AB084453",
+        "definition": "Gentian mosaic virus RNA2 gene for polyprotein, complete cds.",
+        "virus_id": "369f318f"
+    }
+]

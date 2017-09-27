@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Cucurbita sp.",
+        "isolate_id": "lomjzs79",
+        "_version": 0,
+        "definition": "Melon chlorotic leaf curl virus DNA A, complete sequence",
+        "_id": "NC_003865",
+        "virus_id": "9763b7a3",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "cucurbit",
+        "isolate_id": "lomjzs79",
+        "_version": 0,
+        "definition": "Squash yellow mild mottle virus DNA B, complete sequence",
+        "_id": "NC_003860",
+        "virus_id": "9763b7a3",
+        "molecule_structure": "circular"
+    }
+]

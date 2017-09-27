@@ -1,0 +1,20 @@
+[
+    {
+        "host": "Phaseolus vulgaris",
+        "isolate_id": "tn2kc5b4",
+        "_version": 0,
+        "definition": "Bean yellow disorder virus RNA 1, complete sequence",
+        "_id": "NC_010560",
+        "virus_id": "1e4d916c",
+        "molecule_structure": "linear"
+    },
+    {
+        "host": "Phaseolus vulgaris",
+        "isolate_id": "tn2kc5b4",
+        "_version": 0,
+        "definition": "Bean yellow disorder virus RNA 2, complete sequence",
+        "_id": "NC_010561",
+        "virus_id": "1e4d916c",
+        "molecule_structure": "linear"
+    }
+]

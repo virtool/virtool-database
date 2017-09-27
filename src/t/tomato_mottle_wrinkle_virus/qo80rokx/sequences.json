@@ -1,0 +1,20 @@
+[
+    {
+        "host": "tomato",
+        "isolate_id": "qo80rokx",
+        "_version": 0,
+        "definition": "Tomato mottle wrinkle virus isolate Ar:Pichanal:400 segment DNA-A,",
+        "_id": "NC_025265",
+        "virus_id": "01a58a1f",
+        "molecule_structure": "circular"
+    },
+    {
+        "host": "tomato",
+        "isolate_id": "qo80rokx",
+        "_version": 0,
+        "definition": "Tomato mottle wrinkle virus isolate Ar:Pichanal:400 segment DNA-B,",
+        "_id": "NC_025266",
+        "virus_id": "01a58a1f",
+        "molecule_structure": "circular"
+    }
+]
