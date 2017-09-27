@@ -1,5 +1,6 @@
 import os
 import json
+import arrow
 import shutil
 import argparse
 
@@ -18,6 +19,14 @@ parser.add_argument(
     "src",
     type=str,
     help="the path to the database src directory",
+)
+
+parser.add_argument(
+    "-V",
+    type=str,
+    dest="version",
+    default=None,
+    help="the version string to include in the viruses.json file"
 )
 
 parser.add_argument(
@@ -50,31 +59,36 @@ if __name__ == "__main__":
             for isolate_path in [os.path.join(virus_path, i) for i in isolate_ids]:
                 with open(os.path.join(isolate_path, "isolate.json"), "r") as f:
                     isolate = json.load(f)
-                    isolate["sequences"] = list()
 
+                with open(os.path.join(isolate_path, "sequences.json"), "r") as f:
+                    isolate["sequences"] = json.load(f)
 
-                seq_ids = [s for s in os.listdir(isolate_path) if s != "isolate.json" and s[0] != "."]
+                with open(os.path.join(isolate_path, "sequences.fa"), "r") as f:
+                    sid = None
+                    sequence = list()
 
-                for seq_path in [os.path.join(isolate_path, s) for s in seq_ids]:
-                    with open(os.path.join(seq_path, "sequence.json"), "r") as f:
-                        sequence = json.load(f)
+                    for line in f:
+                        if line[0] == ">":
+                            if sid:
+                                for sequence in isolate["sequences"]:
+                                    if sequence["_id"] == sid:
+                                        sequence["sequence"] = "".join(sequence)
+                                        break
 
-                    with open(os.path.join(seq_path, "sequence.fa"), "r") as f:
-                        seq = list()
+                            sid = line.rstrip().replace(">", "")
+                            sequence = list()
+                            continue
 
-                        for line in f:
-                            if line[0] == ">":
-                                continue
-
-                            seq.append(line.rstrip())
-
-                        sequence["sequence"] = "".join(seq)
-
-                    isolate["sequences"].append(sequence)
+                        if line:
+                            sequence.append(line.rstrip())
 
                 virus["isolates"].append(isolate)
 
             viruses.append(virus)
 
     with open(args.output, "w") as f:
-        json.dump(viruses, f)
+        json.dump({
+            "data": viruses,
+            "version": args.version,
+            "created_at": arrow.utcnow().isoformat()
+        }, f, indent=4)
