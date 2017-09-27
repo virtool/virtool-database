@@ -3,7 +3,6 @@ import json
 import arrow
 import shutil
 import pytest
-import filecmp
 import subprocess
 
 TEST_FILE_PATH = "tests/files/viruses.json"
