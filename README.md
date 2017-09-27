@@ -11,7 +11,7 @@ internal to the Centre For Plant Health and are not available in GenBank.**
 
 This database consists of primarily of all curated plant virus genomes as
 [published by NCBI](https://www.ncbi.nlm.nih.gov/genomes/GenomesGroup.cgi?taxid=10239). There are some other additions
-in the form of
+in the form of:
 
 - viroid sequences
 - additions by the Centre for Plant Health staff as encountered during analysis
