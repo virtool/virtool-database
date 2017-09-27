@@ -1,7 +1,6 @@
 import os
 import json
 import arrow
-import shutil
 import argparse
 
 
