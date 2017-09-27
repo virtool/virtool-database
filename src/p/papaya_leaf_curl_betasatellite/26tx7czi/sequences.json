@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "26tx7czi",
+        "molecule_structure": "linear",
         "definition": "Papaya leaf curl virus-associated DNA beta, complete genome",
-        "_id": "NC_004706",
         "virus_id": "679fbec7",
-        "molecule_structure": "linear"
+        "isolate_id": "26tx7czi",
+        "_id": "NC_004706",
+        "host": null
     }
 ]

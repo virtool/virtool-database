@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "serotype",
+    "id": "garcbe0w",
     "source_name": "MAV-PS1",
-    "id": "garcbe0w"
+    "default": true
 }

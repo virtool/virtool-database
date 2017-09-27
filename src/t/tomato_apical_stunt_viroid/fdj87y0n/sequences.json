@@ -1,10 +1,10 @@
 [
     {
-        "host": "",
-        "isolate_id": "fdj87y0n",
+        "molecule_structure": "",
         "definition": "Tomato apical viroid complete sequence",
-        "_id": "NC_001553",
         "virus_id": "259ae1cc",
-        "molecule_structure": ""
+        "isolate_id": "fdj87y0n",
+        "_id": "NC_001553",
+        "host": ""
     }
 ]

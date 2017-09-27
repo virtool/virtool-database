@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "hs57c6tl",
     "source_name": "A4",
-    "id": "hs57c6tl"
+    "default": false
 }

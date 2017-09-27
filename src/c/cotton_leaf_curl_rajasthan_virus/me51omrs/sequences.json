@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "me51omrs",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl Rajasthan virus segment A, complete genome",
-        "_id": "NC_003199",
         "virus_id": "def0e68d",
-        "molecule_structure": "circular"
+        "isolate_id": "me51omrs",
+        "_id": "NC_003199",
+        "host": null
     }
 ]

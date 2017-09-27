@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "4r38lmu2",
+        "molecule_structure": "linear",
         "definition": "Streptocarpus flower break virus, complete genome",
-        "_id": "NC_008365",
         "virus_id": "606dac03",
-        "molecule_structure": "linear"
+        "isolate_id": "4r38lmu2",
+        "_id": "NC_008365",
+        "host": null
     }
 ]

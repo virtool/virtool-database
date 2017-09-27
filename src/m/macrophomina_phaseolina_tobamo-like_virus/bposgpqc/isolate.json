@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "bposgpqc",
     "source_name": "IL-01 2013",
-    "id": "bposgpqc"
+    "default": true
 }

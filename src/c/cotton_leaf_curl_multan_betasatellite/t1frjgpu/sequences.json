@@ -1,10 +1,10 @@
 [
     {
-        "host": "Hibiscus rosa-sinensis (Rose Mallow)",
-        "isolate_id": "t1frjgpu",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl Multan virus satellite DNA beta, complete genome",
-        "_id": "NC_009535",
         "virus_id": "00dc42d3",
-        "molecule_structure": "circular"
+        "isolate_id": "t1frjgpu",
+        "_id": "NC_009535",
+        "host": "Hibiscus rosa-sinensis (Rose Mallow)"
     }
 ]

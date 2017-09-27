@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "ebc9htgr",
     "source_name": "Tamaulipas",
-    "id": "ebc9htgr"
+    "default": true
 }

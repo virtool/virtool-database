@@ -1,10 +1,10 @@
 [
     {
-        "host": "Asclepias viridis",
-        "isolate_id": "t3u977ia",
+        "molecule_structure": "linear",
         "definition": "Asclepias asymptomatic virus, complete genome",
-        "_id": "NC_015523",
         "virus_id": "272aeb1f",
-        "molecule_structure": "linear"
+        "isolate_id": "t3u977ia",
+        "_id": "NC_015523",
+        "host": "Asclepias viridis"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "6f03a7ce",
+        "molecule_structure": "linear",
         "definition": "Turnip crinkle virus, complete genome",
-        "_id": "NC_003821",
         "virus_id": "4e0f8c37",
-        "molecule_structure": "linear"
+        "isolate_id": "6f03a7ce",
+        "_id": "NC_003821",
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "yq2jckl0",
+        "molecule_structure": "linear",
         "definition": "Schlumbergera virus X, complete genome",
-        "_id": "NC_011659",
         "virus_id": "50e6b7d5",
-        "molecule_structure": "linear"
+        "isolate_id": "yq2jckl0",
+        "_id": "NC_011659",
+        "host": null
     }
 ]

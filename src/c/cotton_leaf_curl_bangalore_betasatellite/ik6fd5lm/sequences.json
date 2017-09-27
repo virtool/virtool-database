@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ik6fd5lm",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl Bangalore virus-associated DNA beta, complete",
-        "_id": "NC_007219",
         "virus_id": "27b756e8",
-        "molecule_structure": "circular"
+        "isolate_id": "ik6fd5lm",
+        "_id": "NC_007219",
+        "host": null
     }
 ]

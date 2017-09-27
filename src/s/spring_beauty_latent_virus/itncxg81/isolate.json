@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "itncxg81",
     "source_name": "KU1",
-    "id": "itncxg81"
+    "default": true
 }

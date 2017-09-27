@@ -1,10 +1,10 @@
 [
     {
-        "host": "Chrysanthemum",
-        "isolate_id": "y76wm4od",
+        "molecule_structure": "linear",
         "definition": "Chrysanthemum virus B, complete genome",
-        "_id": "NC_009087",
         "virus_id": "447a10dd",
-        "molecule_structure": "linear"
+        "isolate_id": "y76wm4od",
+        "_id": "NC_009087",
+        "host": "Chrysanthemum"
     }
 ]

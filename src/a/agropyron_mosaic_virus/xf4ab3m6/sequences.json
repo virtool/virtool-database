@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "xf4ab3m6",
+        "molecule_structure": "linear",
         "definition": "Agropyron mosaic virus, complete genome",
-        "_id": "NC_005903",
         "virus_id": "0056e9af",
-        "molecule_structure": "linear"
+        "isolate_id": "xf4ab3m6",
+        "_id": "NC_005903",
+        "host": null
     }
 ]

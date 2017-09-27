@@ -1,10 +1,10 @@
 [
     {
-        "host": "Abelmoschus esculentus (okra)",
-        "isolate_id": "fj7pmh0o",
+        "molecule_structure": "circular",
         "definition": "Okra leaf curl India virus [India:Sonipat EL14A:2006] DNA-A,",
-        "_id": "NC_014847",
         "virus_id": "8fc34d4b",
-        "molecule_structure": "circular"
+        "isolate_id": "fj7pmh0o",
+        "_id": "NC_014847",
+        "host": "Abelmoschus esculentus (okra)"
     }
 ]

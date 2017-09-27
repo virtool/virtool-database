@@ -1,11 +1,11 @@
 [
     {
-        "host": "sweet potato",
-        "isolate_id": "qkpgmae7",
-        "_version": 0,
-        "definition": "Sweet potato leaf curl Henan virus isolate China:Henan10(2):2012,",
         "_id": "NC_024117",
+        "molecule_structure": "circular",
+        "isolate_id": "qkpgmae7",
         "virus_id": "0ffea8de",
-        "molecule_structure": "circular"
+        "definition": "Sweet potato leaf curl Henan virus isolate China:Henan10(2):2012,",
+        "_version": 0,
+        "host": "sweet potato"
     }
 ]

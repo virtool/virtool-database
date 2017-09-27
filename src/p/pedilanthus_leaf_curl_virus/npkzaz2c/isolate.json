@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "npkzaz2c",
     "source_name": "Pakistan:Multan:2004",
-    "id": "npkzaz2c"
+    "default": true
 }

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "5hzo5wr3",
+        "molecule_structure": "circular",
         "definition": "Pepper yellow vein Mali virus, complete genome",
-        "_id": "NC_005347",
         "virus_id": "4af14759",
-        "molecule_structure": "circular"
+        "isolate_id": "5hzo5wr3",
+        "_id": "NC_005347",
+        "host": null
     }
 ]

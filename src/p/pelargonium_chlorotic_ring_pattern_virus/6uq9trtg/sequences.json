@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "6uq9trtg",
+        "molecule_structure": "linear",
         "definition": "Pelargonium chlorotic ring pattern virus isolate GR57, complete",
-        "_id": "NC_005985",
         "virus_id": "b2b80086",
-        "molecule_structure": "linear"
+        "isolate_id": "6uq9trtg",
+        "_id": "NC_005985",
+        "host": null
     }
 ]

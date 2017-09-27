@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "7mrjcag0",
+        "molecule_structure": "linear",
         "definition": "Plum pox virus, complete genome",
-        "_id": "NC_001445",
         "virus_id": "b74b73ea",
-        "molecule_structure": "linear"
+        "isolate_id": "7mrjcag0",
+        "_id": "NC_001445",
+        "host": null
     }
 ]

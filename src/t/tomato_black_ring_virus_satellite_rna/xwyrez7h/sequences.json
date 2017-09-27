@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "xwyrez7h",
+        "molecule_structure": "linear",
         "definition": "Tomato black ring virus satellite RNA, complete genome",
-        "_id": "NC_003890",
         "virus_id": "eadc2c4e",
-        "molecule_structure": "linear"
+        "isolate_id": "xwyrez7h",
+        "_id": "NC_003890",
+        "host": null
     }
 ]

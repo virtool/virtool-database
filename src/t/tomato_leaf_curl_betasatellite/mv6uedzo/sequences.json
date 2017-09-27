@@ -1,9 +1,9 @@
 [
     {
-        "host": "Nicotiana tabacum",
+        "definition": "Tomato leaf curl Bangladesh betasatellite, complete genome.",
+        "virus_id": "397fe1d9",
         "isolate_id": "mv6uedzo",
         "_id": "NC_014594",
-        "definition": "Tomato leaf curl Bangladesh betasatellite, complete genome.",
-        "virus_id": "397fe1d9"
+        "host": "Nicotiana tabacum"
     }
 ]

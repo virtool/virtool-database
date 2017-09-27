@@ -1,10 +1,10 @@
 [
     {
-        "host": "arrow leaf (Sida rhombiforlia, Malvaceae); weed",
-        "isolate_id": "qvj3jvbi",
+        "molecule_structure": "circular",
         "definition": "Sida yellow vein Vietnam virus satellite DNA beta, complete genome",
-        "_id": "NC_009558",
         "virus_id": "f27ee491",
-        "molecule_structure": "circular"
+        "isolate_id": "qvj3jvbi",
+        "_id": "NC_009558",
+        "host": "arrow leaf (Sida rhombiforlia, Malvaceae); weed"
     }
 ]

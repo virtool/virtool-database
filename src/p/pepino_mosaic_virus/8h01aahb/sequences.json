@@ -1,9 +1,9 @@
 [
     {
-        "host": "Solanum pimpinellifolium",
+        "definition": "Pepino mosaic virus complete genome, isolate Chi2.9.",
+        "virus_id": "be3b9938",
         "isolate_id": "8h01aahb",
         "_id": "HG313805",
-        "definition": "Pepino mosaic virus complete genome, isolate Chi2.9.",
-        "virus_id": "be3b9938"
+        "host": "Solanum pimpinellifolium"
     }
 ]

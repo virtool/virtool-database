@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "iekegses",
     "source_name": "Ghana",
-    "id": "iekegses"
+    "default": true
 }

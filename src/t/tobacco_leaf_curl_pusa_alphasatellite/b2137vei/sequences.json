@@ -1,10 +1,10 @@
 [
     {
-        "host": "Nicotiana tabacum",
-        "isolate_id": "b2137vei",
+        "molecule_structure": "circular",
         "definition": "Tobacco leaf curl PUSA alphasatellite, complete genome",
-        "_id": "NC_014597",
         "virus_id": "535a7392",
-        "molecule_structure": "circular"
+        "isolate_id": "b2137vei",
+        "_id": "NC_014597",
+        "host": "Nicotiana tabacum"
     }
 ]

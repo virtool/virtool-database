@@ -1,6 +1,6 @@
 {
-    "name": "Tomato spotted wilt virus",
     "_id": "af1ad33d",
-    "lower_name": "tomato spotted wilt virus",
-    "abbreviation": "TSWV"
+    "abbreviation": "TSWV",
+    "name": "Tomato spotted wilt virus",
+    "lower_name": "tomato spotted wilt virus"
 }

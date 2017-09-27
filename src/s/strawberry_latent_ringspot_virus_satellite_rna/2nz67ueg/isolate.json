@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "2nz67ueg",
     "source_name": "T39",
-    "id": "2nz67ueg"
+    "default": true
 }

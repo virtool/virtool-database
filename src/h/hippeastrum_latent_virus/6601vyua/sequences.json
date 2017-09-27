@@ -1,10 +1,10 @@
 [
     {
-        "host": "Hippeastrum hybridum Hort.",
-        "isolate_id": "6601vyua",
+        "molecule_structure": "linear",
         "definition": "Hippeastrum latent virus, complete genome",
-        "_id": "NC_011540",
         "virus_id": "7ae1a6e3",
-        "molecule_structure": "linear"
+        "isolate_id": "6601vyua",
+        "_id": "NC_011540",
+        "host": "Hippeastrum hybridum Hort."
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "o4fic1od",
+        "molecule_structure": "linear",
         "definition": "Carrot red leaf luteovirus associated RNA, complete genome",
-        "_id": "NC_003871",
         "virus_id": "3f9f3deb",
-        "molecule_structure": "linear"
+        "isolate_id": "o4fic1od",
+        "_id": "NC_003871",
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Gossypium hirsutum (cotton)",
-        "isolate_id": "yt8s6jj6",
+        "molecule_structure": "linear",
         "definition": "Cotton leafroll dwarf virus, complete genome",
-        "_id": "NC_014545",
         "virus_id": "bff6633d",
-        "molecule_structure": "linear"
+        "isolate_id": "yt8s6jj6",
+        "_id": "NC_014545",
+        "host": "Gossypium hirsutum (cotton)"
     }
 ]

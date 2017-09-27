@@ -1,10 +1,10 @@
 [
     {
-        "host": "Malvastrum coromandelianum",
-        "isolate_id": "l1kfjuvu",
+        "molecule_structure": "circular",
         "definition": "Malvastrum yellow vein Yunnan virus, complete genome",
-        "_id": "NC_006631",
         "virus_id": "74bc286f",
-        "molecule_structure": "circular"
+        "isolate_id": "l1kfjuvu",
+        "_id": "NC_006631",
+        "host": "Malvastrum coromandelianum"
     }
 ]

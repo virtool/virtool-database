@@ -1,6 +1,6 @@
 {
-    "name": "Iris yellow spot virus",
     "_id": "f1bb9713",
-    "lower_name": "iris yellow spot virus",
-    "abbreviation": "IYSV"
+    "abbreviation": "IYSV",
+    "name": "Iris yellow spot virus",
+    "lower_name": "iris yellow spot virus"
 }

@@ -1,10 +1,10 @@
 [
     {
-        "host": "aphid",
-        "isolate_id": "wean96jx",
+        "molecule_structure": "",
         "definition": "Tomato apical viroid complete sequence",
-        "_id": "KF484878",
         "virus_id": "259ae1cc",
-        "molecule_structure": ""
+        "isolate_id": "wean96jx",
+        "_id": "KF484878",
+        "host": "aphid"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "xiijmpoo",
     "source_name": "Jordanian",
-    "id": "xiijmpoo"
+    "default": false
 }

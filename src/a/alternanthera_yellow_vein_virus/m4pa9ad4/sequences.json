@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ludwigia hyssopifolia",
-        "isolate_id": "m4pa9ad4",
+        "molecule_structure": "circular",
         "definition": "Alternanthera yellow vein virus DNA-A, complete genome",
-        "_id": "NC_007211",
         "virus_id": "fae1ef93",
-        "molecule_structure": "circular"
+        "isolate_id": "m4pa9ad4",
+        "_id": "NC_007211",
+        "host": "Ludwigia hyssopifolia"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "blueberry",
-        "isolate_id": "3qc5nlac",
+        "molecule_structure": "linear",
         "definition": "Blueberry latent virus, complete genome",
-        "_id": "NC_014593",
         "virus_id": "f32199ad",
-        "molecule_structure": "linear"
+        "isolate_id": "3qc5nlac",
+        "_id": "NC_014593",
+        "host": "blueberry"
     }
 ]

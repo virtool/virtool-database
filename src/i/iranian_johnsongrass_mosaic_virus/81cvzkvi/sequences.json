@@ -1,10 +1,10 @@
 [
     {
-        "host": "Johnson grass",
-        "isolate_id": "81cvzkvi",
+        "molecule_structure": "linear",
         "definition": "Iranian johnsongrass mosaic virus, complete genome",
-        "_id": "NC_018833",
         "virus_id": "fd7cf989",
-        "molecule_structure": "linear"
+        "isolate_id": "81cvzkvi",
+        "_id": "NC_018833",
+        "host": "Johnson grass"
     }
 ]

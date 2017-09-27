@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ghvlfmtm",
+        "molecule_structure": "linear",
         "definition": "Southern cowpea mosaic virus, complete genome",
-        "_id": "NC_001625",
         "virus_id": "22ef924d",
-        "molecule_structure": "linear"
+        "isolate_id": "ghvlfmtm",
+        "_id": "NC_001625",
+        "host": null
     }
 ]

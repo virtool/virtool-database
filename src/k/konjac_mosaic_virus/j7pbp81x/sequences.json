@@ -1,10 +1,10 @@
 [
     {
-        "host": "Amorphophallus konjac K. Koch (Konjak)",
-        "isolate_id": "j7pbp81x",
+        "molecule_structure": "linear",
         "definition": "Konjac mosaic virus, complete genome",
-        "_id": "NC_007913",
         "virus_id": "e249f14d",
-        "molecule_structure": "linear"
+        "isolate_id": "j7pbp81x",
+        "_id": "NC_007913",
+        "host": "Amorphophallus konjac K. Koch (Konjak)"
     }
 ]

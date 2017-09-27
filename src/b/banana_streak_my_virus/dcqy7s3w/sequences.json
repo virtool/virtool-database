@@ -1,10 +1,10 @@
 [
     {
-        "host": "Musa spp. cv. Mysore",
-        "isolate_id": "dcqy7s3w",
+        "molecule_structure": "circular",
         "definition": "Banana streak Mysore virus, complete genome",
-        "_id": "NC_006955",
         "virus_id": "ea00ad4d",
-        "molecule_structure": "circular"
+        "isolate_id": "dcqy7s3w",
+        "_id": "NC_006955",
+        "host": "Musa spp. cv. Mysore"
     }
 ]

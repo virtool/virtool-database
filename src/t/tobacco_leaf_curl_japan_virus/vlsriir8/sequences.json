@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "vlsriir8",
+        "molecule_structure": "circular",
         "definition": "Tobacco leaf curl Japan virus, complete genome",
-        "_id": "NC_004654",
         "virus_id": "75461d40",
-        "molecule_structure": "circular"
+        "isolate_id": "vlsriir8",
+        "_id": "NC_004654",
+        "host": null
     }
 ]

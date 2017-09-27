@@ -1,10 +1,10 @@
 [
     {
-        "host": "Acalypha sp.",
-        "isolate_id": "ihl8x4mx",
+        "molecule_structure": "circular",
         "definition": "Croton yellow vein mosaic alphasatellite, complete genome",
-        "_id": "NC_013801",
         "virus_id": "c04c5e2c",
-        "molecule_structure": "circular"
+        "isolate_id": "ihl8x4mx",
+        "_id": "NC_013801",
+        "host": "Acalypha sp."
     }
 ]

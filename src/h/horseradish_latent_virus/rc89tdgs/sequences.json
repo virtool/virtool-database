@@ -1,10 +1,10 @@
 [
     {
-        "host": "horseradish",
-        "isolate_id": "rc89tdgs",
+        "molecule_structure": "circular",
         "definition": "Horseradish latent virus, complete genome",
-        "_id": "NC_018858",
         "virus_id": "3148b86b",
-        "molecule_structure": "circular"
+        "isolate_id": "rc89tdgs",
+        "_id": "NC_018858",
+        "host": "horseradish"
     }
 ]

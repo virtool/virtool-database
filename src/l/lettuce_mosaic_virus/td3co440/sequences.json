@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "td3co440",
+        "molecule_structure": "linear",
         "definition": "Lettuce mosaic virus, complete genome",
-        "_id": "NC_003605",
         "virus_id": "9ff098f1",
-        "molecule_structure": "linear"
+        "isolate_id": "td3co440",
+        "_id": "NC_003605",
+        "host": null
     }
 ]

@@ -1,20 +1,20 @@
 [
     {
-        "host": "glory bower (Clerodendrum philippinum)",
-        "isolate_id": "zsts5gom",
-        "_version": 0,
-        "definition": "Clerodendrum golden mosaic virus DNA-B, complete sequence",
         "_id": "NC_010714",
+        "molecule_structure": "circular",
+        "isolate_id": "zsts5gom",
         "virus_id": "c9bac00c",
-        "molecule_structure": "circular"
+        "definition": "Clerodendrum golden mosaic virus DNA-B, complete sequence",
+        "_version": 0,
+        "host": "glory bower (Clerodendrum philippinum)"
     },
     {
-        "host": "glory bower (Clerodendrum philippinum)",
-        "isolate_id": "zsts5gom",
-        "_version": 0,
-        "definition": "Clerodendrum golden mosaic virus DNA-A, complete sequence",
         "_id": "NC_010713",
+        "molecule_structure": "circular",
+        "isolate_id": "zsts5gom",
         "virus_id": "c9bac00c",
-        "molecule_structure": "circular"
+        "definition": "Clerodendrum golden mosaic virus DNA-A, complete sequence",
+        "_version": 0,
+        "host": "glory bower (Clerodendrum philippinum)"
     }
 ]

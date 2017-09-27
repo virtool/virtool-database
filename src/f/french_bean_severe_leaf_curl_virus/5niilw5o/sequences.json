@@ -1,10 +1,10 @@
 [
     {
-        "host": "French bean",
-        "isolate_id": "5niilw5o",
+        "molecule_structure": "circular",
         "definition": "French bean severe leaf curl virus, complete genome",
-        "_id": "NC_018453",
         "virus_id": "9b9eb5cb",
-        "molecule_structure": "circular"
+        "isolate_id": "5niilw5o",
+        "_id": "NC_018453",
+        "host": "French bean"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "uddi3khv",
+        "molecule_structure": "circular",
         "definition": "Okra yellow crinkle virus segment A, complete sequence",
-        "_id": "NC_008377",
         "virus_id": "9c3265a7",
-        "molecule_structure": "circular"
+        "isolate_id": "uddi3khv",
+        "_id": "NC_008377",
+        "host": null
     }
 ]

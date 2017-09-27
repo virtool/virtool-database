@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "fok8httb",
     "source_name": "Georgia",
-    "id": "fok8httb"
+    "default": true
 }

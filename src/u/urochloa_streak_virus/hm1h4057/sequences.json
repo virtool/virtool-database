@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "hm1h4057",
+        "molecule_structure": "circular",
         "definition": "Urochloa streak virus, complete genome",
-        "_id": "NC_010797",
         "virus_id": "846a1e47",
-        "molecule_structure": "circular"
+        "isolate_id": "hm1h4057",
+        "_id": "NC_010797",
+        "host": null
     }
 ]

@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
+        "_id": "NC_002356",
+        "molecule_structure": "linear",
         "isolate_id": "6qbb5bak",
-        "_version": 0,
-        "definition": "Chinese wheat mosaic virus RNA1, complete sequence",
-        "_id": "NC_002359",
         "virus_id": "bba3207e",
-        "molecule_structure": "linear"
+        "definition": "Chinese wheat mosaic virus RNA2, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_002359",
+        "molecule_structure": "linear",
         "isolate_id": "6qbb5bak",
-        "_version": 0,
-        "definition": "Chinese wheat mosaic virus RNA2, complete sequence",
-        "_id": "NC_002356",
         "virus_id": "bba3207e",
-        "molecule_structure": "linear"
+        "definition": "Chinese wheat mosaic virus RNA1, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

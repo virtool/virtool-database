@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "2vp6oo9v",
     "source_name": "INTA",
-    "id": "2vp6oo9v"
+    "default": true
 }

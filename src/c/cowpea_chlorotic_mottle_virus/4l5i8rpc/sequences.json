@@ -1,29 +1,29 @@
 [
     {
-        "host": null,
-        "isolate_id": "4l5i8rpc",
-        "_version": 0,
-        "definition": "Cowpea chlorotic mottle virus RNA 1, complete sequence",
         "_id": "NC_003543",
+        "molecule_structure": "linear",
+        "isolate_id": "4l5i8rpc",
         "virus_id": "c137eef9",
-        "molecule_structure": "linear"
+        "definition": "Cowpea chlorotic mottle virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "4l5i8rpc",
-        "_version": 0,
-        "definition": "Cowpea chlorotic mottle virus RNA 3, complete sequence",
         "_id": "NC_003542",
+        "molecule_structure": "linear",
+        "isolate_id": "4l5i8rpc",
         "virus_id": "c137eef9",
-        "molecule_structure": "linear"
+        "definition": "Cowpea chlorotic mottle virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "4l5i8rpc",
-        "_version": 0,
-        "definition": "Cowpea chlorotic mottle virus RNA 2, complete sequence",
         "_id": "NC_003541",
+        "molecule_structure": "linear",
+        "isolate_id": "4l5i8rpc",
         "virus_id": "c137eef9",
-        "molecule_structure": "linear"
+        "definition": "Cowpea chlorotic mottle virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ipomoea batatas cv. Arapey",
-        "isolate_id": "qbfuktxs",
+        "molecule_structure": "linear",
         "definition": "Sweet potato virus G isolate Jesus Maria, complete genome",
-        "_id": "NC_018093",
         "virus_id": "4ff7c77d",
-        "molecule_structure": "linear"
+        "isolate_id": "qbfuktxs",
+        "_id": "NC_018093",
+        "host": "Ipomoea batatas cv. Arapey"
     }
 ]

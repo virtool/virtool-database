@@ -1,10 +1,10 @@
 [
     {
-        "host": "Lonicera japonica var. aureo-reticulata",
-        "isolate_id": "48byy8rc",
+        "molecule_structure": "circular",
         "definition": "Honeysuckle yellow vein virus-[UK1], complete genome",
-        "_id": "NC_005807",
         "virus_id": "74580133",
-        "molecule_structure": "circular"
+        "isolate_id": "48byy8rc",
+        "_id": "NC_005807",
+        "host": "Lonicera japonica var. aureo-reticulata"
     }
 ]

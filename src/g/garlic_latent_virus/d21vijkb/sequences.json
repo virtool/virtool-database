@@ -1,10 +1,10 @@
 [
     {
-        "host": "garlic",
-        "isolate_id": "d21vijkb",
+        "molecule_structure": "linear",
         "definition": "Garlic latent virus, complete genome",
-        "_id": "NC_003557",
         "virus_id": "099f9775",
-        "molecule_structure": "linear"
+        "isolate_id": "d21vijkb",
+        "_id": "NC_003557",
+        "host": "garlic"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "8lk1ytn2",
+        "molecule_structure": "linear",
         "definition": "Beet chlorosis virus, complete genome",
-        "_id": "NC_002766",
         "virus_id": "7f861521",
-        "molecule_structure": "linear"
+        "isolate_id": "8lk1ytn2",
+        "_id": "NC_002766",
+        "host": null
     }
 ]

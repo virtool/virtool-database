@@ -1,9 +1,9 @@
 [
     {
-        "host": "vitis",
+        "definition": "Grapevine rupestris vein feathering virus, complete genome",
+        "virus_id": "30dc0796",
         "isolate_id": "34804bc8",
         "_id": "16GVP018_GRVFV_B",
-        "definition": "Grapevine rupestris vein feathering virus, complete genome",
-        "virus_id": "30dc0796"
+        "host": "vitis"
     }
 ]

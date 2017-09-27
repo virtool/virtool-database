@@ -1,10 +1,10 @@
 [
     {
-        "host": "Japanese persimmon",
-        "isolate_id": "zvtyxiap",
+        "molecule_structure": "circular",
         "definition": "Persimmon viroid 1 complete sequence",
-        "_id": "AB366022",
         "virus_id": "46730d42",
-        "molecule_structure": "circular"
+        "isolate_id": "zvtyxiap",
+        "_id": "AB366022",
+        "host": "Japanese persimmon"
     }
 ]

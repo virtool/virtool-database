@@ -1,10 +1,10 @@
 [
     {
-        "host": "radish cultivar Japanese white",
-        "isolate_id": "3aqvxhe5",
+        "molecule_structure": "circular",
         "definition": "Radish leaf curl virus satellite DNA beta, complete genome",
-        "_id": "NC_010239",
         "virus_id": "9da7c10d",
-        "molecule_structure": "circular"
+        "isolate_id": "3aqvxhe5",
+        "_id": "NC_010239",
+        "host": "radish cultivar Japanese white"
     }
 ]

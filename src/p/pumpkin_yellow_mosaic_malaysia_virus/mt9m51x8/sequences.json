@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "mt9m51x8",
+        "molecule_structure": "circular",
         "definition": "Pumpkin yellow mosaic Malaysia virus DNA A, complete sequence",
-        "_id": "NC_010946",
         "virus_id": "dbeb5a14",
-        "molecule_structure": "circular"
+        "isolate_id": "mt9m51x8",
+        "_id": "NC_010946",
+        "host": null
     }
 ]

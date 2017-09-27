@@ -1,10 +1,10 @@
 [
     {
-        "host": "tomato",
-        "isolate_id": "3nwqrv6f",
+        "molecule_structure": "",
         "definition": "Pepper chat fruit viroid complete sequence",
-        "_id": "JF446894",
         "virus_id": "a8428822",
-        "molecule_structure": ""
+        "isolate_id": "3nwqrv6f",
+        "_id": "JF446894",
+        "host": "tomato"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "37ccd761",
     "source_name": "west africa begomovirus",
-    "id": "37ccd761"
+    "default": true
 }

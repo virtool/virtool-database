@@ -1,9 +1,9 @@
 [
     {
-        "host": "Iris sp.",
+        "definition": "Iris mild mosaic virus isolate WA-1 polyprotein gene, partial cds.",
+        "virus_id": "62d0d28d",
         "isolate_id": "32dcc07d",
         "_id": "JF320812",
-        "definition": "Iris mild mosaic virus isolate WA-1 polyprotein gene, partial cds.",
-        "virus_id": "62d0d28d"
+        "host": "Iris sp."
     }
 ]

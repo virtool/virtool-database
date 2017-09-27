@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "1lktfl5g",
     "source_name": "US-Nebraska, 1988 wild-type",
-    "id": "1lktfl5g"
+    "default": true
 }

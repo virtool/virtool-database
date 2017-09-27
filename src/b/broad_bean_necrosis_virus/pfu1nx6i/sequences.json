@@ -1,29 +1,29 @@
 [
     {
-        "host": null,
-        "isolate_id": "pfu1nx6i",
-        "_version": 0,
-        "definition": "Broad bean necrosis virus RNA 1, complete sequence",
         "_id": "NC_004423",
+        "molecule_structure": "linear",
+        "isolate_id": "pfu1nx6i",
         "virus_id": "2b2afefd",
-        "molecule_structure": "linear"
+        "definition": "Broad bean necrosis virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "pfu1nx6i",
-        "_version": 0,
-        "definition": "Broad bean necrosis virus RNA 3, complete sequence",
         "_id": "NC_004425",
+        "molecule_structure": "linear",
+        "isolate_id": "pfu1nx6i",
         "virus_id": "2b2afefd",
-        "molecule_structure": "linear"
+        "definition": "Broad bean necrosis virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "pfu1nx6i",
-        "_version": 0,
-        "definition": "Broad bean necrosis virus RNA 2, complete sequence",
         "_id": "NC_004424",
+        "molecule_structure": "linear",
+        "isolate_id": "pfu1nx6i",
         "virus_id": "2b2afefd",
-        "molecule_structure": "linear"
+        "definition": "Broad bean necrosis virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

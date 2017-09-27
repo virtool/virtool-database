@@ -1,29 +1,29 @@
 [
     {
-        "host": "Manihot esculenta",
-        "isolate_id": "qx5k80by",
-        "_version": 0,
-        "definition": "Cassava virus C",
-        "_id": "NC_013113",
-        "virus_id": "d872ec82",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "Manihot esculenta",
-        "isolate_id": "qx5k80by",
-        "_version": 0,
-        "definition": "Cassava virus C",
         "_id": "NC_013111",
+        "molecule_structure": "linear",
+        "isolate_id": "qx5k80by",
         "virus_id": "d872ec82",
-        "molecule_structure": "linear"
+        "definition": "Cassava virus C",
+        "_version": 0,
+        "host": "Manihot esculenta"
     },
     {
-        "host": "Manihot esculenta",
+        "_id": "NC_013113",
+        "molecule_structure": "linear",
         "isolate_id": "qx5k80by",
-        "_version": 0,
-        "definition": "Cassava virus C",
-        "_id": "NC_013112",
         "virus_id": "d872ec82",
-        "molecule_structure": "linear"
+        "definition": "Cassava virus C",
+        "_version": 0,
+        "host": "Manihot esculenta"
+    },
+    {
+        "_id": "NC_013112",
+        "molecule_structure": "linear",
+        "isolate_id": "qx5k80by",
+        "virus_id": "d872ec82",
+        "definition": "Cassava virus C",
+        "_version": 0,
+        "host": "Manihot esculenta"
     }
 ]

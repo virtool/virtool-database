@@ -1,10 +1,10 @@
 [
     {
-        "host": "Musa sp. cv. Mshule",
-        "isolate_id": "pyfuqplj",
+        "molecule_structure": "circular",
         "definition": "Banana streak IM virus, complete genome",
-        "_id": "NC_015507",
         "virus_id": "0786d0ab",
-        "molecule_structure": "circular"
+        "isolate_id": "pyfuqplj",
+        "_id": "NC_015507",
+        "host": "Musa sp. cv. Mshule"
     }
 ]

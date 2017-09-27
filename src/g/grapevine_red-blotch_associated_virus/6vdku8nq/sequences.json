@@ -1,10 +1,10 @@
 [
     {
-        "host": "Vitis vinifera",
-        "isolate_id": "6vdku8nq",
+        "molecule_structure": "circular",
         "definition": "Grapevine red blotch-associated virus isolate CF214-1, complete",
-        "_id": "NC_022002",
         "virus_id": "cbfd9bca",
-        "molecule_structure": "circular"
+        "isolate_id": "6vdku8nq",
+        "_id": "NC_022002",
+        "host": "Vitis vinifera"
     }
 ]

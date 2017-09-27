@@ -1,10 +1,10 @@
 [
     {
-        "host": "Stachytarpheta jamaicensis",
-        "isolate_id": "nhv7tjch",
+        "molecule_structure": "circular",
         "definition": "Stachytarpheta leaf curl virus, complete genome",
-        "_id": "NC_004091",
         "virus_id": "69489e98",
-        "molecule_structure": "circular"
+        "isolate_id": "nhv7tjch",
+        "_id": "NC_004091",
+        "host": "Stachytarpheta jamaicensis"
     }
 ]

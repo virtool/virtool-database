@@ -1,10 +1,10 @@
 [
     {
-        "host": "Maize",
-        "isolate_id": "s7zoxv1i",
+        "molecule_structure": "linear",
         "definition": "Maize white line mosaic virus, complete genome",
-        "_id": "NC_009533",
         "virus_id": "a43ac7ea",
-        "molecule_structure": "linear"
+        "isolate_id": "s7zoxv1i",
+        "_id": "NC_009533",
+        "host": "Maize"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Sigesbeckia glabrescens",
-        "isolate_id": "4tp1i6mg",
+        "molecule_structure": "circular",
         "definition": "Siegesbeckia yellow vein virus-[GD13], complete genome",
-        "_id": "NC_008236",
         "virus_id": "12e07550",
-        "molecule_structure": "circular"
+        "isolate_id": "4tp1i6mg",
+        "_id": "NC_008236",
+        "host": "Sigesbeckia glabrescens"
     }
 ]

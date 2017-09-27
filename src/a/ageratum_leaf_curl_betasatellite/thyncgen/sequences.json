@@ -1,10 +1,10 @@
 [
     {
-        "host": "Tagetes patula",
-        "isolate_id": "thyncgen",
+        "molecule_structure": "circular",
         "definition": "Ageratum leaf curl betasatellite isolate Sikar M 2, complete",
-        "_id": "NC_020889",
         "virus_id": "c9636f95",
-        "molecule_structure": "circular"
+        "isolate_id": "thyncgen",
+        "_id": "NC_020889",
+        "host": "Tagetes patula"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "isolate",
+    "id": "reswmtsp",
     "source_name": "NBRI-2",
-    "id": "reswmtsp"
+    "default": false
 }

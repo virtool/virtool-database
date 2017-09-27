@@ -1,20 +1,20 @@
 [
     {
-        "host": "Manihot esculenta",
-        "isolate_id": "scb9psyc",
-        "_version": 0,
-        "definition": "East African cassava mosaic Kenya virus DNA B, complete genome",
         "_id": "NC_011584",
+        "molecule_structure": "circular",
+        "isolate_id": "scb9psyc",
         "virus_id": "fc2b65f6",
-        "molecule_structure": "circular"
+        "definition": "East African cassava mosaic Kenya virus DNA B, complete genome",
+        "_version": 0,
+        "host": "Manihot esculenta"
     },
     {
-        "host": "Manihot esculenta",
-        "isolate_id": "scb9psyc",
-        "_version": 0,
-        "definition": "East African cassava mosaic Kenya virus DNA A, complete genome",
         "_id": "NC_011583",
+        "molecule_structure": "circular",
+        "isolate_id": "scb9psyc",
         "virus_id": "fc2b65f6",
-        "molecule_structure": "circular"
+        "definition": "East African cassava mosaic Kenya virus DNA A, complete genome",
+        "_version": 0,
+        "host": "Manihot esculenta"
     }
 ]

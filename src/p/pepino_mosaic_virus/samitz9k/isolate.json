@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "samitz9k",
     "source_name": "EU",
-    "id": "samitz9k"
+    "default": false
 }

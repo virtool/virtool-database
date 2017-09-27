@@ -1,11 +1,11 @@
 [
     {
-        "host": "tomato",
-        "isolate_id": "yf6geibf",
-        "_version": 0,
-        "definition": "Tomato leaf deformation virus isolate EA-LE3-5K segment DNA-A,",
         "_id": "NC_019032",
+        "molecule_structure": "circular",
+        "isolate_id": "yf6geibf",
         "virus_id": "cd437aed",
-        "molecule_structure": "circular"
+        "definition": "Tomato leaf deformation virus isolate EA-LE3-5K segment DNA-A,",
+        "_version": 0,
+        "host": "tomato"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "x035ol4o",
+        "molecule_structure": "linear",
         "definition": "Apple stem grooving virus, complete genome",
-        "_id": "NC_001749",
         "virus_id": "72032ef0",
-        "molecule_structure": "linear"
+        "isolate_id": "x035ol4o",
+        "_id": "NC_001749",
+        "host": null
     }
 ]

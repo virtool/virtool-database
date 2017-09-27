@@ -1,20 +1,20 @@
 [
     {
-        "host": "Solanum lycopersicum",
+        "_id": "NC_017913",
+        "molecule_structure": "circular",
         "isolate_id": "em79m99u",
-        "_version": 0,
-        "definition": "Tomato yellow leaf distortion virus DNA A, complete genome",
-        "_id": "NC_011348",
         "virus_id": "3f625205",
-        "molecule_structure": "linear"
+        "definition": "Tomato yellow leaf distortion virus clone EF5N segment DNA-B,",
+        "_version": 0,
+        "host": "tomato"
     },
     {
-        "host": "tomato",
+        "_id": "NC_011348",
+        "molecule_structure": "linear",
         "isolate_id": "em79m99u",
-        "_version": 0,
-        "definition": "Tomato yellow leaf distortion virus clone EF5N segment DNA-B,",
-        "_id": "NC_017913",
         "virus_id": "3f625205",
-        "molecule_structure": "circular"
+        "definition": "Tomato yellow leaf distortion virus DNA A, complete genome",
+        "_version": 0,
+        "host": "Solanum lycopersicum"
     }
 ]

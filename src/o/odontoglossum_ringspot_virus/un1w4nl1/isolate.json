@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "un1w4nl1",
     "source_name": "18KDa coat protein",
-    "id": "un1w4nl1"
+    "default": true
 }

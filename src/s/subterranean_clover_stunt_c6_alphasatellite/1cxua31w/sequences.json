@@ -1,10 +1,10 @@
 [
     {
-        "host": "Trifolium subterraneum L.",
-        "isolate_id": "1cxua31w",
+        "molecule_structure": "circular",
         "definition": "Subterranean clover stunt C6 alphasatellite, complete sequence",
-        "_id": "NC_003818",
         "virus_id": "4269fa54",
-        "molecule_structure": "circular"
+        "isolate_id": "1cxua31w",
+        "_id": "NC_003818",
+        "host": "Trifolium subterraneum L."
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "lmfrsltx",
     "source_name": "Kumquat 1",
-    "id": "lmfrsltx"
+    "default": false
 }

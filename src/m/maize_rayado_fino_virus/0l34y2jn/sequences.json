@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "0l34y2jn",
+        "molecule_structure": "linear",
         "definition": "Maize rayado fino virus, complete genome",
-        "_id": "NC_002786",
         "virus_id": "c45e2e8b",
-        "molecule_structure": "linear"
+        "isolate_id": "0l34y2jn",
+        "_id": "NC_002786",
+        "host": null
     }
 ]

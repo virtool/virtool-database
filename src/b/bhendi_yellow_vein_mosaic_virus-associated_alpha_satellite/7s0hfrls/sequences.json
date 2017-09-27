@@ -1,10 +1,10 @@
 [
     {
-        "host": "Abelmoschus esculentus",
-        "isolate_id": "7s0hfrls",
+        "molecule_structure": "circular",
         "definition": "Bhendi yellow vein mosaic virus-associated alphasatellite, complete",
-        "_id": "NC_018574",
         "virus_id": "49da2450",
-        "molecule_structure": "circular"
+        "isolate_id": "7s0hfrls",
+        "_id": "NC_018574",
+        "host": "Abelmoschus esculentus"
     }
 ]

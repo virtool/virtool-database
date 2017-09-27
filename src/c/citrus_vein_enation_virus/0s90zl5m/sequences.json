@@ -1,10 +1,10 @@
 [
     {
-        "host": "Citrus sp.",
-        "isolate_id": "0s90zl5m",
+        "molecule_structure": "linear",
         "definition": "Citrus vein enation virus, isolate VE-1, complete genome",
-        "_id": "NC_021564",
         "virus_id": "25ae5d0d",
-        "molecule_structure": "linear"
+        "isolate_id": "0s90zl5m",
+        "_id": "NC_021564",
+        "host": "Citrus sp."
     }
 ]

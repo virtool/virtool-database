@@ -1,10 +1,10 @@
 [
     {
-        "host": "rose cv. Dr. Merkley",
-        "isolate_id": "axco9lrh",
+        "molecule_structure": "circular",
         "definition": "Rose yellow vein virus strain RYVV-MN1, complete genome",
-        "_id": "NC_020999",
         "virus_id": "00b910c7",
-        "molecule_structure": "circular"
+        "isolate_id": "axco9lrh",
+        "_id": "NC_020999",
+        "host": "rose cv. Dr. Merkley"
     }
 ]

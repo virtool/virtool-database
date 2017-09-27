@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "ioews9g4",
     "source_name": "Australian",
-    "id": "ioews9g4"
+    "default": true
 }

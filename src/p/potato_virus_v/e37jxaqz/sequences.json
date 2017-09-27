@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "e37jxaqz",
+        "molecule_structure": "linear",
         "definition": "Potato virus V, complete genome",
-        "_id": "NC_004010",
         "virus_id": "e9682dd3",
-        "molecule_structure": "linear"
+        "isolate_id": "e37jxaqz",
+        "_id": "NC_004010",
+        "host": null
     }
 ]

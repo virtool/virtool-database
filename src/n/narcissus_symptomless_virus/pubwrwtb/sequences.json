@@ -1,10 +1,10 @@
 [
     {
-        "host": "Narcissus pseudonarcissus",
-        "isolate_id": "pubwrwtb",
+        "molecule_structure": "linear",
         "definition": "Narcissus symptomless virus, complete genome",
-        "_id": "NC_008552",
         "virus_id": "da71ab14",
-        "molecule_structure": "linear"
+        "isolate_id": "pubwrwtb",
+        "_id": "NC_008552",
+        "host": "Narcissus pseudonarcissus"
     }
 ]

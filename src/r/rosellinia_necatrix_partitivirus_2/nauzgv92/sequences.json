@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
+        "_id": "NC_020235",
+        "molecule_structure": "linear",
         "isolate_id": "nauzgv92",
-        "_version": 0,
-        "definition": "Rosellinia necatrix partitivirus 2 RdRp gene for RNA-dependent RNA",
-        "_id": "NC_020234",
         "virus_id": "b2c8b4a1",
-        "molecule_structure": "linear"
+        "definition": "Rosellinia necatrix partitivirus 2 CP gene for capsid protein,",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_020234",
+        "molecule_structure": "linear",
         "isolate_id": "nauzgv92",
-        "_version": 0,
-        "definition": "Rosellinia necatrix partitivirus 2 CP gene for capsid protein,",
-        "_id": "NC_020235",
         "virus_id": "b2c8b4a1",
-        "molecule_structure": "linear"
+        "definition": "Rosellinia necatrix partitivirus 2 RdRp gene for RNA-dependent RNA",
+        "_version": 0,
+        "host": null
     }
 ]

@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
-        "isolate_id": "7qa8t0u1",
-        "_version": 0,
-        "definition": "Tomato mosaic Havana virus DNA B, complete sequence",
         "_id": "NC_003868",
+        "molecule_structure": "circular",
+        "isolate_id": "7qa8t0u1",
         "virus_id": "422e434f",
-        "molecule_structure": "circular"
+        "definition": "Tomato mosaic Havana virus DNA B, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "7qa8t0u1",
-        "_version": 0,
-        "definition": "Tomato mosaic Havana virus DNA A, complete sequence",
         "_id": "NC_003867",
+        "molecule_structure": "circular",
+        "isolate_id": "7qa8t0u1",
         "virus_id": "422e434f",
-        "molecule_structure": "circular"
+        "definition": "Tomato mosaic Havana virus DNA A, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

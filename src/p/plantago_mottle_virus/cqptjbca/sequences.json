@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "cqptjbca",
+        "molecule_structure": "linear",
         "definition": "Plantago mottle virus, complete genome",
-        "_id": "NC_011539",
         "virus_id": "bd3bb471",
-        "molecule_structure": "linear"
+        "isolate_id": "cqptjbca",
+        "_id": "NC_011539",
+        "host": null
     }
 ]

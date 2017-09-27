@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ageratum conyzoides",
-        "isolate_id": "g3tazaaq",
+        "molecule_structure": "circular",
         "definition": "Ageratum yellow vein China virus-associated DNA beta, complete",
-        "_id": "NC_007067",
         "virus_id": "b22fccdd",
-        "molecule_structure": "circular"
+        "isolate_id": "g3tazaaq",
+        "_id": "NC_007067",
+        "host": "Ageratum conyzoides"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "iv1gqll9",
+        "molecule_structure": "linear",
         "definition": "Sweetpotato badnavirus A, complete genome",
-        "_id": "NC_015655",
         "virus_id": "b0a22d8f",
-        "molecule_structure": "linear"
+        "isolate_id": "iv1gqll9",
+        "_id": "NC_015655",
+        "host": null
     }
 ]

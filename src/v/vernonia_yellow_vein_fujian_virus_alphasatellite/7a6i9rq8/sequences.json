@@ -1,10 +1,10 @@
 [
     {
-        "host": "Vernonia cinerea",
-        "isolate_id": "7a6i9rq8",
+        "molecule_structure": "circular",
         "definition": "Vernonia yellow vein Fujian virus alphasatellite, complete genome",
-        "_id": "NC_015929",
         "virus_id": "42c19ef1",
-        "molecule_structure": "circular"
+        "isolate_id": "7a6i9rq8",
+        "_id": "NC_015929",
+        "host": "Vernonia cinerea"
     }
 ]

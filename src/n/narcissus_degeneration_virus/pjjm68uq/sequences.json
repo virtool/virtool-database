@@ -1,10 +1,10 @@
 [
     {
-        "host": "Narcissus tazetta (Chinese narcissus)",
-        "isolate_id": "pjjm68uq",
+        "molecule_structure": "linear",
         "definition": "Narcissus degeneration virus, complete genome",
-        "_id": "NC_008824",
         "virus_id": "da94ab07",
-        "molecule_structure": "linear"
+        "isolate_id": "pjjm68uq",
+        "_id": "NC_008824",
+        "host": "Narcissus tazetta (Chinese narcissus)"
     }
 ]

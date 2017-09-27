@@ -1,10 +1,10 @@
 [
     {
-        "host": "Mirabilis jalapa",
-        "isolate_id": "xj06h1lg",
+        "molecule_structure": "linear",
         "definition": "Mirabilis jalapa mottle virus, complete genome",
-        "_id": "NC_016080",
         "virus_id": "a2791538",
-        "molecule_structure": "linear"
+        "isolate_id": "xj06h1lg",
+        "_id": "NC_016080",
+        "host": "Mirabilis jalapa"
     }
 ]

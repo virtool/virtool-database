@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "ym4eba71",
     "source_name": "ALM32",
-    "id": "ym4eba71"
+    "default": true
 }

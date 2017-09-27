@@ -1,10 +1,10 @@
 [
     {
-        "host": "Allamanda cathartica Linn.",
-        "isolate_id": "kxd4ehvx",
+        "molecule_structure": "circular",
         "definition": "Allamanda leaf curl virus DNA-A, complete genome",
-        "_id": "NC_010947",
         "virus_id": "0a1e9341",
-        "molecule_structure": "circular"
+        "isolate_id": "kxd4ehvx",
+        "_id": "NC_010947",
+        "host": "Allamanda cathartica Linn."
     }
 ]

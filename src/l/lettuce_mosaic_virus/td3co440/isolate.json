@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "td3co440",
     "source_name": "E",
-    "id": "td3co440"
+    "default": true
 }

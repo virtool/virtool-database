@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "wzrc4iop",
     "source_name": "Cuba",
-    "id": "wzrc4iop"
+    "default": true
 }

@@ -1,10 +1,10 @@
 [
     {
-        "host": "",
-        "isolate_id": "hes59sxg",
+        "molecule_structure": "",
         "definition": "Coconut tinangaja viroid complete sequence",
-        "_id": "NC_001471",
         "virus_id": "920bcce2",
-        "molecule_structure": ""
+        "isolate_id": "hes59sxg",
+        "_id": "NC_001471",
+        "host": ""
     }
 ]

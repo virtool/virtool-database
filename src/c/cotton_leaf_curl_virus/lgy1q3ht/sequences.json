@@ -1,10 +1,10 @@
 [
     {
-        "host": "Gossypium hirsutum cv RST-2013",
-        "isolate_id": "lgy1q3ht",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl virus DNA-A, complete genome",
-        "_id": "NC_017827",
         "virus_id": "795dfec4",
-        "molecule_structure": "circular"
+        "isolate_id": "lgy1q3ht",
+        "_id": "NC_017827",
+        "host": "Gossypium hirsutum cv RST-2013"
     }
 ]

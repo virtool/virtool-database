@@ -1,10 +1,10 @@
 [
     {
-        "host": "watermelon",
-        "isolate_id": "panlwigh",
+        "molecule_structure": "linear",
         "definition": "Squash vein yellowing virus, complete genome",
-        "_id": "NC_010521",
         "virus_id": "2cb02a3c",
-        "molecule_structure": "linear"
+        "isolate_id": "panlwigh",
+        "_id": "NC_010521",
+        "host": "watermelon"
     }
 ]

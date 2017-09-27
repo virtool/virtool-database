@@ -1,10 +1,10 @@
 [
     {
-        "host": "Dracaena sanderiana",
-        "isolate_id": "45i1fpku",
+        "molecule_structure": "circular",
         "definition": "Dracaena mottle virus, complete genome",
-        "_id": "NC_008034",
         "virus_id": "7b68a0c2",
-        "molecule_structure": "circular"
+        "isolate_id": "45i1fpku",
+        "_id": "NC_008034",
+        "host": "Dracaena sanderiana"
     }
 ]

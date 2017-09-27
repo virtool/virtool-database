@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
-        "isolate_id": "64s3l0hu",
-        "_version": 0,
-        "definition": "South African cassava mosaic virus DNA B, complete sequence",
         "_id": "NC_003804",
+        "molecule_structure": "circular",
+        "isolate_id": "64s3l0hu",
         "virus_id": "e90dc77a",
-        "molecule_structure": "circular"
+        "definition": "South African cassava mosaic virus DNA B, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "64s3l0hu",
-        "_version": 0,
-        "definition": "South African cassava mosaic virus DNA A, complete sequence",
         "_id": "NC_003803",
+        "molecule_structure": "circular",
+        "isolate_id": "64s3l0hu",
         "virus_id": "e90dc77a",
-        "molecule_structure": "circular"
+        "definition": "South African cassava mosaic virus DNA A, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

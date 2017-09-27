@@ -1,10 +1,10 @@
 [
     {
-        "host": "Synedrella nodiflora",
-        "isolate_id": "38v9s13g",
+        "molecule_structure": "circular",
         "definition": "Ageratum yellow vein China alphasatellite isolate Sn3 segment",
-        "_id": "NC_023443",
         "virus_id": "7d240751",
-        "molecule_structure": "circular"
+        "isolate_id": "38v9s13g",
+        "_id": "NC_023443",
+        "host": "Synedrella nodiflora"
     }
 ]

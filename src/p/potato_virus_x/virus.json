@@ -1,6 +1,6 @@
 {
-    "name": "Potato virus X",
     "_id": "1fa78692",
-    "lower_name": "potato virus x",
-    "abbreviation": "PVX"
+    "abbreviation": "PVX",
+    "name": "Potato virus X",
+    "lower_name": "potato virus x"
 }

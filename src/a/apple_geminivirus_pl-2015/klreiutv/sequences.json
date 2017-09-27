@@ -1,9 +1,9 @@
 [
     {
-        "host": "apple",
         "isolate_id": "klreiutv",
-        "_id": "NC_026760",
+        "virus_id": "952ef7af",
         "definition": "Apple geminivirus PL-2015 isolate China, complete genome.",
-        "virus_id": "952ef7af"
+        "_id": "NC_026760",
+        "host": "apple"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Okra",
-        "isolate_id": "595ppbgx",
+        "molecule_structure": "circular",
         "definition": "Nanovirus-like particle, complete genome",
-        "_id": "NC_005954",
         "virus_id": "ae0f2a35",
-        "molecule_structure": "circular"
+        "isolate_id": "595ppbgx",
+        "_id": "NC_005954",
+        "host": "Okra"
     }
 ]

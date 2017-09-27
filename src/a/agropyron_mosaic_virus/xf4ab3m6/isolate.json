@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "xf4ab3m6",
     "source_name": "ND402",
-    "id": "xf4ab3m6"
+    "default": true
 }

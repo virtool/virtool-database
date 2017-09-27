@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "r9fi2uzp",
     "source_name": "Petrolina de Goias",
-    "id": "r9fi2uzp"
+    "default": true
 }

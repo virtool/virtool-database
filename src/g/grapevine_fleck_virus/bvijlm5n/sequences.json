@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "bvijlm5n",
+        "molecule_structure": "linear",
         "definition": "Grapevine fleck virus, complete genome",
-        "_id": "NC_003347",
         "virus_id": "26b1a528",
-        "molecule_structure": "linear"
+        "isolate_id": "bvijlm5n",
+        "_id": "NC_003347",
+        "host": null
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "kyldjawb",
     "source_name": "Panama",
-    "id": "kyldjawb"
+    "default": true
 }

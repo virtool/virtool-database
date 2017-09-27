@@ -1,10 +1,10 @@
 [
     {
-        "host": "Glycine max (soybean)",
-        "isolate_id": "h3zfjehf",
+        "molecule_structure": "linear",
         "definition": "Soybean yellow mottle mosaic virus, complete genome",
-        "_id": "NC_011643",
         "virus_id": "17976ad8",
-        "molecule_structure": "linear"
+        "isolate_id": "h3zfjehf",
+        "_id": "NC_011643",
+        "host": "Glycine max (soybean)"
     }
 ]

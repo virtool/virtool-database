@@ -1,9 +1,9 @@
 [
     {
-        "host": "Solanum lycopersicum L.",
+        "definition": "Potato spindle tuber viroid isolate NY, complete genome.",
+        "virus_id": "04810c9e",
         "isolate_id": "ju36riu8",
         "_id": "KF683199",
-        "definition": "Potato spindle tuber viroid isolate NY, complete genome.",
-        "virus_id": "04810c9e"
+        "host": "Solanum lycopersicum L."
     }
 ]

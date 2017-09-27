@@ -1,56 +1,56 @@
 [
     {
-        "host": null,
-        "isolate_id": "lv5gpyn5",
-        "_version": 0,
-        "definition": "Banana bunchy top virus DNA U3, complete sequence",
-        "_id": "NC_003475",
-        "virus_id": "c1f82472",
-        "molecule_structure": "circular"
-    },
-    {
-        "host": null,
-        "isolate_id": "lv5gpyn5",
-        "_version": 0,
-        "definition": "Banana bunchy top virus DNA C, complete sequence",
-        "_id": "NC_003477",
-        "virus_id": "c1f82472",
-        "molecule_structure": "circular"
-    },
-    {
-        "host": null,
-        "isolate_id": "lv5gpyn5",
-        "_version": 0,
-        "definition": "Banana bunchy top virus DNA R, complete sequence",
         "_id": "NC_003479",
+        "molecule_structure": "circular",
+        "isolate_id": "lv5gpyn5",
         "virus_id": "c1f82472",
-        "molecule_structure": "circular"
+        "definition": "Banana bunchy top virus DNA R, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_003477",
+        "molecule_structure": "circular",
         "isolate_id": "lv5gpyn5",
+        "virus_id": "c1f82472",
+        "definition": "Banana bunchy top virus DNA C, complete sequence",
         "_version": 0,
-        "definition": "Banana bunchy top virus DNA N, complete sequence",
+        "host": null
+    },
+    {
         "_id": "NC_003476",
+        "molecule_structure": "circular",
+        "isolate_id": "lv5gpyn5",
         "virus_id": "c1f82472",
-        "molecule_structure": "circular"
+        "definition": "Banana bunchy top virus DNA N, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_003475",
+        "molecule_structure": "circular",
         "isolate_id": "lv5gpyn5",
+        "virus_id": "c1f82472",
+        "definition": "Banana bunchy top virus DNA U3, complete sequence",
         "_version": 0,
-        "definition": "Banana bunchy top virus DNA M, complete sequence",
+        "host": null
+    },
+    {
         "_id": "NC_003474",
+        "molecule_structure": "circular",
+        "isolate_id": "lv5gpyn5",
         "virus_id": "c1f82472",
-        "molecule_structure": "circular"
+        "definition": "Banana bunchy top virus DNA M, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "lv5gpyn5",
-        "_version": 0,
-        "definition": "Banana bunchy top virus DNA S, complete sequence",
         "_id": "NC_003473",
+        "molecule_structure": "circular",
+        "isolate_id": "lv5gpyn5",
         "virus_id": "c1f82472",
-        "molecule_structure": "circular"
+        "definition": "Banana bunchy top virus DNA S, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

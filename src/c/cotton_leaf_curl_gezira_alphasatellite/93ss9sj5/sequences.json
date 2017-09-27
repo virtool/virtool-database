@@ -1,10 +1,10 @@
 [
     {
-        "host": "Abelmoshus esculentus",
-        "isolate_id": "93ss9sj5",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl Gezira alphasatellite, complete genome",
-        "_id": "NC_013593",
         "virus_id": "0e585ee5",
-        "molecule_structure": "circular"
+        "isolate_id": "93ss9sj5",
+        "_id": "NC_013593",
+        "host": "Abelmoshus esculentus"
     }
 ]

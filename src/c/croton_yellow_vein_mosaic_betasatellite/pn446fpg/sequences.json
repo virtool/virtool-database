@@ -1,10 +1,10 @@
 [
     {
-        "host": "Croton sp.",
-        "isolate_id": "pn446fpg",
+        "molecule_structure": "circular",
         "definition": "Croton yellow vein mosaic virus satellite DNA beta, complete",
-        "_id": "NC_008579",
         "virus_id": "6e1d713c",
-        "molecule_structure": "circular"
+        "isolate_id": "pn446fpg",
+        "_id": "NC_008579",
+        "host": "Croton sp."
     }
 ]

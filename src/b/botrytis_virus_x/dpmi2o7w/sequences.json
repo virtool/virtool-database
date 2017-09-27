@@ -1,10 +1,10 @@
 [
     {
-        "host": "Botrytis cinerea",
-        "isolate_id": "dpmi2o7w",
+        "molecule_structure": "linear",
         "definition": "Botrytis virus X, complete genome",
-        "_id": "NC_005132",
         "virus_id": "828aafc3",
-        "molecule_structure": "linear"
+        "isolate_id": "dpmi2o7w",
+        "_id": "NC_005132",
+        "host": "Botrytis cinerea"
     }
 ]

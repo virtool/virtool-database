@@ -1,10 +1,10 @@
 [
     {
-        "host": "Zantedeschia spp. (calla lily)",
-        "isolate_id": "anrm317j",
+        "molecule_structure": "linear",
         "definition": "Zantedeschia mild mosaic virus, complete genome",
-        "_id": "NC_011560",
         "virus_id": "e5b6dd57",
-        "molecule_structure": "linear"
+        "isolate_id": "anrm317j",
+        "_id": "NC_011560",
+        "host": "Zantedeschia spp. (calla lily)"
     }
 ]

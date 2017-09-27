@@ -1,9 +1,9 @@
 [
     {
-        "host": "Papaver somniferum",
+        "definition": "Ageratum enation alphasatellite, complete genome",
+        "virus_id": "cbb14600",
         "isolate_id": "nt7vk44e",
         "_id": "NC_019547",
-        "definition": "Ageratum enation alphasatellite, complete genome",
-        "virus_id": "cbb14600"
+        "host": "Papaver somniferum"
     }
 ]

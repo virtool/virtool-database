@@ -1,10 +1,10 @@
 [
     {
-        "host": "Humulus lupulus cultivar Bittergold",
-        "isolate_id": "xecl57j7",
+        "molecule_structure": "linear",
         "definition": "American hop latent virus, complete genome",
-        "_id": "NC_017859",
         "virus_id": "18c4ccf4",
-        "molecule_structure": "linear"
+        "isolate_id": "xecl57j7",
+        "_id": "NC_017859",
+        "host": "Humulus lupulus cultivar Bittergold"
     }
 ]

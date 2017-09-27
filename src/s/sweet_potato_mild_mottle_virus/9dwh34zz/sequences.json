@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "9dwh34zz",
+        "molecule_structure": "linear",
         "definition": "Sweet potato mild mottle virus, complete genome",
-        "_id": "NC_003797",
         "virus_id": "39af4d18",
-        "molecule_structure": "linear"
+        "isolate_id": "9dwh34zz",
+        "_id": "NC_003797",
+        "host": null
     }
 ]

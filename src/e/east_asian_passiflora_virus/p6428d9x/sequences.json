@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "p6428d9x",
+        "molecule_structure": "linear",
         "definition": "East Asian Passiflora virus, complete genome",
-        "_id": "NC_007728",
         "virus_id": "7d0ffa77",
-        "molecule_structure": "linear"
+        "isolate_id": "p6428d9x",
+        "_id": "NC_007728",
+        "host": null
     }
 ]

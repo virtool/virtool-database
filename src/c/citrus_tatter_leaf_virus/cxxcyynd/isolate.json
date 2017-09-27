@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "cxxcyynd",
     "source_name": "LCd-NA-1",
-    "id": "cxxcyynd"
+    "default": false
 }

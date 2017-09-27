@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "awbvvpfj",
+        "molecule_structure": "linear",
         "definition": "Sweet potato feathery mottle virus, complete genome",
-        "_id": "NC_001841",
         "virus_id": "bf04f2b3",
-        "molecule_structure": "linear"
+        "isolate_id": "awbvvpfj",
+        "_id": "NC_001841",
+        "host": null
     }
 ]

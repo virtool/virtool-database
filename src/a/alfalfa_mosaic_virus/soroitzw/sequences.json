@@ -1,23 +1,23 @@
 [
     {
-        "host": "",
+        "definition": "Alfalfa mosaic virus strain HZ segment RNA3, complete sequence",
+        "virus_id": "3b496df0",
         "isolate_id": "soroitzw",
         "_id": "HQ316637.1",
-        "definition": "Alfalfa mosaic virus strain HZ segment RNA3, complete sequence",
-        "virus_id": "3b496df0"
+        "host": ""
     },
     {
-        "host": "",
-        "isolate_id": "soroitzw",
-        "_id": "HQ316635.1",
-        "definition": "Alfalfa mosaic virus strain HZ segment RNA1, complete sequence",
-        "virus_id": "3b496df0"
-    },
-    {
-        "host": "",
+        "definition": "Alfalfa mosaic virus strain HZ segment RNA2, complete sequence",
+        "virus_id": "3b496df0",
         "isolate_id": "soroitzw",
         "_id": "HQ316636.1",
-        "definition": "Alfalfa mosaic virus strain HZ segment RNA2, complete sequence",
-        "virus_id": "3b496df0"
+        "host": ""
+    },
+    {
+        "definition": "Alfalfa mosaic virus strain HZ segment RNA1, complete sequence",
+        "virus_id": "3b496df0",
+        "isolate_id": "soroitzw",
+        "_id": "HQ316635.1",
+        "host": ""
     }
 ]

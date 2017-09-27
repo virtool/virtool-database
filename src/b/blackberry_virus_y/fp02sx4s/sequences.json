@@ -1,10 +1,10 @@
 [
     {
-        "host": "blackberry",
-        "isolate_id": "fp02sx4s",
+        "molecule_structure": "linear",
         "definition": "Blackberry virus Y, complete genome",
-        "_id": "NC_008558",
         "virus_id": "31fc0a18",
-        "molecule_structure": "linear"
+        "isolate_id": "fp02sx4s",
+        "_id": "NC_008558",
+        "host": "blackberry"
     }
 ]

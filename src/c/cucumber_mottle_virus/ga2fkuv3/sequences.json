@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ga2fkuv3",
+        "molecule_structure": "linear",
         "definition": "Cucumber mottle virus, complete genome",
-        "_id": "NC_008614",
         "virus_id": "5ce1d7f8",
-        "molecule_structure": "linear"
+        "isolate_id": "ga2fkuv3",
+        "_id": "NC_008614",
+        "host": null
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Tomato yellow leaf curl Mali virus-associated DNA beta, complete genome.",
+        "virus_id": "76c0d2e8",
         "isolate_id": "o68g10g1",
         "_id": "NC_007485",
-        "definition": "Tomato yellow leaf curl Mali virus-associated DNA beta, complete genome.",
-        "virus_id": "76c0d2e8"
+        "host": ""
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "verbena",
-        "isolate_id": "jcbvbiku",
+        "molecule_structure": "linear",
         "definition": "Coleus vein necrosis virus, complete genome",
-        "_id": "NC_009764",
         "virus_id": "5890e0dc",
-        "molecule_structure": "linear"
+        "isolate_id": "jcbvbiku",
+        "_id": "NC_009764",
+        "host": "verbena"
     }
 ]

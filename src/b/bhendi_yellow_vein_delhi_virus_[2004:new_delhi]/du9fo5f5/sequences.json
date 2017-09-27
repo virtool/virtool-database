@@ -1,10 +1,10 @@
 [
     {
-        "host": "Abelmoschus esculentus",
-        "isolate_id": "du9fo5f5",
+        "molecule_structure": "circular",
         "definition": "Bhendi yellow vein Delhi virus [2004:New Delhi] DNA-A, complete",
-        "_id": "NC_011919",
         "virus_id": "7d9180c9",
-        "molecule_structure": "circular"
+        "isolate_id": "du9fo5f5",
+        "_id": "NC_011919",
+        "host": "Abelmoschus esculentus"
     }
 ]

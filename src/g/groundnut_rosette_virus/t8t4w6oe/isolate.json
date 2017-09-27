@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "t8t4w6oe",
     "source_name": "MC1",
-    "id": "t8t4w6oe"
+    "default": true
 }

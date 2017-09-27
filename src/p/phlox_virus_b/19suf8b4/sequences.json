@@ -1,10 +1,10 @@
 [
     {
-        "host": "Phlox divaricata cv. White Perfume",
-        "isolate_id": "19suf8b4",
+        "molecule_structure": "linear",
         "definition": "Phlox Virus B, complete genome",
-        "_id": "NC_009991",
         "virus_id": "d0e5e676",
-        "molecule_structure": "linear"
+        "isolate_id": "19suf8b4",
+        "_id": "NC_009991",
+        "host": "Phlox divaricata cv. White Perfume"
     }
 ]

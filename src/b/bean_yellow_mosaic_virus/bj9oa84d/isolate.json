@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "bj9oa84d",
     "source_name": "MB4",
-    "id": "bj9oa84d"
+    "default": true
 }

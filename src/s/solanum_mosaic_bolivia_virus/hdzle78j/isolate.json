@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "hdzle78j",
     "source_name": "SoMBoV",
-    "id": "hdzle78j"
+    "default": true
 }

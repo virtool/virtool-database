@@ -1,20 +1,20 @@
 [
     {
-        "host": "Rhynchosia minima",
-        "isolate_id": "tvqy5np2",
-        "_version": 0,
-        "definition": "Rhynchosia golden mosaic Yucatan virus DNA B, complete genome",
         "_id": "NC_012482",
+        "molecule_structure": "circular",
+        "isolate_id": "tvqy5np2",
         "virus_id": "511b6d8e",
-        "molecule_structure": "circular"
+        "definition": "Rhynchosia golden mosaic Yucatan virus DNA B, complete genome",
+        "_version": 0,
+        "host": "Rhynchosia minima"
     },
     {
-        "host": "Rhynchosia minima",
-        "isolate_id": "tvqy5np2",
-        "_version": 0,
-        "definition": "Rhynchosia golden mosaic Yucatan virus DNA A, complete genome",
         "_id": "NC_012481",
+        "molecule_structure": "circular",
+        "isolate_id": "tvqy5np2",
         "virus_id": "511b6d8e",
-        "molecule_structure": "circular"
+        "definition": "Rhynchosia golden mosaic Yucatan virus DNA A, complete genome",
+        "_version": 0,
+        "host": "Rhynchosia minima"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "jvxvsdyv",
     "source_name": "AMCV-Bari Dr.Gallitelli isolate",
-    "id": "jvxvsdyv"
+    "default": true
 }

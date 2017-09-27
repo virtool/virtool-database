@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
+        "_id": "NC_006965",
+        "molecule_structure": "linear",
         "isolate_id": "9funvu62",
-        "_version": 0,
-        "definition": "Strawberry latent ringspot virus RNA1, complete sequence",
-        "_id": "NC_006964",
         "virus_id": "eaf3639e",
-        "molecule_structure": "linear"
+        "definition": "Strawberry latent ringspot virus RNA2, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_006964",
+        "molecule_structure": "linear",
         "isolate_id": "9funvu62",
-        "_version": 0,
-        "definition": "Strawberry latent ringspot virus RNA2, complete sequence",
-        "_id": "NC_006965",
         "virus_id": "eaf3639e",
-        "molecule_structure": "linear"
+        "definition": "Strawberry latent ringspot virus RNA1, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

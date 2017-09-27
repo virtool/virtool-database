@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ts3ud9nn",
+        "molecule_structure": "linear",
         "definition": "Grapevine berry inner necrosis virus, complete genome",
-        "_id": "NC_015220",
         "virus_id": "84e4117e",
-        "molecule_structure": "linear"
+        "isolate_id": "ts3ud9nn",
+        "_id": "NC_015220",
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "0ed6cr7q",
+        "molecule_structure": "linear",
         "definition": "Faba bean necrotic yellows C1 alphasatellite gene for replicase",
-        "_id": "NC_024886",
         "virus_id": "09295d10",
-        "molecule_structure": "linear"
+        "isolate_id": "0ed6cr7q",
+        "_id": "NC_024886",
+        "host": null
     }
 ]

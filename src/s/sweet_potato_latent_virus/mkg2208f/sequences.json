@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ipomoea batatas",
-        "isolate_id": "mkg2208f",
+        "molecule_structure": "linear",
         "definition": "Sweet potato latent virus, complete genome",
-        "_id": "NC_020896",
         "virus_id": "5dbae3f8",
-        "molecule_structure": "linear"
+        "isolate_id": "mkg2208f",
+        "_id": "NC_020896",
+        "host": "Ipomoea batatas"
     }
 ]

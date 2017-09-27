@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ye9tavta",
+        "molecule_structure": "circular",
         "definition": "Sida leaf curl virus, complete genome",
-        "_id": "NC_007638",
         "virus_id": "956fecd5",
-        "molecule_structure": "circular"
+        "isolate_id": "ye9tavta",
+        "_id": "NC_007638",
+        "host": null
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "host": "Eureka lemon",
+        "definition": "Citrus yellow vein clearing virus isolate CQ, complete genome.",
+        "virus_id": "fd97aa67",
         "isolate_id": "yikp0htr",
         "_id": "NC_026592",
-        "definition": "Citrus yellow vein clearing virus isolate CQ, complete genome.",
-        "virus_id": "fd97aa67"
+        "host": "Eureka lemon"
     }
 ]

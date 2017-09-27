@@ -1,10 +1,10 @@
 [
     {
-        "host": "Eragrostis curvula",
-        "isolate_id": "ns4tjs7k",
+        "molecule_structure": "circular",
         "definition": "Eragrostis curvula streak virus, complete genome",
-        "_id": "NC_012664",
         "virus_id": "28a544b2",
-        "molecule_structure": "circular"
+        "isolate_id": "ns4tjs7k",
+        "_id": "NC_012664",
+        "host": "Eragrostis curvula"
     }
 ]

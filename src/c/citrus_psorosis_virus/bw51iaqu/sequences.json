@@ -1,29 +1,29 @@
 [
     {
-        "host": null,
-        "isolate_id": "bw51iaqu",
-        "_version": 0,
-        "definition": "Citrus psorosis virus RNA1, complete genome",
         "_id": "NC_006314",
+        "molecule_structure": "linear",
+        "isolate_id": "bw51iaqu",
         "virus_id": "afd1d92b",
-        "molecule_structure": "linear"
+        "definition": "Citrus psorosis virus RNA1, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "bw51iaqu",
-        "_version": 0,
-        "definition": "Citrus psorosis virus RNA3, complete genome",
         "_id": "NC_006316",
+        "molecule_structure": "linear",
+        "isolate_id": "bw51iaqu",
         "virus_id": "afd1d92b",
-        "molecule_structure": "linear"
+        "definition": "Citrus psorosis virus RNA3, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "bw51iaqu",
-        "_version": 0,
-        "definition": "Citrus psorosis virus RNA2, complete genome",
         "_id": "NC_006315",
+        "molecule_structure": "linear",
+        "isolate_id": "bw51iaqu",
         "virus_id": "afd1d92b",
-        "molecule_structure": "linear"
+        "definition": "Citrus psorosis virus RNA2, complete genome",
+        "_version": 0,
+        "host": null
     }
 ]

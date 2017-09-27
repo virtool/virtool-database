@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "wxlc6luq",
+        "molecule_structure": "linear",
         "definition": "Johnsongrass chlorotic stripe mosaic virus, complete genome",
-        "_id": "NC_005287",
         "virus_id": "7f92e2aa",
-        "molecule_structure": "linear"
+        "isolate_id": "wxlc6luq",
+        "_id": "NC_005287",
+        "host": null
     }
 ]

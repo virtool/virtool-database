@@ -1,9 +1,9 @@
 [
     {
-        "host": "Prunus armeniaca (apricot)",
+        "definition": "Apple scar skin viroid variant ASSVd_AP2, complete genome.",
+        "virus_id": "82666a09",
         "isolate_id": "h5t28zjw",
         "_id": "EU031488",
-        "definition": "Apple scar skin viroid variant ASSVd_AP2, complete genome.",
-        "virus_id": "82666a09"
+        "host": "Prunus armeniaca (apricot)"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "host": "vitis",
+        "definition": "Grapevine fleck virus, complete genome",
+        "virus_id": "26b1a528",
         "isolate_id": "098aee1c",
         "_id": "16GVP018_GFkV",
-        "definition": "Grapevine fleck virus, complete genome",
-        "virus_id": "26b1a528"
+        "host": "vitis"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Nicotiana velutina",
-        "isolate_id": "bp8zbj88",
+        "molecule_structure": "linear",
         "definition": "Velvet tobacco mottle virus, complete genome",
-        "_id": "NC_014509",
         "virus_id": "6b6261ee",
-        "molecule_structure": "linear"
+        "isolate_id": "bp8zbj88",
+        "_id": "NC_014509",
+        "host": "Nicotiana velutina"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "sweet potato",
-        "isolate_id": "qp6ijxw8",
+        "molecule_structure": "circular",
         "definition": "Sweet potato vein clearing virus, complete genome",
-        "_id": "NC_015228",
         "virus_id": "a0aa4f6e",
-        "molecule_structure": "circular"
+        "isolate_id": "qp6ijxw8",
+        "_id": "NC_015228",
+        "host": "sweet potato"
     }
 ]

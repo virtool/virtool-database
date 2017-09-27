@@ -1,20 +1,20 @@
 [
     {
-        "host": "Allium chinense",
+        "_id": "NC_010416",
+        "molecule_structure": "linear",
         "isolate_id": "i2hs0316",
-        "_version": 0,
-        "definition": "Scallion virus X, complete genome",
-        "_id": "NC_003400",
         "virus_id": "d9dde9d6",
-        "molecule_structure": "linear"
+        "definition": "Asparagus virus 3, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_003400",
+        "molecule_structure": "linear",
         "isolate_id": "i2hs0316",
-        "_version": 0,
-        "definition": "Asparagus virus 3, complete genome",
-        "_id": "NC_010416",
         "virus_id": "d9dde9d6",
-        "molecule_structure": "linear"
+        "definition": "Scallion virus X, complete genome",
+        "_version": 0,
+        "host": "Allium chinense"
     }
 ]

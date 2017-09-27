@@ -1,9 +1,9 @@
 [
     {
-        "host": "lemon",
+        "definition": "Citrus yellow vein clearing virus isolate YN-EL, complete genome",
+        "virus_id": "fd97aa67",
         "isolate_id": "foccumnp",
         "_id": "KX156751.1",
-        "definition": "Citrus yellow vein clearing virus isolate YN-EL, complete genome",
-        "virus_id": "fd97aa67"
+        "host": "lemon"
     }
 ]

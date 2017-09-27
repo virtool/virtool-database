@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "auubhl2o",
+        "molecule_structure": "circular",
         "definition": "Sida leaf curl virus-associated DNA 1, complete genome",
-        "_id": "NC_007640",
         "virus_id": "98fbb20e",
-        "molecule_structure": "circular"
+        "isolate_id": "auubhl2o",
+        "_id": "NC_007640",
+        "host": null
     }
 ]

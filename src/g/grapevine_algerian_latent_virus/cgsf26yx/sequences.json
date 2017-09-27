@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "cgsf26yx",
+        "molecule_structure": "linear",
         "definition": "Grapevine Algerian latent virus, complete genome",
-        "_id": "NC_011535",
         "virus_id": "f6476cb7",
-        "molecule_structure": "linear"
+        "isolate_id": "cgsf26yx",
+        "_id": "NC_011535",
+        "host": null
     }
 ]

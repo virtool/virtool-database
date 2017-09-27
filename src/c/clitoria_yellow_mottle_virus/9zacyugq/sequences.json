@@ -1,10 +1,10 @@
 [
     {
-        "host": "Clitoria ternatea",
-        "isolate_id": "9zacyugq",
+        "molecule_structure": "linear",
         "definition": "Clitoria yellow mottle virus, complete genome",
-        "_id": "NC_016519",
         "virus_id": "d5966d2b",
-        "molecule_structure": "linear"
+        "isolate_id": "9zacyugq",
+        "_id": "NC_016519",
+        "host": "Clitoria ternatea"
     }
 ]

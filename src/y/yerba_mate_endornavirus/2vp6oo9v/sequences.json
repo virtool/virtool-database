@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ilex paraguariensis",
-        "isolate_id": "2vp6oo9v",
+        "molecule_structure": "linear",
         "definition": "Yerba mate endornavirus strain INTA, complete genome",
-        "_id": "NC_024455",
         "virus_id": "fb6c8cf2",
-        "molecule_structure": "linear"
+        "isolate_id": "2vp6oo9v",
+        "_id": "NC_024455",
+        "host": "Ilex paraguariensis"
     }
 ]

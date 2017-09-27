@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "ewoxbn1w",
     "source_name": "tomato",
-    "id": "ewoxbn1w"
+    "default": true
 }

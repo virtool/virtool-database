@@ -1,10 +1,10 @@
 [
     {
-        "host": "Tuber aestivum",
-        "isolate_id": "inslize1",
+        "molecule_structure": "linear",
         "definition": "Tuber aestivum endornavirus, complete genome",
-        "_id": "NC_014904",
         "virus_id": "57758e47",
-        "molecule_structure": "linear"
+        "isolate_id": "inslize1",
+        "_id": "NC_014904",
+        "host": "Tuber aestivum"
     }
 ]

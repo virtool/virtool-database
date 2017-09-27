@@ -1,9 +1,9 @@
 [
     {
-        "host": "Malvastrum coromandelianum",
         "isolate_id": "l4suan4n",
-        "_id": "NC_026763",
+        "virus_id": "b5de732b",
         "definition": "Malvastrum yellow vein Cambodia virus isolate 08 segment DNA-A, complete sequence.",
-        "virus_id": "b5de732b"
+        "_id": "NC_026763",
+        "host": "Malvastrum coromandelianum"
     }
 ]

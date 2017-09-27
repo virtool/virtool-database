@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
-        "isolate_id": "0ue9jjmd",
-        "_version": 0,
-        "definition": "Squash leaf curl virus B component DNA, complete sequence",
         "_id": "NC_001937",
+        "molecule_structure": "circular",
+        "isolate_id": "0ue9jjmd",
         "virus_id": "9fc11a05",
-        "molecule_structure": "circular"
+        "definition": "Squash leaf curl virus B component DNA, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "0ue9jjmd",
-        "_version": 0,
-        "definition": "Squash leaf curl virus A component DNA, complete sequence",
         "_id": "NC_001936",
+        "molecule_structure": "circular",
+        "isolate_id": "0ue9jjmd",
         "virus_id": "9fc11a05",
-        "molecule_structure": "circular"
+        "definition": "Squash leaf curl virus A component DNA, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

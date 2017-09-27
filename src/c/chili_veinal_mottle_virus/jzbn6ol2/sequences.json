@@ -1,10 +1,10 @@
 [
     {
-        "host": "Capsicum annuum",
-        "isolate_id": "jzbn6ol2",
+        "molecule_structure": "linear",
         "definition": "Chilli veinal mottle virus, complete genome",
-        "_id": "NC_005778",
         "virus_id": "a3dadfed",
-        "molecule_structure": "linear"
+        "isolate_id": "jzbn6ol2",
+        "_id": "NC_005778",
+        "host": "Capsicum annuum"
     }
 ]

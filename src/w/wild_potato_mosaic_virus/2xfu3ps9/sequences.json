@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "2xfu3ps9",
+        "molecule_structure": "linear",
         "definition": "Wild potato mosaic virus, complete genome",
-        "_id": "NC_004426",
         "virus_id": "e885dc67",
-        "molecule_structure": "linear"
+        "isolate_id": "2xfu3ps9",
+        "_id": "NC_004426",
+        "host": null
     }
 ]

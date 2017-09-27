@@ -1,20 +1,20 @@
 [
     {
-        "host": "Abutilon sp.",
+        "_id": "NC_015048",
+        "molecule_structure": "circular",
         "isolate_id": "o62brc86",
-        "_version": 0,
-        "definition": "Abutilon mosaic Bolivia virus DNA-A, complete genome",
-        "_id": "NC_015045",
         "virus_id": "565577cd",
-        "molecule_structure": "circular"
+        "definition": "Abutilon mosaic Bolivia virus DNA-B, complete genome",
+        "_version": 0,
+        "host": "Abutilon sp."
     },
     {
-        "host": "Abutilon sp.",
+        "_id": "NC_015045",
+        "molecule_structure": "circular",
         "isolate_id": "o62brc86",
-        "_version": 0,
-        "definition": "Abutilon mosaic Bolivia virus DNA-B, complete genome",
-        "_id": "NC_015048",
         "virus_id": "565577cd",
-        "molecule_structure": "circular"
+        "definition": "Abutilon mosaic Bolivia virus DNA-A, complete genome",
+        "_version": 0,
+        "host": "Abutilon sp."
     }
 ]

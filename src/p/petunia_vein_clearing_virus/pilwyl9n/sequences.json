@@ -1,10 +1,10 @@
 [
     {
-        "host": "petunia hybrida cv. Himmelsroeschen",
-        "isolate_id": "pilwyl9n",
+        "molecule_structure": "linear",
         "definition": "Petunia vein clearing virus, complete genome",
-        "_id": "NC_001839",
         "virus_id": "139c126a",
-        "molecule_structure": "linear"
+        "isolate_id": "pilwyl9n",
+        "_id": "NC_001839",
+        "host": "petunia hybrida cv. Himmelsroeschen"
     }
 ]

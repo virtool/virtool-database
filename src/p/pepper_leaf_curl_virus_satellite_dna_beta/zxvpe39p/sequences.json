@@ -1,10 +1,10 @@
 [
     {
-        "host": "red pepper chilli cultivar Pusa Jwala",
-        "isolate_id": "zxvpe39p",
+        "molecule_structure": "linear",
         "definition": "Pepper leaf curl virus satellite DNA beta, complete genome",
-        "_id": "NC_010235",
         "virus_id": "dd9a7616",
-        "molecule_structure": "linear"
+        "isolate_id": "zxvpe39p",
+        "_id": "NC_010235",
+        "host": "red pepper chilli cultivar Pusa Jwala"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Nicotiana tabacum",
-        "isolate_id": "kcpq486d",
+        "molecule_structure": "linear",
         "definition": "Ethiopian tobacco bushy top virus satellite RNA isolate 18-2,",
-        "_id": "NC_024807",
         "virus_id": "3f5cf77e",
-        "molecule_structure": "linear"
+        "isolate_id": "kcpq486d",
+        "_id": "NC_024807",
+        "host": "Nicotiana tabacum"
     }
 ]

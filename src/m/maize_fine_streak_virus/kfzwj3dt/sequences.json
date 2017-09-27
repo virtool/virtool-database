@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "kfzwj3dt",
+        "molecule_structure": "linear",
         "definition": "Maize fine streak virus, complete genome",
-        "_id": "NC_005974",
         "virus_id": "337c6d25",
-        "molecule_structure": "linear"
+        "isolate_id": "kfzwj3dt",
+        "_id": "NC_005974",
+        "host": null
     }
 ]

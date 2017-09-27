@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "v6lo624v",
     "source_name": "oca",
-    "id": "v6lo624v"
+    "default": true
 }

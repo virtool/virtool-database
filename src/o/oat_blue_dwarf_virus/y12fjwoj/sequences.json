@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "y12fjwoj",
+        "molecule_structure": "linear",
         "definition": "Oat blue dwarf virus, complete genome",
-        "_id": "NC_001793",
         "virus_id": "e1dfb3ef",
-        "molecule_structure": "linear"
+        "isolate_id": "y12fjwoj",
+        "_id": "NC_001793",
+        "host": null
     }
 ]

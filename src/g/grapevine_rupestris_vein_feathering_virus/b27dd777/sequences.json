@@ -1,9 +1,9 @@
 [
     {
-        "host": "Vitis vinifera cultivar Cabernet",
+        "definition": "Grapevine rupestris vein feathering virus polyprotein gene, complete cds.",
+        "virus_id": "30dc0796",
         "isolate_id": "b27dd777",
         "_id": "AY706994",
-        "definition": "Grapevine rupestris vein feathering virus polyprotein gene, complete cds.",
-        "virus_id": "30dc0796"
+        "host": "Vitis vinifera cultivar Cabernet"
     }
 ]

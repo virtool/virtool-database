@@ -1,10 +1,10 @@
 [
     {
-        "host": "Iresine herbstii",
-        "isolate_id": "6kplarn7",
+        "molecule_structure": "circular",
         "definition": "Iresine viroid complete sequence",
-        "_id": "NC_003613",
         "virus_id": "22de2109",
-        "molecule_structure": "circular"
+        "isolate_id": "6kplarn7",
+        "_id": "NC_003613",
+        "host": "Iresine herbstii"
     }
 ]

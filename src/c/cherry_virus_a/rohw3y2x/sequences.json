@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Cherry virus A",
+        "virus_id": "f804f4c2",
         "isolate_id": "rohw3y2x",
         "_id": "13C289C",
-        "definition": "Cherry virus A",
-        "virus_id": "f804f4c2"
+        "host": ""
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Hibiscus rosa-sinensis",
-        "isolate_id": "g8z8diiq",
+        "molecule_structure": "circular",
         "definition": "Hibiscus bacilliform virus GD1, complete genome",
-        "_id": "NC_023485",
         "virus_id": "92fbd358",
-        "molecule_structure": "circular"
+        "isolate_id": "g8z8diiq",
+        "_id": "NC_023485",
+        "host": "Hibiscus rosa-sinensis"
     }
 ]

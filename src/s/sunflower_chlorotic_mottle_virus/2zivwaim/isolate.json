@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "2zivwaim",
     "source_name": "Common (C)",
-    "id": "2zivwaim"
+    "default": true
 }

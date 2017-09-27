@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "3hmp159w",
     "source_name": "p23",
-    "id": "3hmp159w"
+    "default": true
 }

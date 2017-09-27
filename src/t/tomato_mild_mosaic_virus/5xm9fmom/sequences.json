@@ -1,20 +1,20 @@
 [
     {
-        "host": "tomato",
-        "isolate_id": "5xm9fmom",
-        "_version": 0,
-        "definition": "Tomato mild mosaic virus DNA-B, complete genome",
         "_id": "NC_010834",
+        "molecule_structure": "circular",
+        "isolate_id": "5xm9fmom",
         "virus_id": "b4452e4d",
-        "molecule_structure": "circular"
+        "definition": "Tomato mild mosaic virus DNA-B, complete genome",
+        "_version": 0,
+        "host": "tomato"
     },
     {
-        "host": "tomato",
-        "isolate_id": "5xm9fmom",
-        "_version": 0,
-        "definition": "Tomato mild mosaic virus DNA-A, complete genome",
         "_id": "NC_010833",
+        "molecule_structure": "circular",
+        "isolate_id": "5xm9fmom",
         "virus_id": "b4452e4d",
-        "molecule_structure": "circular"
+        "definition": "Tomato mild mosaic virus DNA-A, complete genome",
+        "_version": 0,
+        "host": "tomato"
     }
 ]

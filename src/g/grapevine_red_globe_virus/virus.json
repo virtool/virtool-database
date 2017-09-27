@@ -1,6 +1,6 @@
 {
-    "name": "Grapevine Red Globe Virus",
     "_id": "d5f7413d",
-    "lower_name": "grapevine red globe virus",
-    "abbreviation": "GRGV"
+    "abbreviation": "GRGV",
+    "name": "Grapevine Red Globe Virus",
+    "lower_name": "grapevine red globe virus"
 }

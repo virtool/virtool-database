@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "riuqk05k",
+        "molecule_structure": "linear",
         "definition": "Japanese iris necrotic ring virus, complete genome",
-        "_id": "NC_002187",
         "virus_id": "d5239558",
-        "molecule_structure": "linear"
+        "isolate_id": "riuqk05k",
+        "_id": "NC_002187",
+        "host": null
     }
 ]

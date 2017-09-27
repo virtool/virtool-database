@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
-        "isolate_id": "htsxzp5n",
-        "_version": 0,
-        "definition": "Grapevine chrome mosaic virus RNA 1, complete sequence",
         "_id": "NC_003622",
+        "molecule_structure": "linear",
+        "isolate_id": "htsxzp5n",
         "virus_id": "5c11e7fb",
-        "molecule_structure": "linear"
+        "definition": "Grapevine chrome mosaic virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "htsxzp5n",
-        "_version": 0,
-        "definition": "Grapevine chrome mosaic virus RNA 2, complete sequence",
         "_id": "NC_003621",
+        "molecule_structure": "linear",
+        "isolate_id": "htsxzp5n",
         "virus_id": "5c11e7fb",
-        "molecule_structure": "linear"
+        "definition": "Grapevine chrome mosaic virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "i7rouv33",
     "source_name": "OR",
-    "id": "i7rouv33"
+    "default": true
 }

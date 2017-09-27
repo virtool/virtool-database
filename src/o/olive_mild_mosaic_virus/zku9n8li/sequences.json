@@ -1,10 +1,10 @@
 [
     {
-        "host": "Olea europaea L.",
-        "isolate_id": "zku9n8li",
+        "molecule_structure": "linear",
         "definition": "Olive mild mosaic virus, complete genome",
-        "_id": "NC_006939",
         "virus_id": "e8deebcf",
-        "molecule_structure": "linear"
+        "isolate_id": "zku9n8li",
+        "_id": "NC_006939",
+        "host": "Olea europaea L."
     }
 ]

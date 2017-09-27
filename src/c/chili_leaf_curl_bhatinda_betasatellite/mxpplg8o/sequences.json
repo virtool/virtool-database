@@ -1,10 +1,10 @@
 [
     {
-        "host": "Capsicum sp.",
-        "isolate_id": "mxpplg8o",
+        "molecule_structure": "circular",
         "definition": "Chili leaf curl Bhatinda betasatellite isolate AnAv, complete",
-        "_id": "NC_021345",
         "virus_id": "2e93d72d",
-        "molecule_structure": "circular"
+        "isolate_id": "mxpplg8o",
+        "_id": "NC_021345",
+        "host": "Capsicum sp."
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "malus",
-        "isolate_id": "fy225v2t",
+        "molecule_structure": "",
         "definition": "Apple dimple viroid complete sequence",
-        "_id": "AB561003",
         "virus_id": "39d3f3e7",
-        "molecule_structure": ""
+        "isolate_id": "fy225v2t",
+        "_id": "AB561003",
+        "host": "malus"
     }
 ]

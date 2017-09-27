@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "uag35sun",
+        "molecule_structure": "linear",
         "definition": "Clover yellow mosaic virus, complete genome",
-        "_id": "NC_001753",
         "virus_id": "857bbe1f",
-        "molecule_structure": "linear"
+        "isolate_id": "uag35sun",
+        "_id": "NC_001753",
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "tobacco",
-        "isolate_id": "8iot02dd",
+        "molecule_structure": "circular",
         "definition": "Tobacco leaf chlorosis betasatellite isolate 03, complete sequence",
-        "_id": "NC_018935",
         "virus_id": "3b6ebff8",
-        "molecule_structure": "circular"
+        "isolate_id": "8iot02dd",
+        "_id": "NC_018935",
+        "host": "tobacco"
     }
 ]

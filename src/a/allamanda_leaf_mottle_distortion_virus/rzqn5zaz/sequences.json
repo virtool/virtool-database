@@ -1,10 +1,10 @@
 [
     {
-        "host": "Allamanda cathartica (golden trumpet)",
-        "isolate_id": "rzqn5zaz",
+        "molecule_structure": "circular",
         "definition": "Allamanda leaf mottle distortion virus isolate Al-K1 segment DNA-A,",
-        "_id": "NC_024009",
         "virus_id": "9ffbb8c9",
-        "molecule_structure": "circular"
+        "isolate_id": "rzqn5zaz",
+        "_id": "NC_024009",
+        "host": "Allamanda cathartica (golden trumpet)"
     }
 ]

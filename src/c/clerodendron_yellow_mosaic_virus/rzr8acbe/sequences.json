@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "rzr8acbe",
+        "molecule_structure": "circular",
         "definition": "Clerodendron yellow mosaic virus, complete genome",
-        "_id": "NC_009451",
         "virus_id": "7f441d3d",
-        "molecule_structure": "circular"
+        "isolate_id": "rzr8acbe",
+        "_id": "NC_009451",
+        "host": null
     }
 ]

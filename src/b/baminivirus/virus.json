@@ -1,6 +1,6 @@
 {
-    "name": "Baminivirus",
     "_id": "bbd5313f",
-    "lower_name": "baminivirus",
-    "abbreviation": "BamiV"
+    "abbreviation": "BamiV",
+    "name": "Baminivirus",
+    "lower_name": "baminivirus"
 }

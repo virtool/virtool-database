@@ -1,6 +1,6 @@
 {
-    "name": "Turnip mosaic virus",
     "_id": "bdfc2c63",
-    "lower_name": "turnip mosaic virus",
-    "abbreviation": "TuMV"
+    "abbreviation": "TuMV",
+    "name": "Turnip mosaic virus",
+    "lower_name": "turnip mosaic virus"
 }

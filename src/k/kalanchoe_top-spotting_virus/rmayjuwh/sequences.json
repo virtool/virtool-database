@@ -1,10 +1,10 @@
 [
     {
-        "host": "Kalanchoe blossfeldiana",
-        "isolate_id": "rmayjuwh",
+        "molecule_structure": "linear",
         "definition": "Kalanchoe top-spotting virus, complete genome",
-        "_id": "NC_004540",
         "virus_id": "81035632",
-        "molecule_structure": "linear"
+        "isolate_id": "rmayjuwh",
+        "_id": "NC_004540",
+        "host": "Kalanchoe blossfeldiana"
     }
 ]

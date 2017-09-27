@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "ihtzoy0v",
     "source_name": "ER",
-    "id": "ihtzoy0v"
+    "default": true
 }

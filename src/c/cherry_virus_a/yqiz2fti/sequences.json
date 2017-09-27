@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "yqiz2fti",
+        "molecule_structure": "linear",
         "definition": "Cherry virus A, complete genome",
-        "_id": "NC_003689",
         "virus_id": "f804f4c2",
-        "molecule_structure": "linear"
+        "isolate_id": "yqiz2fti",
+        "_id": "NC_003689",
+        "host": null
     }
 ]

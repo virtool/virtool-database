@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "9fb7zngf",
+        "molecule_structure": "linear",
         "definition": "Grapevine leafroll-associated virus 7, complete genome",
-        "_id": "NC_016436",
         "virus_id": "6599e139",
-        "molecule_structure": "linear"
+        "isolate_id": "9fb7zngf",
+        "_id": "NC_016436",
+        "host": null
     }
 ]

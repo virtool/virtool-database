@@ -1,10 +1,10 @@
 [
     {
-        "host": "Gossypium mustelinum",
-        "isolate_id": "ucjk36ou",
+        "molecule_structure": "circular",
         "definition": "Gossypium davidsonii symptomless alphasatellite DNA-alpha-B,",
-        "_id": "NC_013011",
         "virus_id": "ebfd5e7f",
-        "molecule_structure": "circular"
+        "isolate_id": "ucjk36ou",
+        "_id": "NC_013011",
+        "host": "Gossypium mustelinum"
     }
 ]

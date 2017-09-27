@@ -1,10 +1,10 @@
 [
     {
-        "host": "Abelmoschus esculentus (okra)",
-        "isolate_id": "hzvq0nyr",
+        "molecule_structure": "circular",
         "definition": "Luffa puckering and leaf distortion-associated betasatellite",
-        "_id": "NC_024373",
         "virus_id": "526b5edf",
-        "molecule_structure": "circular"
+        "isolate_id": "hzvq0nyr",
+        "_id": "NC_024373",
+        "host": "Abelmoschus esculentus (okra)"
     }
 ]

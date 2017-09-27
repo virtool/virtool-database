@@ -1,6 +1,6 @@
 {
-    "name": "Banana streak virus",
     "_id": "20603017",
-    "lower_name": "banana streak virus",
-    "abbreviation": "BSV"
+    "abbreviation": "BSV",
+    "name": "Banana streak virus",
+    "lower_name": "banana streak virus"
 }

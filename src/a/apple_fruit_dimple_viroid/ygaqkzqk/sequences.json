@@ -1,9 +1,9 @@
 [
     {
-        "host": "Malus pumila cv Golden Delicious",
+        "definition": "Apple dimple fruit viroid variant ADFVd-04, complete genome",
+        "virus_id": "39d3f3e7",
         "isolate_id": "ygaqkzqk",
         "_id": "EF088660.1",
-        "definition": "Apple dimple fruit viroid variant ADFVd-04, complete genome",
-        "virus_id": "39d3f3e7"
+        "host": "Malus pumila cv Golden Delicious"
     }
 ]

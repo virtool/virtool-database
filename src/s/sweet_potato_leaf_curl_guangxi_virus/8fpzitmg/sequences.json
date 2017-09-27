@@ -1,10 +1,10 @@
 [
     {
-        "host": "sweet potato",
-        "isolate_id": "8fpzitmg",
+        "molecule_structure": "circular",
         "definition": "Sweet potato leaf curl Guangxi virus isolate China:Guangxi5:2011,",
-        "_id": "NC_024693",
         "virus_id": "d635036c",
-        "molecule_structure": "circular"
+        "isolate_id": "8fpzitmg",
+        "_id": "NC_024693",
+        "host": "sweet potato"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "pineapple plants",
-        "isolate_id": "jfkvm70w",
+        "molecule_structure": "circular",
         "definition": "Pineapple bacilliform comosus virus, complete genome",
-        "_id": "NC_014648",
         "virus_id": "0764ce35",
-        "molecule_structure": "circular"
+        "isolate_id": "jfkvm70w",
+        "_id": "NC_014648",
+        "host": "pineapple plants"
     }
 ]

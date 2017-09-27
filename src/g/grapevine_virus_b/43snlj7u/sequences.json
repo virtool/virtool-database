@@ -1,9 +1,9 @@
 [
     {
-        "host": "Vitis vinifera",
+        "definition": "Grapevine virus B isolate GVB 3138-01",
+        "virus_id": "922d97d2",
         "isolate_id": "43snlj7u",
         "_id": "JX513897",
-        "definition": "Grapevine virus B isolate GVB 3138-01",
-        "virus_id": "922d97d2"
+        "host": "Vitis vinifera"
     }
 ]

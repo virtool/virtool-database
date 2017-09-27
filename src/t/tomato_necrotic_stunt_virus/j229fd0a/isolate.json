@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "j229fd0a",
     "source_name": "MX9354",
-    "id": "j229fd0a"
+    "default": true
 }

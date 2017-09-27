@@ -1,10 +1,10 @@
 [
     {
-        "host": "Brassica rapa",
-        "isolate_id": "drox5te7",
+        "molecule_structure": "linear",
         "definition": "Turnip rosette virus isolate TRoV-1, complete genome",
-        "_id": "NC_004553",
         "virus_id": "fbe814e0",
-        "molecule_structure": "linear"
+        "isolate_id": "drox5te7",
+        "_id": "NC_004553",
+        "host": "Brassica rapa"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Anthocercis littorea",
-        "isolate_id": "u2eekftw",
+        "molecule_structure": "linear",
         "definition": "Yellow tailflower mild mottle virus isolate Cervantes, complete",
-        "_id": "NC_022801",
         "virus_id": "ed1ecb46",
-        "molecule_structure": "linear"
+        "isolate_id": "u2eekftw",
+        "_id": "NC_022801",
+        "host": "Anthocercis littorea"
     }
 ]

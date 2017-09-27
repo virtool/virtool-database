@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ipomoea setosa cv. New Kawago",
-        "isolate_id": "w7ok6mje",
+        "molecule_structure": "circular",
         "definition": "Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008], complete",
-        "_id": "NC_014968",
         "virus_id": "b1e0921b",
-        "molecule_structure": "circular"
+        "isolate_id": "w7ok6mje",
+        "_id": "NC_014968",
+        "host": "Ipomoea setosa cv. New Kawago"
     }
 ]

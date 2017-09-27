@@ -1,10 +1,10 @@
 [
     {
-        "host": "Sporobolus sp.",
-        "isolate_id": "gtgmvccv",
+        "molecule_structure": "circular",
         "definition": "Sporobolus striate mosaic virus 2, complete genome",
-        "_id": "NC_018578",
         "virus_id": "29b2b117",
-        "molecule_structure": "circular"
+        "isolate_id": "gtgmvccv",
+        "_id": "NC_018578",
+        "host": "Sporobolus sp."
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Arracacia xanthorrhiza",
-        "isolate_id": "r4i4r2ph",
+        "molecule_structure": "linear",
         "definition": "Arracacha mottle virus, complete genome",
-        "_id": "NC_018176",
         "virus_id": "861aab8a",
-        "molecule_structure": "linear"
+        "isolate_id": "r4i4r2ph",
+        "_id": "NC_018176",
+        "host": "Arracacia xanthorrhiza"
     }
 ]

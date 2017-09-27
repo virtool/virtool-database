@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "fgx7txgb",
     "source_name": "NC_003612",
-    "id": "fgx7txgb"
+    "default": true
 }

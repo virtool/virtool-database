@@ -1,10 +1,10 @@
 [
     {
-        "host": "allium",
-        "isolate_id": "a4aqupia",
+        "molecule_structure": "linear",
         "definition": "Allium virus X, complete genome",
-        "_id": "NC_012211",
         "virus_id": "e9a5161a",
-        "molecule_structure": "linear"
+        "isolate_id": "a4aqupia",
+        "_id": "NC_012211",
+        "host": "allium"
     }
 ]

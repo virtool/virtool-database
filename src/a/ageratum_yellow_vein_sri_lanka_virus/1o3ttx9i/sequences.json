@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "1o3ttx9i",
+        "molecule_structure": "circular",
         "definition": "Ageratum yellow vein Sri Lanka virus segment A, complete genome",
-        "_id": "NC_002981",
         "virus_id": "157989d1",
-        "molecule_structure": "circular"
+        "isolate_id": "1o3ttx9i",
+        "_id": "NC_002981",
+        "host": null
     }
 ]

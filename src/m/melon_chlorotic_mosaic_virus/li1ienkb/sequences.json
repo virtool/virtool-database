@@ -1,16 +1,16 @@
 [
     {
-        "host": "Cucumis melo",
+        "definition": "Melon chlorotic mosaic virus isolate VE10-148 segment DNA-B, complete sequence.",
+        "virus_id": "f0701b1b",
         "isolate_id": "li1ienkb",
         "_id": "KF670635",
-        "definition": "Melon chlorotic mosaic virus isolate VE10-148 segment DNA-B, complete sequence.",
-        "virus_id": "f0701b1b"
+        "host": "Cucumis melo"
     },
     {
-        "host": "Cucumis melo",
+        "definition": "Melon chlorotic mosaic virus isolate VE10-148 segment DNA-A, complete sequence.",
+        "virus_id": "f0701b1b",
         "isolate_id": "li1ienkb",
         "_id": "KF670634",
-        "definition": "Melon chlorotic mosaic virus isolate VE10-148 segment DNA-A, complete sequence.",
-        "virus_id": "f0701b1b"
+        "host": "Cucumis melo"
     }
 ]

@@ -1,20 +1,20 @@
 [
     {
-        "host": "Luffa acutungula",
-        "isolate_id": "wuipnb3t",
-        "_version": 0,
-        "definition": "Loofa yellow mosaic virus DNA B, complete sequence",
         "_id": "NC_004825",
+        "molecule_structure": "circular",
+        "isolate_id": "wuipnb3t",
         "virus_id": "cabefb67",
-        "molecule_structure": "circular"
+        "definition": "Loofa yellow mosaic virus DNA B, complete sequence",
+        "_version": 0,
+        "host": "Luffa acutungula"
     },
     {
-        "host": "Luffa acutungula",
-        "isolate_id": "wuipnb3t",
-        "_version": 0,
-        "definition": "Loofa yellow mosaic virus DNA A, complete sequence",
         "_id": "NC_004824",
+        "molecule_structure": "circular",
+        "isolate_id": "wuipnb3t",
         "virus_id": "cabefb67",
-        "molecule_structure": "circular"
+        "definition": "Loofa yellow mosaic virus DNA A, complete sequence",
+        "_version": 0,
+        "host": "Luffa acutungula"
     }
 ]

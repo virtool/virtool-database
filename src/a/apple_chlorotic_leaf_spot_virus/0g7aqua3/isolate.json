@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "0g7aqua3",
     "source_name": "B6",
-    "id": "0g7aqua3"
+    "default": false
 }

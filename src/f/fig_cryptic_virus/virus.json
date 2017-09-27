@@ -1,6 +1,6 @@
 {
-    "name": "Fig cryptic virus",
     "_id": "c9a356e5",
-    "lower_name": "fig cryptic virus",
-    "abbreviation": "FCV"
+    "abbreviation": "FCV",
+    "name": "Fig cryptic virus",
+    "lower_name": "fig cryptic virus"
 }

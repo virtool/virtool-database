@@ -1,10 +1,10 @@
 [
     {
-        "host": "Calibrachoa sp.",
-        "isolate_id": "bvuaumlu",
+        "molecule_structure": "linear",
         "definition": "Calibrachoa mottle virus isolate California, complete genome",
-        "_id": "NC_021926",
         "virus_id": "df10988d",
-        "molecule_structure": "linear"
+        "isolate_id": "bvuaumlu",
+        "_id": "NC_021926",
+        "host": "Calibrachoa sp."
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "5p3ruwao",
     "source_name": "NL-07",
-    "id": "5p3ruwao"
+    "default": true
 }

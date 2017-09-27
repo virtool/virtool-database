@@ -1,10 +1,10 @@
 [
     {
-        "host": "Vigna unguiculata",
-        "isolate_id": "iekegses",
+        "molecule_structure": "linear",
         "definition": "Cowpea mild mottle virus, complete genome",
-        "_id": "NC_014730",
         "virus_id": "85769401",
-        "molecule_structure": "linear"
+        "isolate_id": "iekegses",
+        "_id": "NC_014730",
+        "host": "Vigna unguiculata"
     }
 ]

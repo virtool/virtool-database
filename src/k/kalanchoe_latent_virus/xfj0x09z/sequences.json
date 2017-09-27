@@ -1,10 +1,10 @@
 [
     {
-        "host": "Kalanchoe blossfeldiana cv. Nadia",
-        "isolate_id": "xfj0x09z",
+        "molecule_structure": "linear",
         "definition": "Kalanchoe latent virus, complete genome",
-        "_id": "NC_013006",
         "virus_id": "407d8a21",
-        "molecule_structure": "linear"
+        "isolate_id": "xfj0x09z",
+        "_id": "NC_013006",
+        "host": "Kalanchoe blossfeldiana cv. Nadia"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "srzzri5n",
     "source_name": "bg3",
-    "id": "srzzri5n"
+    "default": true
 }

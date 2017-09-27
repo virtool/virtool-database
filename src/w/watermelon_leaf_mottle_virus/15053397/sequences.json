@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Watermelon leaf mottle virus polyprotein gene, partial cds.",
+        "virus_id": "04ae91c8",
         "isolate_id": "15053397",
         "_id": "AF028004",
-        "definition": "Watermelon leaf mottle virus polyprotein gene, partial cds.",
-        "virus_id": "04ae91c8"
+        "host": ""
     }
 ]

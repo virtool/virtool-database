@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "vtn6dyer",
+        "molecule_structure": "circular",
         "definition": "Chilli leaf curl virus, complete genome",
-        "_id": "NC_004628",
         "virus_id": "86d153f8",
-        "molecule_structure": "circular"
+        "isolate_id": "vtn6dyer",
+        "_id": "NC_004628",
+        "host": null
     }
 ]

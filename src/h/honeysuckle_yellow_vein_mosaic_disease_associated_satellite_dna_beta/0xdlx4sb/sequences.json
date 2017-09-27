@@ -1,10 +1,10 @@
 [
     {
-        "host": "Lonicera japonica",
-        "isolate_id": "0xdlx4sb",
+        "molecule_structure": "circular",
         "definition": "Honeysuckle yellow vein mosaic disease associated satellite DNA",
-        "_id": "NC_009571",
         "virus_id": "5a79a01f",
-        "molecule_structure": "circular"
+        "isolate_id": "0xdlx4sb",
+        "_id": "NC_009571",
+        "host": "Lonicera japonica"
     }
 ]

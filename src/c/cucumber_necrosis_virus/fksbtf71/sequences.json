@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "fksbtf71",
+        "molecule_structure": "linear",
         "definition": "Cucumber necrosis virus, complete genome",
-        "_id": "NC_001469",
         "virus_id": "a5678b52",
-        "molecule_structure": "linear"
+        "isolate_id": "fksbtf71",
+        "_id": "NC_001469",
+        "host": null
     }
 ]

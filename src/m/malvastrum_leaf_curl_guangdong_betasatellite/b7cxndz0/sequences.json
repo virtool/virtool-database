@@ -1,10 +1,10 @@
 [
     {
-        "host": "Malvastrum coromandelianum",
-        "isolate_id": "b7cxndz0",
+        "molecule_structure": "circular",
         "definition": "Malvastrum leaf curl Guangdong betasatellite isolate G8, complete",
-        "_id": "NC_023896",
         "virus_id": "ca793379",
-        "molecule_structure": "circular"
+        "isolate_id": "b7cxndz0",
+        "_id": "NC_023896",
+        "host": "Malvastrum coromandelianum"
     }
 ]

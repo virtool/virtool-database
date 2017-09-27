@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ae7l8zcw",
+        "molecule_structure": "linear",
         "definition": "Cassava common mosaic virus, complete genome",
-        "_id": "NC_001658",
         "virus_id": "7b2c6678",
-        "molecule_structure": "linear"
+        "isolate_id": "ae7l8zcw",
+        "_id": "NC_001658",
+        "host": null
     }
 ]

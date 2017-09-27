@@ -1,16 +1,16 @@
 [
     {
-        "host": "Hordeum vulgare",
+        "definition": "Barley yellow mosaic virus genomic RNA, segment 1, complete sequence, strain: K05",
+        "virus_id": "86a1a8d0",
         "isolate_id": "gixkcxfh",
         "_id": "AB500948.1",
-        "definition": "Barley yellow mosaic virus genomic RNA, segment 1, complete sequence, strain: K05",
-        "virus_id": "86a1a8d0"
+        "host": "Hordeum vulgare"
     },
     {
-        "host": "Hordeum vulgare",
+        "definition": "Barley yellow mosaic virus genomic RNA, segment 2, complete sequence, strain: K05",
+        "virus_id": "86a1a8d0",
         "isolate_id": "gixkcxfh",
         "_id": "AB500949.1",
-        "definition": "Barley yellow mosaic virus genomic RNA, segment 2, complete sequence, strain: K05",
-        "virus_id": "86a1a8d0"
+        "host": "Hordeum vulgare"
     }
 ]

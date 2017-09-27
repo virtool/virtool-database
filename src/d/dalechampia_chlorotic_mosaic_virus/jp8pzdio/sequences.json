@@ -1,20 +1,20 @@
 [
     {
-        "host": "Dalechampia sp.",
-        "isolate_id": "jp8pzdio",
-        "_version": 0,
-        "definition": "Dalechampia chlorotic mosaic virus isolate Venezuela:Albarico",
         "_id": "NC_018718",
+        "molecule_structure": "circular",
+        "isolate_id": "jp8pzdio",
         "virus_id": "740d9302",
-        "molecule_structure": "circular"
+        "definition": "Dalechampia chlorotic mosaic virus isolate Venezuela:Albarico",
+        "_version": 0,
+        "host": "Dalechampia sp."
     },
     {
-        "host": "Dalechampia sp.",
-        "isolate_id": "jp8pzdio",
-        "_version": 0,
-        "definition": "Dalechampia chlorotic mosaic virus isolate Venezuela:Albarico",
         "_id": "NC_018716",
+        "molecule_structure": "circular",
+        "isolate_id": "jp8pzdio",
         "virus_id": "740d9302",
-        "molecule_structure": "circular"
+        "definition": "Dalechampia chlorotic mosaic virus isolate Venezuela:Albarico",
+        "_version": 0,
+        "host": "Dalechampia sp."
     }
 ]

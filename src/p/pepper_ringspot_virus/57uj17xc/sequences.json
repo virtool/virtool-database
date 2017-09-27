@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
-        "isolate_id": "57uj17xc",
-        "_version": 0,
-        "definition": "Pepper ringspot virus RNA 1, complete sequence",
         "_id": "NC_003669",
+        "molecule_structure": "linear",
+        "isolate_id": "57uj17xc",
         "virus_id": "1d7959db",
-        "molecule_structure": "linear"
+        "definition": "Pepper ringspot virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "57uj17xc",
-        "_version": 0,
-        "definition": "Pepper ringspot virus RNA 2, complete sequence",
         "_id": "NC_003670",
+        "molecule_structure": "linear",
+        "isolate_id": "57uj17xc",
         "virus_id": "1d7959db",
-        "molecule_structure": "linear"
+        "definition": "Pepper ringspot virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

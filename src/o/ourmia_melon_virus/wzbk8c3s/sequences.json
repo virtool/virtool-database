@@ -1,29 +1,29 @@
 [
     {
-        "host": "melon",
-        "isolate_id": "wzbk8c3s",
-        "_version": 0,
-        "definition": "Ourmia melon virus",
-        "_id": "NC_011070",
-        "virus_id": "b5e84fae",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "melon",
-        "isolate_id": "wzbk8c3s",
-        "_version": 0,
-        "definition": "Ourmia melon virus",
-        "_id": "NC_011069",
-        "virus_id": "b5e84fae",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "melon",
-        "isolate_id": "wzbk8c3s",
-        "_version": 0,
-        "definition": "Ourmia melon virus",
         "_id": "NC_011068",
+        "molecule_structure": "linear",
+        "isolate_id": "wzbk8c3s",
         "virus_id": "b5e84fae",
-        "molecule_structure": "linear"
+        "definition": "Ourmia melon virus",
+        "_version": 0,
+        "host": "melon"
+    },
+    {
+        "_id": "NC_011070",
+        "molecule_structure": "linear",
+        "isolate_id": "wzbk8c3s",
+        "virus_id": "b5e84fae",
+        "definition": "Ourmia melon virus",
+        "_version": 0,
+        "host": "melon"
+    },
+    {
+        "_id": "NC_011069",
+        "molecule_structure": "linear",
+        "isolate_id": "wzbk8c3s",
+        "virus_id": "b5e84fae",
+        "definition": "Ourmia melon virus",
+        "_version": 0,
+        "host": "melon"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Momordica charantia",
-        "isolate_id": "5l5xcc7r",
+        "molecule_structure": "linear",
         "definition": "Zucchini tigre mosaic virus isolate Re01-25, complete genome",
-        "_id": "NC_023175",
         "virus_id": "66f3f48f",
-        "molecule_structure": "linear"
+        "isolate_id": "5l5xcc7r",
+        "_id": "NC_023175",
+        "host": "Momordica charantia"
     }
 ]

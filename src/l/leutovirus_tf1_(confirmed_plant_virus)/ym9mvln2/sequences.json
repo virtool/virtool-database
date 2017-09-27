@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Leutovirus from Tree Fruit, complete genome, new virus",
+        "virus_id": "c513889e",
         "isolate_id": "ym9mvln2",
         "_id": "13C210_Leutovirus_TF1",
-        "definition": "Leutovirus from Tree Fruit, complete genome, new virus",
-        "virus_id": "c513889e"
+        "host": ""
     }
 ]

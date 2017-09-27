@@ -1,10 +1,10 @@
 [
     {
-        "host": "tomato",
-        "isolate_id": "hjg5b4h5",
+        "molecule_structure": "circular",
         "definition": "Tobacco curly shoot virus, complete genome",
-        "_id": "NC_003722",
         "virus_id": "ce4daa25",
-        "molecule_structure": "circular"
+        "isolate_id": "hjg5b4h5",
+        "_id": "NC_003722",
+        "host": "tomato"
     }
 ]

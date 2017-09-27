@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "zvw28st7",
+        "molecule_structure": "circular",
         "definition": "Begomovirus-associated DNA-II, complete genome",
-        "_id": "NC_006956",
         "virus_id": "5b75f871",
-        "molecule_structure": "circular"
+        "isolate_id": "zvw28st7",
+        "_id": "NC_006956",
+        "host": null
     }
 ]

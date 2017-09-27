@@ -1,9 +1,9 @@
 [
     {
-        "host": "oriental melon",
+        "definition": "Cucumber green mottle mosaic virus isolate KOM, complete genome",
+        "virus_id": "380d1439",
         "isolate_id": "cmxxykhl",
         "_id": "AF417243.1",
-        "definition": "Cucumber green mottle mosaic virus isolate KOM, complete genome",
-        "virus_id": "380d1439"
+        "host": "oriental melon"
     }
 ]

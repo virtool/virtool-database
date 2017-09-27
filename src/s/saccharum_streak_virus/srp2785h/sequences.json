@@ -1,10 +1,10 @@
 [
     {
-        "host": "Saccharum genotype N44",
-        "isolate_id": "srp2785h",
+        "molecule_structure": "circular",
         "definition": "Saccharum streak virus, complete genome",
-        "_id": "NC_013464",
         "virus_id": "6bc81904",
-        "molecule_structure": "circular"
+        "isolate_id": "srp2785h",
+        "_id": "NC_013464",
+        "host": "Saccharum genotype N44"
     }
 ]

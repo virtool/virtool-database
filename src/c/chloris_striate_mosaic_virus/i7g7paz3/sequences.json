@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "i7g7paz3",
+        "molecule_structure": "circular",
         "definition": "Chloris striate mosaic virus, complete genome",
-        "_id": "NC_001466",
         "virus_id": "00c8a29f",
-        "molecule_structure": "circular"
+        "isolate_id": "i7g7paz3",
+        "_id": "NC_001466",
+        "host": null
     }
 ]

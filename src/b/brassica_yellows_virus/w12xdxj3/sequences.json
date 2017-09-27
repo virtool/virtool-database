@@ -1,10 +1,10 @@
 [
     {
-        "host": "Brassica napus var. napobrassica",
-        "isolate_id": "w12xdxj3",
+        "molecule_structure": "linear",
         "definition": "Brassica yellows virus, complete genome",
-        "_id": "NC_016038",
         "virus_id": "3a8c6cf3",
-        "molecule_structure": "linear"
+        "isolate_id": "w12xdxj3",
+        "_id": "NC_016038",
+        "host": "Brassica napus var. napobrassica"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Rudbeckia hirta",
-        "isolate_id": "u3zghi96",
+        "molecule_structure": "circular",
         "definition": "Rudbeckia flower distortion virus, complete genome",
-        "_id": "NC_011920",
         "virus_id": "dc61ac8b",
-        "molecule_structure": "circular"
+        "isolate_id": "u3zghi96",
+        "_id": "NC_011920",
+        "host": "Rudbeckia hirta"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "p2eq55pi",
     "source_name": "Honduras",
-    "id": "p2eq55pi"
+    "default": true
 }

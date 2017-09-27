@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "r25wwk10",
+        "molecule_structure": "circular",
         "definition": "Tomato chino La Paz virus segment A, complete genome",
-        "_id": "NC_005843",
         "virus_id": "232ee0cd",
-        "molecule_structure": "circular"
+        "isolate_id": "r25wwk10",
+        "_id": "NC_005843",
+        "host": null
     }
 ]

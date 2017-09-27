@@ -1,9 +1,9 @@
 [
     {
-        "host": "Lycopersicon esculentum",
+        "definition": "Tomato leaf curl alphasatellite isolate Tom, complete genome.",
+        "virus_id": "ecd570b7",
         "isolate_id": "7hd15qmv",
         "_id": "KF584011",
-        "definition": "Tomato leaf curl alphasatellite isolate Tom, complete genome.",
-        "virus_id": "ecd570b7"
+        "host": "Lycopersicon esculentum"
     }
 ]

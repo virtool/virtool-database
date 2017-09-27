@@ -1,9 +1,9 @@
 [
     {
-        "host": "grapevine cv. Cinsaut Blanc",
+        "definition": "Grapevine virus A isolate P163-M5, complete genome.",
+        "virus_id": "42f3c713",
         "isolate_id": "qlr2ts1m",
         "_id": "DQ855082",
-        "definition": "Grapevine virus A isolate P163-M5, complete genome.",
-        "virus_id": "42f3c713"
+        "host": "grapevine cv. Cinsaut Blanc"
     }
 ]

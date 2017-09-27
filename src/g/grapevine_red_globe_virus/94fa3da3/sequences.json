@@ -1,9 +1,9 @@
 [
     {
-        "host": "vitis",
+        "definition": "Grapevine Red Globe Virus, complete genome",
+        "virus_id": "d5f7413d",
         "isolate_id": "94fa3da3",
         "_id": "16GVP005_GRGV",
-        "definition": "Grapevine Red Globe Virus, complete genome",
-        "virus_id": "d5f7413d"
+        "host": "vitis"
     }
 ]

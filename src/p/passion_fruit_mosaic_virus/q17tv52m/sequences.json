@@ -1,10 +1,10 @@
 [
     {
-        "host": "Passiflora incarnata L.",
-        "isolate_id": "q17tv52m",
+        "molecule_structure": "linear",
         "definition": "Passion fruit mosaic virus, complete genome",
-        "_id": "NC_015552",
         "virus_id": "c472ca4c",
-        "molecule_structure": "linear"
+        "isolate_id": "q17tv52m",
+        "_id": "NC_015552",
+        "host": "Passiflora incarnata L."
     }
 ]

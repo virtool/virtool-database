@@ -1,9 +1,9 @@
 [
     {
-        "host": "Vitis, 3138-6Z1P2",
+        "definition": "Grapevine Virus B, Compelete genome",
+        "virus_id": "922d97d2",
         "isolate_id": "60155081",
         "_id": "16SP029_GVB",
-        "definition": "Grapevine Virus B, Compelete genome",
-        "virus_id": "922d97d2"
+        "host": "Vitis, 3138-6Z1P2"
     }
 ]

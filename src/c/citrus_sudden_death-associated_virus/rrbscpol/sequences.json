@@ -1,9 +1,9 @@
 [
     {
-        "host": "Citrus sinensis",
+        "definition": "Citrus sudden death-associated virus strain CSRL01, complete genome",
+        "virus_id": "f852c888",
         "isolate_id": "rrbscpol",
         "_id": "KY110735.1",
-        "definition": "Citrus sudden death-associated virus strain CSRL01, complete genome",
-        "virus_id": "f852c888"
+        "host": "Citrus sinensis"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "r90zh3g4",
     "source_name": "VRU",
-    "id": "r90zh3g4"
+    "default": false
 }

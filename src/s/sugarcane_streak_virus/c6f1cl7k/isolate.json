@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "c6f1cl7k",
     "source_name": "Natal",
-    "id": "c6f1cl7k"
+    "default": true
 }

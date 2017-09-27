@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "pp1s5j5q",
     "source_name": "CTLV-XHC",
-    "id": "pp1s5j5q"
+    "default": true
 }

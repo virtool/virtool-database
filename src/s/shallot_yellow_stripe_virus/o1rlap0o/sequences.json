@@ -1,10 +1,10 @@
 [
     {
-        "host": "Allium fistulosum",
-        "isolate_id": "o1rlap0o",
+        "molecule_structure": "linear",
         "definition": "Shallot yellow stripe virus, complete genome",
-        "_id": "NC_007433",
         "virus_id": "90616a30",
-        "molecule_structure": "linear"
+        "isolate_id": "o1rlap0o",
+        "_id": "NC_007433",
+        "host": "Allium fistulosum"
     }
 ]

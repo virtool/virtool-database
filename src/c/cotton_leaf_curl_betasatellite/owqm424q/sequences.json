@@ -1,10 +1,10 @@
 [
     {
-        "host": "cotton (Gossypium hirsutum)",
-        "isolate_id": "owqm424q",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl virus-associated DNA beta, complete genome",
-        "_id": "NC_003200",
         "virus_id": "faac943f",
-        "molecule_structure": "circular"
+        "isolate_id": "owqm424q",
+        "_id": "NC_003200",
+        "host": "cotton (Gossypium hirsutum)"
     }
 ]

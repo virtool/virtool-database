@@ -1,10 +1,10 @@
 [
     {
-        "host": "Nicotiana clevelandii",
-        "isolate_id": "n7denv80",
+        "molecule_structure": "circular",
         "definition": "Velvet tobacco mottle virus Satellite RNA, complete genome",
-        "_id": "NC_003906",
         "virus_id": "84cfeb35",
-        "molecule_structure": "circular"
+        "isolate_id": "n7denv80",
+        "_id": "NC_003906",
+        "host": "Nicotiana clevelandii"
     }
 ]

@@ -1,92 +1,92 @@
 [
     {
-        "host": null,
-        "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 8, complete genome",
-        "_id": "NC_007161",
-        "virus_id": "256a0696",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 6, complete genome",
-        "_id": "NC_007157",
-        "virus_id": "256a0696",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 5, complete genome",
-        "_id": "NC_007160",
-        "virus_id": "256a0696",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 3, complete genome",
-        "_id": "NC_007158",
-        "virus_id": "256a0696",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 10, complete genome",
-        "_id": "NC_007162",
-        "virus_id": "256a0696",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "Saccharum spp. L. (interspecific hybrid)",
-        "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 7, complete sequence",
         "_id": "NC_007163",
+        "molecule_structure": "linear",
+        "isolate_id": "9m1a6m2y",
         "virus_id": "256a0696",
-        "molecule_structure": "linear"
+        "definition": "Fiji disease virus segment 7, complete sequence",
+        "_version": 0,
+        "host": "Saccharum spp. L. (interspecific hybrid)"
     },
     {
-        "host": null,
+        "_id": "NC_007162",
+        "molecule_structure": "linear",
         "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 9, complete sequence",
-        "_id": "NC_007156",
         "virus_id": "256a0696",
-        "molecule_structure": "linear"
+        "definition": "Fiji disease virus segment 10, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_007161",
+        "molecule_structure": "linear",
         "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus chromosome segment 4, complete genome",
-        "_id": "NC_007155",
         "virus_id": "256a0696",
-        "molecule_structure": "linear"
+        "definition": "Fiji disease virus segment 8, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_007160",
+        "molecule_structure": "linear",
         "isolate_id": "9m1a6m2y",
-        "_version": 0,
-        "definition": "Fiji disease virus segment 2, complete genome",
-        "_id": "NC_007154",
         "virus_id": "256a0696",
-        "molecule_structure": "linear"
+        "definition": "Fiji disease virus segment 5, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_007158",
+        "molecule_structure": "linear",
         "isolate_id": "9m1a6m2y",
+        "virus_id": "256a0696",
+        "definition": "Fiji disease virus segment 3, complete genome",
         "_version": 0,
-        "definition": "Fiji disease virus segment 1, complete genome",
+        "host": null
+    },
+    {
         "_id": "NC_007159",
+        "molecule_structure": "linear",
+        "isolate_id": "9m1a6m2y",
         "virus_id": "256a0696",
-        "molecule_structure": "linear"
+        "definition": "Fiji disease virus segment 1, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_007157",
+        "molecule_structure": "linear",
+        "isolate_id": "9m1a6m2y",
+        "virus_id": "256a0696",
+        "definition": "Fiji disease virus segment 6, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_007156",
+        "molecule_structure": "linear",
+        "isolate_id": "9m1a6m2y",
+        "virus_id": "256a0696",
+        "definition": "Fiji disease virus segment 9, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_007155",
+        "molecule_structure": "linear",
+        "isolate_id": "9m1a6m2y",
+        "virus_id": "256a0696",
+        "definition": "Fiji disease virus chromosome segment 4, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_007154",
+        "molecule_structure": "linear",
+        "isolate_id": "9m1a6m2y",
+        "virus_id": "256a0696",
+        "definition": "Fiji disease virus segment 2, complete genome",
+        "_version": 0,
+        "host": null
     }
 ]

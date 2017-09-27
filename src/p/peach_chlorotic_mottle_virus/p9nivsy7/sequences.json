@@ -1,10 +1,10 @@
 [
     {
-        "host": "Prunus persica cv. Agua",
-        "isolate_id": "p9nivsy7",
+        "molecule_structure": "linear",
         "definition": "Peach chlorotic mottle virus, complete genome",
-        "_id": "NC_009892",
         "virus_id": "1e82b825",
-        "molecule_structure": "linear"
+        "isolate_id": "p9nivsy7",
+        "_id": "NC_009892",
+        "host": "Prunus persica cv. Agua"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "host": "plum",
+        "definition": "Hop stunt viroid isolate DP2 dapple, complete genome.",
+        "virus_id": "be143fe9",
         "isolate_id": "guj9svby",
         "_id": "JQ706343",
-        "definition": "Hop stunt viroid isolate DP2 dapple, complete genome.",
-        "virus_id": "be143fe9"
+        "host": "plum"
     }
 ]

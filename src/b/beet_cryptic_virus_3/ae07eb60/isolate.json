@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "ae07eb60",
     "source_name": "partitivirus",
-    "id": "ae07eb60"
+    "default": true
 }

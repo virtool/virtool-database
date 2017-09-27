@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "i7vbrugx",
+        "molecule_structure": "circular",
         "definition": "Bougainvillea spectabilis chlorotic vein-banding virus, complete",
-        "_id": "NC_011592",
         "virus_id": "6b6e693d",
-        "molecule_structure": "circular"
+        "isolate_id": "i7vbrugx",
+        "_id": "NC_011592",
+        "host": null
     }
 ]

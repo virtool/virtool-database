@@ -1,10 +1,10 @@
 [
     {
-        "host": "Brassica napus",
-        "isolate_id": "fkhktiz0",
+        "molecule_structure": "linear",
         "definition": "Youcai mosaic virus, complete genome",
-        "_id": "NC_004422",
         "virus_id": "07950c3a",
-        "molecule_structure": "linear"
+        "isolate_id": "fkhktiz0",
+        "_id": "NC_004422",
+        "host": "Brassica napus"
     }
 ]

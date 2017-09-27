@@ -1,10 +1,10 @@
 [
     {
-        "host": "Anredera cordifolia (Madeira vine)",
-        "isolate_id": "ypnz7adc",
+        "molecule_structure": "linear",
         "definition": "Basella rugose mosaic virus, complete genome",
-        "_id": "NC_009741",
         "virus_id": "357d3130",
-        "molecule_structure": "linear"
+        "isolate_id": "ypnz7adc",
+        "_id": "NC_009741",
+        "host": "Anredera cordifolia (Madeira vine)"
     }
 ]

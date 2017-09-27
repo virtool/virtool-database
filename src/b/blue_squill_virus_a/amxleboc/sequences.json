@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "amxleboc",
+        "molecule_structure": "linear",
         "definition": "Blue squill virus A, complete genome",
-        "_id": "NC_019415",
         "virus_id": "f24f262d",
-        "molecule_structure": "linear"
+        "isolate_id": "amxleboc",
+        "_id": "NC_019415",
+        "host": null
     }
 ]

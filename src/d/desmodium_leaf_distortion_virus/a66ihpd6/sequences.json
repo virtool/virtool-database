@@ -1,20 +1,20 @@
 [
     {
-        "host": "Desmodium glabrum",
-        "isolate_id": "a66ihpd6",
-        "_version": 0,
-        "definition": "Desmodium leaf distortion virus DNA B, complete sequence",
         "_id": "NC_008495",
+        "molecule_structure": "linear",
+        "isolate_id": "a66ihpd6",
         "virus_id": "5868b3f9",
-        "molecule_structure": "linear"
+        "definition": "Desmodium leaf distortion virus DNA B, complete sequence",
+        "_version": 0,
+        "host": "Desmodium glabrum"
     },
     {
-        "host": "Desmodium glabrum",
-        "isolate_id": "a66ihpd6",
-        "_version": 0,
-        "definition": "Desmodium leaf distortion virus DNA A, complete sequence",
         "_id": "NC_008494",
+        "molecule_structure": "linear",
+        "isolate_id": "a66ihpd6",
         "virus_id": "5868b3f9",
-        "molecule_structure": "linear"
+        "definition": "Desmodium leaf distortion virus DNA A, complete sequence",
+        "_version": 0,
+        "host": "Desmodium glabrum"
     }
 ]

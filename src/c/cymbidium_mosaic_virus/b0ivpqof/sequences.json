@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "b0ivpqof",
+        "molecule_structure": "linear",
         "definition": "Cymbidium mosaic virus, complete genome",
-        "_id": "NC_001812",
         "virus_id": "bc0f0e8e",
-        "molecule_structure": "linear"
+        "isolate_id": "b0ivpqof",
+        "_id": "NC_001812",
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "2iolim6r",
+        "molecule_structure": "linear",
         "definition": "Tobacco necrosis satellite virus, complete genome",
-        "_id": "NC_001557",
         "virus_id": "0cb23abb",
-        "molecule_structure": "linear"
+        "isolate_id": "2iolim6r",
+        "_id": "NC_001557",
+        "host": null
     }
 ]

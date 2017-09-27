@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "18x9vpux",
     "source_name": "WSG",
-    "id": "18x9vpux"
+    "default": true
 }

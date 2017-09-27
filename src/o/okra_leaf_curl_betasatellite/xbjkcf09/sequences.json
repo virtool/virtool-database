@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "xbjkcf09",
+        "molecule_structure": "circular",
         "definition": "OkLCV satDNA 10, complete genome",
-        "_id": "NC_004093",
         "virus_id": "cf985fb9",
-        "molecule_structure": "circular"
+        "isolate_id": "xbjkcf09",
+        "_id": "NC_004093",
+        "host": null
     }
 ]

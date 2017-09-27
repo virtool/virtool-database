@@ -1,10 +1,10 @@
 [
     {
-        "host": "tomato",
-        "isolate_id": "inau1gx6",
+        "molecule_structure": "linear",
         "definition": "Southern tomato virus, complete genome",
-        "_id": "NC_011591",
         "virus_id": "2573ad60",
-        "molecule_structure": "linear"
+        "isolate_id": "inau1gx6",
+        "_id": "NC_011591",
+        "host": "tomato"
     }
 ]

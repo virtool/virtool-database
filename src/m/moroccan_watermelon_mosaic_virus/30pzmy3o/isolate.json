@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "30pzmy3o",
     "source_name": "MWMV-Tn",
-    "id": "30pzmy3o"
+    "default": true
 }

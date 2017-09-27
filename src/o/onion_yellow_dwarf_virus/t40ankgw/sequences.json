@@ -1,10 +1,10 @@
 [
     {
-        "host": "Allium sativum",
-        "isolate_id": "t40ankgw",
+        "molecule_structure": "linear",
         "definition": "Onion yellow dwarf virus, complete genome",
-        "_id": "NC_005029",
         "virus_id": "9f86bbbc",
-        "molecule_structure": "linear"
+        "isolate_id": "t40ankgw",
+        "_id": "NC_005029",
+        "host": "Allium sativum"
     }
 ]

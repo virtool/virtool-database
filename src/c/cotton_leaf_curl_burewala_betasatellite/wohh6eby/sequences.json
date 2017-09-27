@@ -1,10 +1,10 @@
 [
     {
-        "host": "Gossypium hirsutum",
-        "isolate_id": "wohh6eby",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl Burewala betasatellite, complete genome",
-        "_id": "NC_013802",
         "virus_id": "0a817d24",
-        "molecule_structure": "circular"
+        "isolate_id": "wohh6eby",
+        "_id": "NC_013802",
+        "host": "Gossypium hirsutum"
     }
 ]

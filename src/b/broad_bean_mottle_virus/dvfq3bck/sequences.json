@@ -1,29 +1,29 @@
 [
     {
-        "host": null,
-        "isolate_id": "dvfq3bck",
-        "_version": 0,
-        "definition": "Broad bean mottle virus RNA 3, complete sequence",
-        "_id": "NC_004006",
-        "virus_id": "b26c1c49",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "dvfq3bck",
-        "_version": 0,
-        "definition": "Broad bean mottle virus RNA 1, complete sequence",
         "_id": "NC_004008",
+        "molecule_structure": "linear",
+        "isolate_id": "dvfq3bck",
         "virus_id": "b26c1c49",
-        "molecule_structure": "linear"
+        "definition": "Broad bean mottle virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "dvfq3bck",
-        "_version": 0,
-        "definition": "Broad bean mottle virus RNA 2, complete sequence",
         "_id": "NC_004007",
+        "molecule_structure": "linear",
+        "isolate_id": "dvfq3bck",
         "virus_id": "b26c1c49",
-        "molecule_structure": "linear"
+        "definition": "Broad bean mottle virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_004006",
+        "molecule_structure": "linear",
+        "isolate_id": "dvfq3bck",
+        "virus_id": "b26c1c49",
+        "definition": "Broad bean mottle virus RNA 3, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

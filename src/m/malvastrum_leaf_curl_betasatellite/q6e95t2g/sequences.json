@@ -1,10 +1,10 @@
 [
     {
-        "host": "Malvastrum coromandelianum",
-        "isolate_id": "q6e95t2g",
+        "molecule_structure": "circular",
         "definition": "Malvastrum leaf curl betasatellite, complete genome",
-        "_id": "NC_007711",
         "virus_id": "b8797558",
-        "molecule_structure": "circular"
+        "isolate_id": "q6e95t2g",
+        "_id": "NC_007711",
+        "host": "Malvastrum coromandelianum"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Plantago major",
-        "isolate_id": "zh3d7ecf",
+        "molecule_structure": "linear",
         "definition": "Ribgrass mosaic virus, complete genome",
-        "_id": "NC_002792",
         "virus_id": "0073d90b",
-        "molecule_structure": "linear"
+        "isolate_id": "zh3d7ecf",
+        "_id": "NC_002792",
+        "host": "Plantago major"
     }
 ]

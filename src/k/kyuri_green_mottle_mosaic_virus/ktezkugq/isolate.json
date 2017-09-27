@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "ktezkugq",
     "source_name": "KGMMV-C1",
-    "id": "ktezkugq"
+    "default": true
 }

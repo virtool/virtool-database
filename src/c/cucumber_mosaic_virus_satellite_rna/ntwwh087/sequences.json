@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ntwwh087",
+        "molecule_structure": "linear",
         "definition": "Cucumber mosaic virus satellite RNA, complete genome",
-        "_id": "NC_002602",
         "virus_id": "3f179428",
-        "molecule_structure": "linear"
+        "isolate_id": "ntwwh087",
+        "_id": "NC_002602",
+        "host": null
     }
 ]

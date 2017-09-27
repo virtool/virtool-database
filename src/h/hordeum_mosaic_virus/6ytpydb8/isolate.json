@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "6ytpydb8",
     "source_name": "ATCC PV81",
-    "id": "6ytpydb8"
+    "default": true
 }

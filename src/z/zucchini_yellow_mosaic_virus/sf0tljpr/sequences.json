@@ -1,10 +1,10 @@
 [
     {
-        "host": "Luffa cylindrica Roem.",
-        "isolate_id": "sf0tljpr",
+        "molecule_structure": "linear",
         "definition": "Zucchini yellow mosaic virus, complete genome",
-        "_id": "NC_003224",
         "virus_id": "2bd63273",
-        "molecule_structure": "linear"
+        "isolate_id": "sf0tljpr",
+        "_id": "NC_003224",
+        "host": "Luffa cylindrica Roem."
     }
 ]

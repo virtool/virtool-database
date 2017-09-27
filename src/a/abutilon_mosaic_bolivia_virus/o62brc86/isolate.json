@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "o62brc86",
     "source_name": "AbMBoV",
-    "id": "o62brc86"
+    "default": true
 }

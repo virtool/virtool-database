@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "k5w6thvr",
+        "molecule_structure": "linear",
         "definition": "Cucumber fruit mottle mosaic virus, complete genome",
-        "_id": "NC_002633",
         "virus_id": "8c350e82",
-        "molecule_structure": "linear"
+        "isolate_id": "k5w6thvr",
+        "_id": "NC_002633",
+        "host": null
     }
 ]

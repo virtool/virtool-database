@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "isolate",
+    "id": "rmxcods1",
     "source_name": "GM6",
-    "id": "rmxcods1"
+    "default": false
 }

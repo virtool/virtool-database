@@ -1,10 +1,10 @@
 [
     {
-        "host": "Grapevine",
-        "isolate_id": "7nywg892",
+        "molecule_structure": "linear",
         "definition": "Grapevine virus B, complete genome",
-        "_id": "NC_003602",
         "virus_id": "922d97d2",
-        "molecule_structure": "linear"
+        "isolate_id": "7nywg892",
+        "_id": "NC_003602",
+        "host": "Grapevine"
     }
 ]

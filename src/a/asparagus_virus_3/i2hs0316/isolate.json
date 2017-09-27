@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "i2hs0316",
     "source_name": "J",
-    "id": "i2hs0316"
+    "default": true
 }

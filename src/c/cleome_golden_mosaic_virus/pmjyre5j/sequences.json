@@ -1,10 +1,10 @@
 [
     {
-        "host": "Cleome",
-        "isolate_id": "pmjyre5j",
+        "molecule_structure": "circular",
         "definition": "Cleome golden mosaic virus DNA-A, complete genome",
-        "_id": "NC_015397",
         "virus_id": "42875e89",
-        "molecule_structure": "circular"
+        "isolate_id": "pmjyre5j",
+        "_id": "NC_015397",
+        "host": "Cleome"
     }
 ]

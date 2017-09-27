@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "7p0zs8wi",
     "source_name": "SCRI-CV1",
-    "id": "7p0zs8wi"
+    "default": true
 }

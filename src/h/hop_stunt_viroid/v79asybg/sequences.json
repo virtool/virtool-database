@@ -1,9 +1,9 @@
 [
     {
-        "host": "Citrus sinensis cv. Navel",
+        "definition": "Citrus gummy bark viroid strain cachexia, complete genome.",
+        "virus_id": "be143fe9",
         "isolate_id": "v79asybg",
         "_id": "FJ984562",
-        "definition": "Citrus gummy bark viroid strain cachexia, complete genome.",
-        "virus_id": "be143fe9"
+        "host": "Citrus sinensis cv. Navel"
     }
 ]

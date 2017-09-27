@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "3oefs1ln",
+        "molecule_structure": "circular",
         "definition": "Citrus yellow mosaic virus, complete genome",
-        "_id": "NC_003382",
         "virus_id": "81ffea53",
-        "molecule_structure": "circular"
+        "isolate_id": "3oefs1ln",
+        "_id": "NC_003382",
+        "host": null
     }
 ]

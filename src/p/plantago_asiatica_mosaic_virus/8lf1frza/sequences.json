@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "8lf1frza",
+        "molecule_structure": "linear",
         "definition": "Plantago asiatica mosaic virus, complete genome",
-        "_id": "NC_003849",
         "virus_id": "dba3a8de",
-        "molecule_structure": "linear"
+        "isolate_id": "8lf1frza",
+        "_id": "NC_003849",
+        "host": null
     }
 ]

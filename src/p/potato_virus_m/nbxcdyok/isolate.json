@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "nbxcdyok",
     "source_name": "Russian wild",
-    "id": "nbxcdyok"
+    "default": true
 }

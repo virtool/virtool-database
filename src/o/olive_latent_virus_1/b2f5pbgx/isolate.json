@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "b2f5pbgx",
     "source_name": "citrus",
-    "id": "b2f5pbgx"
+    "default": true
 }

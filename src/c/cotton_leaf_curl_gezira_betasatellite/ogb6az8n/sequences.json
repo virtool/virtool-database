@@ -1,10 +1,10 @@
 [
     {
-        "host": "cotton",
-        "isolate_id": "ogb6az8n",
+        "molecule_structure": "circular",
         "definition": "Cotton leaf curl Gezira betasatellite extrachromosomal, complete",
-        "_id": "NC_006935",
         "virus_id": "fea4635c",
-        "molecule_structure": "circular"
+        "isolate_id": "ogb6az8n",
+        "_id": "NC_006935",
+        "host": "cotton"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "host": "Malus",
+        "definition": "Apple stem pitting virus, complete genome",
+        "virus_id": "e74f3ad3",
         "isolate_id": "9ac69b3e",
         "_id": "16SP028_ASPV",
-        "definition": "Apple stem pitting virus, complete genome",
-        "virus_id": "e74f3ad3"
+        "host": "Malus"
     }
 ]

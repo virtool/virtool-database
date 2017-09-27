@@ -1,9 +1,9 @@
 [
     {
-        "host": "Malus domestica",
+        "definition": "Apple dimple fruit viroid isolate SDQD-2, complete genome",
+        "virus_id": "39d3f3e7",
         "isolate_id": "vvojzxtw",
         "_id": "KC237730.1",
-        "definition": "Apple dimple fruit viroid isolate SDQD-2, complete genome",
-        "virus_id": "39d3f3e7"
+        "host": "Malus domestica"
     }
 ]

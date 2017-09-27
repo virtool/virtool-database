@@ -1,10 +1,10 @@
 [
     {
-        "host": "wheat",
-        "isolate_id": "q5cbdg80",
+        "molecule_structure": "circular",
         "definition": "Guar leaf curl alphasatellite clone B81_A03, complete sequence",
-        "_id": "NC_020502",
         "virus_id": "68246810",
-        "molecule_structure": "circular"
+        "isolate_id": "q5cbdg80",
+        "_id": "NC_020502",
+        "host": "wheat"
     }
 ]

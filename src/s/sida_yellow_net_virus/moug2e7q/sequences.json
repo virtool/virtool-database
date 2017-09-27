@@ -1,10 +1,10 @@
 [
     {
-        "host": "Sida micrantha",
-        "isolate_id": "moug2e7q",
+        "molecule_structure": "circular",
         "definition": "Sida yellow net virus isolate BR:Vic2:10 segment DNA-A, complete",
-        "_id": "NC_020253",
         "virus_id": "74af2598",
-        "molecule_structure": "circular"
+        "isolate_id": "moug2e7q",
+        "_id": "NC_020253",
+        "host": "Sida micrantha"
     }
 ]

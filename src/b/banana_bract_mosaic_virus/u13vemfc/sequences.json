@@ -1,10 +1,10 @@
 [
     {
-        "host": "banana",
-        "isolate_id": "u13vemfc",
+        "molecule_structure": "linear",
         "definition": "Banana bract mosaic virus, complete genome",
-        "_id": "NC_009745",
         "virus_id": "a6a9958c",
-        "molecule_structure": "linear"
+        "isolate_id": "u13vemfc",
+        "_id": "NC_009745",
+        "host": "banana"
     }
 ]

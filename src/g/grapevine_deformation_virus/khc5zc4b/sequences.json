@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
-        "isolate_id": "khc5zc4b",
-        "_version": 0,
-        "definition": "Grapevine deformation virus RNA2, complete genome",
         "_id": "NC_017938",
+        "molecule_structure": "linear",
+        "isolate_id": "khc5zc4b",
         "virus_id": "fc4a329d",
-        "molecule_structure": "linear"
+        "definition": "Grapevine deformation virus RNA2, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": "Vitis vinifera, cultivar Dimrit",
-        "isolate_id": "khc5zc4b",
-        "_version": 0,
-        "definition": "Grapevine deformation virus RNA1, complete genome",
         "_id": "NC_017939",
+        "molecule_structure": "linear",
+        "isolate_id": "khc5zc4b",
         "virus_id": "fc4a329d",
-        "molecule_structure": "linear"
+        "definition": "Grapevine deformation virus RNA1, complete genome",
+        "_version": 0,
+        "host": "Vitis vinifera, cultivar Dimrit"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "u98a0kk3",
+        "molecule_structure": "circular",
         "definition": "Honeysuckle yellow vein mosaic virus-[Kagoshima], complete genome",
-        "_id": "NC_008793",
         "virus_id": "db1d0c58",
-        "molecule_structure": "circular"
+        "isolate_id": "u98a0kk3",
+        "_id": "NC_008793",
+        "host": null
     }
 ]

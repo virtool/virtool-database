@@ -1,10 +1,10 @@
 [
     {
-        "host": "Brassica rapa",
-        "isolate_id": "mmzxmlzq",
+        "molecule_structure": "circular",
         "definition": "Turnip curly top virus, complete genome",
-        "_id": "NC_014324",
         "virus_id": "95b5c529",
-        "molecule_structure": "circular"
+        "isolate_id": "mmzxmlzq",
+        "_id": "NC_014324",
+        "host": "Brassica rapa"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "tobacco",
-        "isolate_id": "ivker27x",
+        "molecule_structure": "linear",
         "definition": "Tobacco vein distorting virus, complete genome",
-        "_id": "NC_010732",
         "virus_id": "fcff42e8",
-        "molecule_structure": "linear"
+        "isolate_id": "ivker27x",
+        "_id": "NC_010732",
+        "host": "tobacco"
     }
 ]

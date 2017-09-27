@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "c1ve6bgt",
     "source_name": "Uganda2 Severe",
-    "id": "c1ve6bgt"
+    "default": true
 }

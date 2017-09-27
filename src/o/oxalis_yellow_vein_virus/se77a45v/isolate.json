@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "se77a45v",
     "source_name": "USA",
-    "id": "se77a45v"
+    "default": true
 }

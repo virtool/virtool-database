@@ -1,9 +1,9 @@
 [
     {
-        "host": "melon",
+        "definition": "Cucurbit aphid-borne yellows virus isolate SW1, complete genome",
+        "virus_id": "889c8624",
         "isolate_id": "zlyvzxgh",
         "_id": "KR231959.1",
-        "definition": "Cucurbit aphid-borne yellows virus isolate SW1, complete genome",
-        "virus_id": "889c8624"
+        "host": "melon"
     }
 ]

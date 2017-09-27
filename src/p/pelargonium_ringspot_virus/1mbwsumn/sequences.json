@@ -1,9 +1,9 @@
 [
     {
-        "host": "Pelargonium sp.",
+        "definition": "Pelargonium ringspot virus isolate DSMZ-PV0304, complete genome.",
+        "virus_id": "350d39d0",
         "isolate_id": "1mbwsumn",
         "_id": "NC_026240",
-        "definition": "Pelargonium ringspot virus isolate DSMZ-PV0304, complete genome.",
-        "virus_id": "350d39d0"
+        "host": "Pelargonium sp."
     }
 ]

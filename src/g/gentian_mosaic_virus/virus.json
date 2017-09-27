@@ -1,6 +1,6 @@
 {
-    "name": "Gentian mosaic virus",
     "_id": "369f318f",
-    "lower_name": "gentian mosaic virus",
-    "abbreviation": "GeMV"
+    "abbreviation": "GeMV",
+    "name": "Gentian mosaic virus",
+    "lower_name": "gentian mosaic virus"
 }

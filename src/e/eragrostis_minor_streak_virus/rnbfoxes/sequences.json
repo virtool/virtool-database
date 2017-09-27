@@ -1,10 +1,10 @@
 [
     {
-        "host": "Eragrostis minor",
-        "isolate_id": "rnbfoxes",
+        "molecule_structure": "circular",
         "definition": "Eragrostis minor streak virus, complete genome",
-        "_id": "NC_015553",
         "virus_id": "46e8a91d",
-        "molecule_structure": "circular"
+        "isolate_id": "rnbfoxes",
+        "_id": "NC_015553",
+        "host": "Eragrostis minor"
     }
 ]

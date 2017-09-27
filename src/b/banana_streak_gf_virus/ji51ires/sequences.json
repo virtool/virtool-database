@@ -1,10 +1,10 @@
 [
     {
-        "host": "plantain",
-        "isolate_id": "ji51ires",
+        "molecule_structure": "circular",
         "definition": "Banana streak GF virus, complete genome",
-        "_id": "NC_007002",
         "virus_id": "c2b19766",
-        "molecule_structure": "circular"
+        "isolate_id": "ji51ires",
+        "_id": "NC_007002",
+        "host": "plantain"
     }
 ]

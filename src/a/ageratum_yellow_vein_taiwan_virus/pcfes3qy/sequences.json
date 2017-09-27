@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ageratum conyzoides",
-        "isolate_id": "pcfes3qy",
+        "molecule_structure": "circular",
         "definition": "Ageratum yellow vein Taiwan virus, complete genome",
-        "_id": "NC_004627",
         "virus_id": "7b47e5cb",
-        "molecule_structure": "circular"
+        "isolate_id": "pcfes3qy",
+        "_id": "NC_004627",
+        "host": "Ageratum conyzoides"
     }
 ]

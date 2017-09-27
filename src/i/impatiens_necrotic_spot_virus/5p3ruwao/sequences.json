@@ -1,29 +1,29 @@
 [
     {
-        "host": null,
-        "isolate_id": "5p3ruwao",
-        "_version": 0,
-        "definition": "Impatiens necrotic spot virus segment L, complete sequence",
-        "_id": "NC_003625",
-        "virus_id": "2031cb7f",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "5p3ruwao",
-        "_version": 0,
-        "definition": "Impatiens necrotic spot virus segment M, complete sequence",
         "_id": "NC_003616",
+        "molecule_structure": "linear",
+        "isolate_id": "5p3ruwao",
         "virus_id": "2031cb7f",
-        "molecule_structure": "linear"
+        "definition": "Impatiens necrotic spot virus segment M, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "5p3ruwao",
-        "_version": 0,
-        "definition": "Impatiens necrotic spot virus segment S, complete sequence",
         "_id": "NC_003624",
+        "molecule_structure": "linear",
+        "isolate_id": "5p3ruwao",
         "virus_id": "2031cb7f",
-        "molecule_structure": "linear"
+        "definition": "Impatiens necrotic spot virus segment S, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003625",
+        "molecule_structure": "linear",
+        "isolate_id": "5p3ruwao",
+        "virus_id": "2031cb7f",
+        "definition": "Impatiens necrotic spot virus segment L, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

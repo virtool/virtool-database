@@ -1,20 +1,20 @@
 [
     {
-        "host": "Malvastrum coromandelianum",
-        "isolate_id": "kfsp18fm",
-        "_version": 0,
-        "definition": "Sida golden mosaic Florida virus-Malvastrum DNA-B, complete genome",
         "_id": "NC_014447",
+        "molecule_structure": "circular",
+        "isolate_id": "kfsp18fm",
         "virus_id": "e0f2de1a",
-        "molecule_structure": "circular"
+        "definition": "Sida golden mosaic Florida virus-Malvastrum DNA-B, complete genome",
+        "_version": 0,
+        "host": "Malvastrum coromandelianum"
     },
     {
-        "host": "Malvastrum coromandelianum",
-        "isolate_id": "kfsp18fm",
-        "_version": 0,
-        "definition": "Sida golden mosaic Florida virus-Malvastrum DNA-A, complete genome",
         "_id": "NC_014446",
+        "molecule_structure": "circular",
+        "isolate_id": "kfsp18fm",
         "virus_id": "e0f2de1a",
-        "molecule_structure": "circular"
+        "definition": "Sida golden mosaic Florida virus-Malvastrum DNA-A, complete genome",
+        "_version": 0,
+        "host": "Malvastrum coromandelianum"
     }
 ]

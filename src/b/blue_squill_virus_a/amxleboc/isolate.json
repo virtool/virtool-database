@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "amxleboc",
     "source_name": "SW3",
-    "id": "amxleboc"
+    "default": true
 }

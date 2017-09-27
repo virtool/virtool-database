@@ -1,10 +1,10 @@
 [
     {
-        "host": "Macroptilium lathyroides",
-        "isolate_id": "1k3sxsiq",
+        "molecule_structure": "circular",
         "definition": "Macroptilium yellow spot virus DNA-A, complete genome",
-        "_id": "NC_016999",
         "virus_id": "318ff0fb",
-        "molecule_structure": "circular"
+        "isolate_id": "1k3sxsiq",
+        "_id": "NC_016999",
+        "host": "Macroptilium lathyroides"
     }
 ]

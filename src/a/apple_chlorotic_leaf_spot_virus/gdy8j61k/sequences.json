@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Apple chlorotic leaf spot virus isolate Ta Tao 5, complete genome.",
+        "virus_id": "54a508b1",
         "isolate_id": "gdy8j61k",
         "_id": "EU223295",
-        "definition": "Apple chlorotic leaf spot virus isolate Ta Tao 5, complete genome.",
-        "virus_id": "54a508b1"
+        "host": ""
     }
 ]

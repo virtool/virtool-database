@@ -1,10 +1,10 @@
 [
     {
-        "host": "Apium graveolens",
-        "isolate_id": "a7o4xsgc",
+        "molecule_structure": "linear",
         "definition": "Apium virus Y, complete genome",
-        "_id": "NC_014905",
         "virus_id": "9a95dee2",
-        "molecule_structure": "linear"
+        "isolate_id": "a7o4xsgc",
+        "_id": "NC_014905",
+        "host": "Apium graveolens"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "sd4yonlj",
+        "molecule_structure": "linear",
         "definition": "Watermelon mosaic virus, complete genome",
-        "_id": "NC_006262",
         "virus_id": "2e0d26b3",
-        "molecule_structure": "linear"
+        "isolate_id": "sd4yonlj",
+        "_id": "NC_006262",
+        "host": null
     }
 ]

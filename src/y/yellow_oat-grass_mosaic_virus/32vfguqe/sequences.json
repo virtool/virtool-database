@@ -1,10 +1,10 @@
 [
     {
-        "host": "Trisetum flavescens L. (Yellow oatgrass)",
-        "isolate_id": "32vfguqe",
+        "molecule_structure": "linear",
         "definition": "Yellow oat-grass mosaic virus isolate YOgMV-Sb, complete genome",
-        "_id": "NC_024471",
         "virus_id": "0a30167b",
-        "molecule_structure": "linear"
+        "isolate_id": "32vfguqe",
+        "_id": "NC_024471",
+        "host": "Trisetum flavescens L. (Yellow oatgrass)"
     }
 ]

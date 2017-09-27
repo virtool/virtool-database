@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "vrdhqk3x",
+        "molecule_structure": "circular",
         "definition": "Faba bean necrotic yellows C11 alphasatellite C1-Eg gene",
-        "_id": "NC_003558",
         "virus_id": "ce49b52c",
-        "molecule_structure": "circular"
+        "isolate_id": "vrdhqk3x",
+        "_id": "NC_003558",
+        "host": null
     }
 ]

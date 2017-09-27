@@ -1,10 +1,10 @@
 [
     {
-        "host": "Vaccinium corymbosum (highbush blueberry)",
-        "isolate_id": "csy9ruf3",
+        "molecule_structure": "linear",
         "definition": "Blueberry virus A genomic RNA, complete genome",
-        "_id": "NC_018519",
         "virus_id": "60147c1e",
-        "molecule_structure": "linear"
+        "isolate_id": "csy9ruf3",
+        "_id": "NC_018519",
+        "host": "Vaccinium corymbosum (highbush blueberry)"
     }
 ]

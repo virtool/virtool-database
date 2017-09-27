@@ -1,23 +1,23 @@
 [
     {
-        "host": "mulberry",
-        "isolate_id": "kizzdess",
-        "_id": "NC_026619",
-        "definition": "Mulberry vein banding virus isolate XCSY-3 segment S, complete sequence.",
-        "virus_id": "24da9485"
-    },
-    {
-        "host": "mulberry",
-        "isolate_id": "kizzdess",
-        "_id": "NC_026618",
-        "definition": "Mulberry vein banding virus isolate XCSY-3 segment M, complete sequence.",
-        "virus_id": "24da9485"
-    },
-    {
-        "host": "mulberry",
+        "definition": "Mulberry vein banding virus isolate XCSY-3 segment L, complete sequence.",
+        "virus_id": "24da9485",
         "isolate_id": "kizzdess",
         "_id": "NC_026617",
-        "definition": "Mulberry vein banding virus isolate XCSY-3 segment L, complete sequence.",
-        "virus_id": "24da9485"
+        "host": "mulberry"
+    },
+    {
+        "definition": "Mulberry vein banding virus isolate XCSY-3 segment M, complete sequence.",
+        "virus_id": "24da9485",
+        "isolate_id": "kizzdess",
+        "_id": "NC_026618",
+        "host": "mulberry"
+    },
+    {
+        "definition": "Mulberry vein banding virus isolate XCSY-3 segment S, complete sequence.",
+        "virus_id": "24da9485",
+        "isolate_id": "kizzdess",
+        "_id": "NC_026619",
+        "host": "mulberry"
     }
 ]

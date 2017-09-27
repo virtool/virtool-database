@@ -1,20 +1,20 @@
 [
     {
-        "host": "grapevine",
-        "isolate_id": "34kw72fr",
-        "_version": 0,
-        "definition": "Raspberry ringspot virus RNA 2, complete sequence",
         "_id": "NC_005267",
+        "molecule_structure": "linear",
+        "isolate_id": "34kw72fr",
         "virus_id": "9fe2f60d",
-        "molecule_structure": "linear"
+        "definition": "Raspberry ringspot virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": "grapevine"
     },
     {
-        "host": "grapevine",
-        "isolate_id": "34kw72fr",
-        "_version": 0,
-        "definition": "Raspberry ringspot virus RNA1, complete genome",
         "_id": "NC_005266",
+        "molecule_structure": "linear",
+        "isolate_id": "34kw72fr",
         "virus_id": "9fe2f60d",
-        "molecule_structure": "linear"
+        "definition": "Raspberry ringspot virus RNA1, complete genome",
+        "_version": 0,
+        "host": "grapevine"
     }
 ]

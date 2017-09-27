@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "0nlwa3dr",
+        "molecule_structure": "linear",
         "definition": "Carrot mottle mimic virus, complete genome",
-        "_id": "NC_001726",
         "virus_id": "1f3ef59e",
-        "molecule_structure": "linear"
+        "isolate_id": "0nlwa3dr",
+        "_id": "NC_001726",
+        "host": null
     }
 ]

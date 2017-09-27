@@ -1,6 +1,6 @@
 {
-    "name": "Lily symptomless virus",
     "_id": "66e5c79e",
-    "lower_name": "lily symptomless virus",
-    "abbreviation": "LSV"
+    "abbreviation": "LSV",
+    "name": "Lily symptomless virus",
+    "lower_name": "lily symptomless virus"
 }

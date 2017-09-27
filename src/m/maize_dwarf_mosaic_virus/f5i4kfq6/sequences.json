@@ -1,9 +1,9 @@
 [
     {
-        "host": "maize",
+        "definition": "Maize dwarf mosaic virus isolate Golestan, complete genome.",
+        "virus_id": "53ac9e89",
         "isolate_id": "f5i4kfq6",
         "_id": "JQ280313",
-        "definition": "Maize dwarf mosaic virus isolate Golestan, complete genome.",
-        "virus_id": "53ac9e89"
+        "host": "maize"
     }
 ]

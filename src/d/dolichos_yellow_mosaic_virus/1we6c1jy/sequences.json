@@ -1,20 +1,20 @@
 [
     {
-        "host": "Dolichos purpureus",
-        "isolate_id": "1we6c1jy",
-        "_version": 0,
-        "definition": "Dolichos yellow mosaic virus isolate DA segment DNA B, complete",
         "_id": "NC_024779",
+        "molecule_structure": "circular",
+        "isolate_id": "1we6c1jy",
         "virus_id": "4d35efd8",
-        "molecule_structure": "circular"
+        "definition": "Dolichos yellow mosaic virus isolate DA segment DNA B, complete",
+        "_version": 0,
+        "host": "Dolichos purpureus"
     },
     {
-        "host": "Dolichos purpureus",
-        "isolate_id": "1we6c1jy",
-        "_version": 0,
-        "definition": "Dolichos yellow mosaic virus isolate DA segment DNA A, complete",
         "_id": "NC_005338",
+        "molecule_structure": "circular",
+        "isolate_id": "1we6c1jy",
         "virus_id": "4d35efd8",
-        "molecule_structure": "circular"
+        "definition": "Dolichos yellow mosaic virus isolate DA segment DNA A, complete",
+        "_version": 0,
+        "host": "Dolichos purpureus"
     }
 ]

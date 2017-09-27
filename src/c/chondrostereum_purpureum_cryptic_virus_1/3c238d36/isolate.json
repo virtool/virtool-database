@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "3c238d36",
     "source_name": "fungi",
-    "id": "3c238d36"
+    "default": true
 }

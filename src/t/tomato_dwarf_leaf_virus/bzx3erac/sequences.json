@@ -1,20 +1,20 @@
 [
     {
-        "host": "tomato",
+        "_id": "NC_016581",
+        "molecule_structure": "circular",
         "isolate_id": "bzx3erac",
-        "_version": 0,
-        "definition": "Tomato dwarf leaf virus DNA-A, complete genome",
-        "_id": "NC_016580",
         "virus_id": "bbfbc127",
-        "molecule_structure": "circular"
+        "definition": "Tomato dwarf leaf virus DNA-B, complete genome",
+        "_version": 0,
+        "host": "tomato"
     },
     {
-        "host": "tomato",
+        "_id": "NC_016580",
+        "molecule_structure": "circular",
         "isolate_id": "bzx3erac",
-        "_version": 0,
-        "definition": "Tomato dwarf leaf virus DNA-B, complete genome",
-        "_id": "NC_016581",
         "virus_id": "bbfbc127",
-        "molecule_structure": "circular"
+        "definition": "Tomato dwarf leaf virus DNA-A, complete genome",
+        "_version": 0,
+        "host": "tomato"
     }
 ]

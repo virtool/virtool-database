@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "nauzgv92",
     "source_name": "W57",
-    "id": "nauzgv92"
+    "default": true
 }

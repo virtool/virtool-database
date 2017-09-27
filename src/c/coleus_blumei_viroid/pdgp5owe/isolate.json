@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "genotype",
+    "id": "pdgp5owe",
     "source_name": "5",
-    "id": "pdgp5owe"
+    "default": false
 }

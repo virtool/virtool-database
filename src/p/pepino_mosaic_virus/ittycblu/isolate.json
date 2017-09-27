@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "ittycblu",
     "source_name": "CH-2",
-    "id": "ittycblu"
+    "default": false
 }

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Bromus catharticus",
-        "isolate_id": "rpsve4yk",
+        "molecule_structure": "circular",
         "definition": "Bromus catharticus striate mosaic virus, complete genome",
-        "_id": "NC_014822",
         "virus_id": "fe83f2d9",
-        "molecule_structure": "circular"
+        "isolate_id": "rpsve4yk",
+        "_id": "NC_014822",
+        "host": "Bromus catharticus"
     }
 ]

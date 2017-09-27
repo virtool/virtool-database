@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "muvm8j8e",
     "source_name": "Cricifer Cg",
-    "id": "muvm8j8e"
+    "default": false
 }

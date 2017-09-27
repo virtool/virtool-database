@@ -1,6 +1,6 @@
 {
-    "name": "Apple chlorotic leaf spot virus",
     "_id": "54a508b1",
-    "lower_name": "apple chlorotic leaf spot virus",
-    "abbreviation": "ACLSV"
+    "abbreviation": "ACLSV",
+    "name": "Apple chlorotic leaf spot virus",
+    "lower_name": "apple chlorotic leaf spot virus"
 }

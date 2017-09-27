@@ -1,16 +1,16 @@
 [
     {
-        "host": "",
+        "definition": "Chinese wheat mosaic virus genomic RNA, complete genome, segment: RNA1",
+        "virus_id": "bba3207e",
         "isolate_id": "fqjdbopb",
         "_id": "AB299271.1",
-        "definition": "Chinese wheat mosaic virus genomic RNA, complete genome, segment: RNA1",
-        "virus_id": "bba3207e"
+        "host": ""
     },
     {
-        "host": "",
+        "definition": "Chinese wheat mosaic virus genomic RNA, complete genome, segment: RNA2",
+        "virus_id": "bba3207e",
         "isolate_id": "fqjdbopb",
         "_id": "AB299272.1",
-        "definition": "Chinese wheat mosaic virus genomic RNA, complete genome, segment: RNA2",
-        "virus_id": "bba3207e"
+        "host": ""
     }
 ]

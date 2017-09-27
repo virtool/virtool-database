@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Hop latent viroid isolate Y3, complete genome.",
+        "virus_id": "8b6764a7",
         "isolate_id": "ljz4wptd",
         "_id": "EF613191",
-        "definition": "Hop latent viroid isolate Y3, complete genome.",
-        "virus_id": "8b6764a7"
+        "host": ""
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "2tzami67",
+        "molecule_structure": "linear",
         "definition": "Rose spring dwarf-associated virus, complete genome",
-        "_id": "NC_010806",
         "virus_id": "8d056196",
-        "molecule_structure": "linear"
+        "isolate_id": "2tzami67",
+        "_id": "NC_010806",
+        "host": null
     }
 ]

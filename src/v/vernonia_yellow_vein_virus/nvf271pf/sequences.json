@@ -1,10 +1,10 @@
 [
     {
-        "host": "Vernonia cinerea",
-        "isolate_id": "nvf271pf",
+        "molecule_structure": "circular",
         "definition": "Vernonia yellow vein virus DNA-A, complete genome",
-        "_id": "NC_007730",
         "virus_id": "e289deeb",
-        "molecule_structure": "circular"
+        "isolate_id": "nvf271pf",
+        "_id": "NC_007730",
+        "host": "Vernonia cinerea"
     }
 ]

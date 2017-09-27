@@ -1,10 +1,10 @@
 [
     {
-        "host": "Musa sp. cv. Kisansa",
-        "isolate_id": "hwzy4bps",
+        "molecule_structure": "circular",
         "definition": "Banana streak UI virus, complete genome",
-        "_id": "NC_015503",
         "virus_id": "7c1ea45d",
-        "molecule_structure": "circular"
+        "isolate_id": "hwzy4bps",
+        "_id": "NC_015503",
+        "host": "Musa sp. cv. Kisansa"
     }
 ]

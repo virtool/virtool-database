@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "j59p2ono",
     "source_name": "Arizona",
-    "id": "j59p2ono"
+    "default": true
 }

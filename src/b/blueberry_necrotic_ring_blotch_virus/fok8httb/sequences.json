@@ -1,38 +1,38 @@
 [
     {
-        "host": null,
-        "isolate_id": "fok8httb",
-        "_version": 0,
-        "definition": "Blueberry necrotic ring blotch virus segment RNA2, complete",
         "_id": "NC_016085",
+        "molecule_structure": "linear",
+        "isolate_id": "fok8httb",
         "virus_id": "c585f55f",
-        "molecule_structure": "linear"
+        "definition": "Blueberry necrotic ring blotch virus segment RNA2, complete",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "fok8httb",
-        "_version": 0,
-        "definition": "Blueberry necrotic ring blotch virus segment RNA3, complete",
-        "_id": "NC_016086",
-        "virus_id": "c585f55f",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "fok8httb",
-        "_version": 0,
-        "definition": "Blueberry necrotic ring blotch virus segment RNA1, complete",
         "_id": "NC_016084",
+        "molecule_structure": "linear",
+        "isolate_id": "fok8httb",
         "virus_id": "c585f55f",
-        "molecule_structure": "linear"
+        "definition": "Blueberry necrotic ring blotch virus segment RNA1, complete",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_016086",
+        "molecule_structure": "linear",
         "isolate_id": "fok8httb",
-        "_version": 0,
-        "definition": "Blueberry necrotic ring blotch virus segment RNA4, complete",
-        "_id": "NC_016087",
         "virus_id": "c585f55f",
-        "molecule_structure": "linear"
+        "definition": "Blueberry necrotic ring blotch virus segment RNA3, complete",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_016087",
+        "molecule_structure": "linear",
+        "isolate_id": "fok8httb",
+        "virus_id": "c585f55f",
+        "definition": "Blueberry necrotic ring blotch virus segment RNA4, complete",
+        "_version": 0,
+        "host": null
     }
 ]

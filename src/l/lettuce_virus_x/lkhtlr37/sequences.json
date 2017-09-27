@@ -1,10 +1,10 @@
 [
     {
-        "host": "Lactuca sativa",
-        "isolate_id": "lkhtlr37",
+        "molecule_structure": "linear",
         "definition": "Lettuce virus X, complete genome",
-        "_id": "NC_010832",
         "virus_id": "86a8a659",
-        "molecule_structure": "linear"
+        "isolate_id": "lkhtlr37",
+        "_id": "NC_010832",
+        "host": "Lactuca sativa"
     }
 ]

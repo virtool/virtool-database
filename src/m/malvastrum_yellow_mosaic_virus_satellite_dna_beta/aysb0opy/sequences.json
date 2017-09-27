@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "aysb0opy",
+        "molecule_structure": "circular",
         "definition": "Malvastrum yellow mosaic virus satellite DNA beta, complete genome",
-        "_id": "NC_008560",
         "virus_id": "60f95268",
-        "molecule_structure": "circular"
+        "isolate_id": "aysb0opy",
+        "_id": "NC_008560",
+        "host": null
     }
 ]

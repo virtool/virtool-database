@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "e22eadfb",
     "source_name": "C",
-    "id": "e22eadfb"
+    "default": true
 }

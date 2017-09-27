@@ -1,10 +1,10 @@
 [
     {
-        "host": "spinach",
-        "isolate_id": "5b9t5ult",
+        "molecule_structure": "circular",
         "definition": "Spinach yellow vein Sikar virus clone AS22, complete genome",
-        "_id": "NC_023023",
         "virus_id": "ef78c685",
-        "molecule_structure": "circular"
+        "isolate_id": "5b9t5ult",
+        "_id": "NC_023023",
+        "host": "spinach"
     }
 ]

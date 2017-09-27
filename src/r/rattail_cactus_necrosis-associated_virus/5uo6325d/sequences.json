@@ -1,10 +1,10 @@
 [
     {
-        "host": "Aporocactus flagelliformis",
-        "isolate_id": "5uo6325d",
+        "molecule_structure": "linear",
         "definition": "Rattail cactus necrosis associated virus, complete genome",
-        "_id": "NC_016442",
         "virus_id": "b94dcc6f",
-        "molecule_structure": "linear"
+        "isolate_id": "5uo6325d",
+        "_id": "NC_016442",
+        "host": "Aporocactus flagelliformis"
     }
 ]

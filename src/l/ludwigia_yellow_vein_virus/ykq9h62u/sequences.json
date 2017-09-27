@@ -1,10 +1,10 @@
 [
     {
-        "host": "Ludwigia hyssopifolia",
-        "isolate_id": "ykq9h62u",
+        "molecule_structure": "circular",
         "definition": "Ludwigia yellow vein virus DNA-A, complete genome",
-        "_id": "NC_007210",
         "virus_id": "dbcc236f",
-        "molecule_structure": "circular"
+        "isolate_id": "ykq9h62u",
+        "_id": "NC_007210",
+        "host": "Ludwigia hyssopifolia"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Cynanchum wilfordii",
-        "isolate_id": "gbgi8ys8",
+        "molecule_structure": "linear",
         "definition": "Keunjorong mosaic virus isolate Cheongwon, complete genome",
-        "_id": "NC_016159",
         "virus_id": "8325a077",
-        "molecule_structure": "linear"
+        "isolate_id": "gbgi8ys8",
+        "_id": "NC_016159",
+        "host": "Cynanchum wilfordii"
     }
 ]

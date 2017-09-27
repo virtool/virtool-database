@@ -1,29 +1,29 @@
 [
     {
-        "host": null,
-        "isolate_id": "lv1sec91",
-        "_version": 0,
-        "definition": "Watermelon silver mottle virus segment M, complete sequence",
-        "_id": "NC_003841",
-        "virus_id": "14926dec",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "lv1sec91",
-        "_version": 0,
-        "definition": "Watermelon silver mottle virus segment S, complete sequence",
-        "_id": "NC_003843",
-        "virus_id": "14926dec",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "lv1sec91",
-        "_version": 0,
-        "definition": "Watermelon silver mottle virus segment L, complete sequence",
         "_id": "NC_003832",
+        "molecule_structure": "linear",
+        "isolate_id": "lv1sec91",
         "virus_id": "14926dec",
-        "molecule_structure": "linear"
+        "definition": "Watermelon silver mottle virus segment L, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003841",
+        "molecule_structure": "linear",
+        "isolate_id": "lv1sec91",
+        "virus_id": "14926dec",
+        "definition": "Watermelon silver mottle virus segment M, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003843",
+        "molecule_structure": "linear",
+        "isolate_id": "lv1sec91",
+        "virus_id": "14926dec",
+        "definition": "Watermelon silver mottle virus segment S, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

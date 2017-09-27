@@ -1,9 +1,9 @@
 [
     {
-        "host": "Allium sativum",
+        "definition": "Onion yellow dwarf virus genomic RNA, complete genome, isolate: G5h.",
+        "virus_id": "9f86bbbc",
         "isolate_id": "owjuv01z",
         "_id": "AB219834",
-        "definition": "Onion yellow dwarf virus genomic RNA, complete genome, isolate: G5h.",
-        "virus_id": "9f86bbbc"
+        "host": "Allium sativum"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "rxn1u0u3",
     "source_name": "dahlia isolate",
-    "id": "rxn1u0u3"
+    "default": false
 }

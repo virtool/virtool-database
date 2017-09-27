@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "vn633p4b",
     "source_name": "JCLCV/PDVN-MPR-Guj-1",
-    "id": "vn633p4b"
+    "default": false
 }

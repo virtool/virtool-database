@@ -1,9 +1,9 @@
 [
     {
-        "host": "Vitis vinifera",
+        "definition": "Australian grapevine viroid, complete genome.",
+        "virus_id": "aa15e4b9",
         "isolate_id": "my2n1awp",
         "_id": "NC_003553",
-        "definition": "Australian grapevine viroid, complete genome.",
-        "virus_id": "aa15e4b9"
+        "host": "Vitis vinifera"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "mluue762",
+        "molecule_structure": "linear",
         "definition": "Lily virus X, complete genome",
-        "_id": "NC_007192",
         "virus_id": "eb044095",
-        "molecule_structure": "linear"
+        "isolate_id": "mluue762",
+        "_id": "NC_007192",
+        "host": null
     }
 ]

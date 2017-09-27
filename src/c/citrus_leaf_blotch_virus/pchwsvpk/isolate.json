@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "pchwsvpk",
     "source_name": "Actinidia",
-    "id": "pchwsvpk"
+    "default": false
 }

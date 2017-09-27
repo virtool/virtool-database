@@ -1,10 +1,10 @@
 [
     {
-        "host": "Erythrodiplax fusca",
-        "isolate_id": "h2r4izux",
+        "molecule_structure": "circular",
         "definition": "Dragonfly-associated alphasatellite isolate PR_NZ48_2009, complete",
-        "_id": "NC_019498",
         "virus_id": "188c306a",
-        "molecule_structure": "circular"
+        "isolate_id": "h2r4izux",
+        "_id": "NC_019498",
+        "host": "Erythrodiplax fusca"
     }
 ]

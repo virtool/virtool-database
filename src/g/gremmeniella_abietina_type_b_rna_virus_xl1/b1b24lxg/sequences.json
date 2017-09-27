@@ -1,10 +1,10 @@
 [
     {
-        "host": "Gremmeniella abietina",
-        "isolate_id": "b1b24lxg",
+        "molecule_structure": "linear",
         "definition": "Gremmeniella abietina type B RNA virus XL1, complete genome",
-        "_id": "NC_007920",
         "virus_id": "e34f1084",
-        "molecule_structure": "linear"
+        "isolate_id": "b1b24lxg",
+        "_id": "NC_007920",
+        "host": "Gremmeniella abietina"
     }
 ]

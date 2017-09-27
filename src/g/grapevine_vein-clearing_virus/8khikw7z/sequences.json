@@ -1,10 +1,10 @@
 [
     {
-        "host": "grapevine (Chardonel)",
-        "isolate_id": "8khikw7z",
+        "molecule_structure": "circular",
         "definition": "Grapevine vein-clearing virus, complete genome",
-        "_id": "NC_015784",
         "virus_id": "3823683d",
-        "molecule_structure": "circular"
+        "isolate_id": "8khikw7z",
+        "_id": "NC_015784",
+        "host": "grapevine (Chardonel)"
     }
 ]

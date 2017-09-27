@@ -1,10 +1,10 @@
 [
     {
-        "host": "",
-        "isolate_id": "p2hk0xia",
+        "molecule_structure": "",
         "definition": "Tomato chlorotic dwarf viroid complete sequence",
-        "_id": "NC_000885",
         "virus_id": "600cf7e0",
-        "molecule_structure": ""
+        "isolate_id": "p2hk0xia",
+        "_id": "NC_000885",
+        "host": ""
     }
 ]

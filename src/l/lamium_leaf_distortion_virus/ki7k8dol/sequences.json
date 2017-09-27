@@ -1,10 +1,10 @@
 [
     {
-        "host": "Lamium maculatum",
-        "isolate_id": "ki7k8dol",
+        "molecule_structure": "circular",
         "definition": "Lamium leaf distortion associated virus, complete genome",
-        "_id": "NC_010737",
         "virus_id": "fbd9391c",
-        "molecule_structure": "circular"
+        "isolate_id": "ki7k8dol",
+        "_id": "NC_010737",
+        "host": "Lamium maculatum"
     }
 ]

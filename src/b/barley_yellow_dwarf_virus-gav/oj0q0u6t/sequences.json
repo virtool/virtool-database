@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "oj0q0u6t",
+        "molecule_structure": "linear",
         "definition": "Barley yellow dwarf virus-GAV, complete genome",
-        "_id": "NC_004666",
         "virus_id": "7f4980d5",
-        "molecule_structure": "linear"
+        "isolate_id": "oj0q0u6t",
+        "_id": "NC_004666",
+        "host": null
     }
 ]

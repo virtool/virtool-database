@@ -1,10 +1,10 @@
 [
     {
-        "host": "Spinacia oleracea",
-        "isolate_id": "6tc049py",
+        "molecule_structure": "circular",
         "definition": "Spinach curly top Arizona virus, complete genome",
-        "_id": "NC_015051",
         "virus_id": "e579fd5d",
-        "molecule_structure": "circular"
+        "isolate_id": "6tc049py",
+        "_id": "NC_015051",
+        "host": "Spinacia oleracea"
     }
 ]

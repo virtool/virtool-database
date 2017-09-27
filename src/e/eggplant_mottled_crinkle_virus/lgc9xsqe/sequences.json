@@ -1,10 +1,10 @@
 [
     {
-        "host": "eggplant",
-        "isolate_id": "lgc9xsqe",
+        "molecule_structure": "linear",
         "definition": "Eggplant mottled crinkle virus, complete genome",
-        "_id": "NC_023339",
         "virus_id": "9ed122ae",
-        "molecule_structure": "linear"
+        "isolate_id": "lgc9xsqe",
+        "_id": "NC_023339",
+        "host": "eggplant"
     }
 ]

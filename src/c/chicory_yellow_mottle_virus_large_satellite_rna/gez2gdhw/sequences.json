@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "gez2gdhw",
+        "molecule_structure": "linear",
         "definition": "Chicory yellow mottle virus large satellite RNA, complete genome",
-        "_id": "NC_003778",
         "virus_id": "b84642f0",
-        "molecule_structure": "linear"
+        "isolate_id": "gez2gdhw",
+        "_id": "NC_003778",
+        "host": null
     }
 ]

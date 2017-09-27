@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "tpegvxe9",
+        "molecule_structure": "circular",
         "definition": "Cereal yellow dwarf virus-RPV satellite RNA, complete genome",
-        "_id": "NC_003533",
         "virus_id": "8410c4dd",
-        "molecule_structure": "circular"
+        "isolate_id": "tpegvxe9",
+        "_id": "NC_003533",
+        "host": null
     }
 ]

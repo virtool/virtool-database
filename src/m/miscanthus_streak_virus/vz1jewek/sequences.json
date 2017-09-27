@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "vz1jewek",
+        "molecule_structure": "circular",
         "definition": "Miscanthus streak virus - [91], complete genome",
-        "_id": "NC_003379",
         "virus_id": "3c607c40",
-        "molecule_structure": "circular"
+        "isolate_id": "vz1jewek",
+        "_id": "NC_003379",
+        "host": null
     }
 ]

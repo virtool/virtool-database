@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "wdrwo5r9",
+        "molecule_structure": "linear",
         "definition": "Pelargonium necrotic spot virus, complete genome",
-        "_id": "NC_005285",
         "virus_id": "7b0c8efc",
-        "molecule_structure": "linear"
+        "isolate_id": "wdrwo5r9",
+        "_id": "NC_005285",
+        "host": null
     }
 ]

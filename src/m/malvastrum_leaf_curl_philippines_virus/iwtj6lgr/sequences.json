@@ -1,10 +1,10 @@
 [
     {
-        "host": "Malvastrum coromandelianum L.",
-        "isolate_id": "iwtj6lgr",
+        "molecule_structure": "circular",
         "definition": "Malvastrum leaf curl Philippines virus isolate Mc1 segment DNA-A,",
-        "_id": "NC_021245",
         "virus_id": "740e476c",
-        "molecule_structure": "circular"
+        "isolate_id": "iwtj6lgr",
+        "_id": "NC_021245",
+        "host": "Malvastrum coromandelianum L."
     }
 ]

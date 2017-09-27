@@ -1,74 +1,74 @@
 [
     {
-        "host": null,
-        "isolate_id": "h2w0vrrv",
-        "_version": 0,
-        "definition": "Faba bean necrotic yellows virus DNA-S, complete sequence",
-        "_id": "NC_003563",
-        "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
-    },
-    {
-        "host": null,
-        "isolate_id": "h2w0vrrv",
-        "_version": 0,
-        "definition": "Faba bean necrotic yellows virus DNA-N, complete sequence",
-        "_id": "NC_003566",
-        "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
-    },
-    {
-        "host": null,
-        "isolate_id": "h2w0vrrv",
-        "_version": 0,
-        "definition": "Faba bean necrotic yellows virus DNA-U2, complete genome",
-        "_id": "NC_003564",
-        "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
-    },
-    {
-        "host": null,
-        "isolate_id": "h2w0vrrv",
-        "_version": 0,
-        "definition": "Faba bean necrotic yellows virus DNA-R, complete sequence",
-        "_id": "NC_003560",
-        "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
-    },
-    {
-        "host": "Vicia faba",
-        "isolate_id": "h2w0vrrv",
-        "_version": 0,
-        "definition": "Faba bean necrotic yellows virus segment DNA-U4, complete sequence",
         "_id": "NC_024457",
+        "molecule_structure": "circular",
+        "isolate_id": "h2w0vrrv",
         "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
+        "definition": "Faba bean necrotic yellows virus segment DNA-U4, complete sequence",
+        "_version": 0,
+        "host": "Vicia faba"
     },
     {
-        "host": null,
+        "_id": "NC_003566",
+        "molecule_structure": "circular",
         "isolate_id": "h2w0vrrv",
-        "_version": 0,
-        "definition": "Faba bean necrotic yellows virus DNA-U1, complete genome",
-        "_id": "NC_003561",
         "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
+        "definition": "Faba bean necrotic yellows virus DNA-N, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_003564",
+        "molecule_structure": "circular",
         "isolate_id": "h2w0vrrv",
-        "_version": 0,
-        "definition": "Faba bean necrotic yellows virus DNA-C, complete sequence",
-        "_id": "NC_003559",
         "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
+        "definition": "Faba bean necrotic yellows virus DNA-U2, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
+        "_id": "NC_003563",
+        "molecule_structure": "circular",
         "isolate_id": "h2w0vrrv",
+        "virus_id": "2eb6aeaa",
+        "definition": "Faba bean necrotic yellows virus DNA-S, complete sequence",
         "_version": 0,
-        "definition": "Faba bean necrotic yellows virus DNA-M, complete sequence",
+        "host": null
+    },
+    {
         "_id": "NC_003562",
+        "molecule_structure": "circular",
+        "isolate_id": "h2w0vrrv",
         "virus_id": "2eb6aeaa",
-        "molecule_structure": "circular"
+        "definition": "Faba bean necrotic yellows virus DNA-M, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003561",
+        "molecule_structure": "circular",
+        "isolate_id": "h2w0vrrv",
+        "virus_id": "2eb6aeaa",
+        "definition": "Faba bean necrotic yellows virus DNA-U1, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003560",
+        "molecule_structure": "circular",
+        "isolate_id": "h2w0vrrv",
+        "virus_id": "2eb6aeaa",
+        "definition": "Faba bean necrotic yellows virus DNA-R, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_003559",
+        "molecule_structure": "circular",
+        "isolate_id": "h2w0vrrv",
+        "virus_id": "2eb6aeaa",
+        "definition": "Faba bean necrotic yellows virus DNA-C, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Medicago sativa",
-        "isolate_id": "issqry32",
+        "molecule_structure": "linear",
         "definition": "Lucerne transient streak virus isolate LTSV-Can, complete genome",
-        "_id": "NC_001696",
         "virus_id": "3cc2b941",
-        "molecule_structure": "linear"
+        "isolate_id": "issqry32",
+        "_id": "NC_001696",
+        "host": "Medicago sativa"
     }
 ]

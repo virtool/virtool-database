@@ -1,10 +1,10 @@
 [
     {
-        "host": "mulberry, china",
-        "isolate_id": "jnqxq7r4",
+        "molecule_structure": "circular",
         "definition": "Mulberry small circular viroid-like RNA 1, Mulberry mosaic dwarf viroid",
-        "_id": "NC_011362",
         "virus_id": "89ff8a67",
-        "molecule_structure": "circular"
+        "isolate_id": "jnqxq7r4",
+        "_id": "NC_011362",
+        "host": "mulberry, china"
     }
 ]

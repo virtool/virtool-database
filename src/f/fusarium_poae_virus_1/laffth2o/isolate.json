@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "laffth2o",
     "source_name": "A11",
-    "id": "laffth2o"
+    "default": true
 }

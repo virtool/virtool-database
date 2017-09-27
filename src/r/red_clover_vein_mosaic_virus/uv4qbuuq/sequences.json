@@ -1,10 +1,10 @@
 [
     {
-        "host": "chickpea",
-        "isolate_id": "uv4qbuuq",
+        "molecule_structure": "linear",
         "definition": "Red clover vein mosaic virus, complete genome",
-        "_id": "NC_012210",
         "virus_id": "bfad8f14",
-        "molecule_structure": "linear"
+        "isolate_id": "uv4qbuuq",
+        "_id": "NC_012210",
+        "host": "chickpea"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Cherry twisted leaf associated virus",
+        "virus_id": "abb87c84",
         "isolate_id": "vdiu3qse",
         "_id": "13C236C",
-        "definition": "Cherry twisted leaf associated virus",
-        "virus_id": "abb87c84"
+        "host": ""
     }
 ]

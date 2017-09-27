@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "18x9vpux",
+        "molecule_structure": "linear",
         "definition": "Pea enation mosaic virus-1, complete genome",
-        "_id": "NC_003629",
         "virus_id": "0c629195",
-        "molecule_structure": "linear"
+        "isolate_id": "18x9vpux",
+        "_id": "NC_003629",
+        "host": null
     }
 ]

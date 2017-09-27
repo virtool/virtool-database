@@ -1,10 +1,10 @@
 [
     {
-        "host": "bing cherry",
-        "isolate_id": "i57n448z",
+        "molecule_structure": "linear",
         "definition": "Cherry twisted leaf associated virus isolate CTLV_8431, complete",
-        "_id": "NC_024449",
         "virus_id": "abb87c84",
-        "molecule_structure": "linear"
+        "isolate_id": "i57n448z",
+        "_id": "NC_024449",
+        "host": "bing cherry"
     }
 ]

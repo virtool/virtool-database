@@ -1,10 +1,10 @@
 [
     {
-        "host": "Zinnia elegans, Asteraceae; flower",
-        "isolate_id": "4rxlf0mt",
+        "molecule_structure": "circular",
         "definition": "Alternanthera yellow vein virus satellite DNA beta, complete",
-        "_id": "NC_009562",
         "virus_id": "25b3ea05",
-        "molecule_structure": "circular"
+        "isolate_id": "4rxlf0mt",
+        "_id": "NC_009562",
+        "host": "Zinnia elegans, Asteraceae; flower"
     }
 ]

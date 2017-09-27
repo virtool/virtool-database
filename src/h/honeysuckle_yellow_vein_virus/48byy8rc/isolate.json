@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "48byy8rc",
     "source_name": "UK1",
-    "id": "48byy8rc"
+    "default": true
 }

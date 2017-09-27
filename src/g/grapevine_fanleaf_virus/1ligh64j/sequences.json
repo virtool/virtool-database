@@ -1,20 +1,20 @@
 [
     {
-        "host": null,
-        "isolate_id": "1ligh64j",
-        "_version": 0,
-        "definition": "Grapevine fanleaf virus RNA 1, complete sequence",
         "_id": "NC_003615",
+        "molecule_structure": "linear",
+        "isolate_id": "1ligh64j",
         "virus_id": "cbb7c8d4",
-        "molecule_structure": "linear"
+        "definition": "Grapevine fanleaf virus RNA 1, complete sequence",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "1ligh64j",
-        "_version": 0,
-        "definition": "Grapevine fanleaf virus RNA 2, complete sequence",
         "_id": "NC_003623",
+        "molecule_structure": "linear",
+        "isolate_id": "1ligh64j",
         "virus_id": "cbb7c8d4",
-        "molecule_structure": "linear"
+        "definition": "Grapevine fanleaf virus RNA 2, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

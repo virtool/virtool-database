@@ -1,9 +1,9 @@
 [
     {
-        "host": "Vitis vinifera",
+        "definition": "Australian grapevine viroid isolate F3, complete genome.",
+        "virus_id": "aa15e4b9",
         "isolate_id": "ank2s113",
         "_id": "HM211854",
-        "definition": "Australian grapevine viroid isolate F3, complete genome.",
-        "virus_id": "aa15e4b9"
+        "host": "Vitis vinifera"
     }
 ]

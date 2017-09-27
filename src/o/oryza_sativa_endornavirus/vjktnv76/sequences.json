@@ -1,10 +1,10 @@
 [
     {
-        "host": "Oryza sativa",
-        "isolate_id": "vjktnv76",
+        "molecule_structure": "linear",
         "definition": "Oryza sativa endornavirus, complete genome",
-        "_id": "NC_007647",
         "virus_id": "4b865047",
-        "molecule_structure": "linear"
+        "isolate_id": "vjktnv76",
+        "_id": "NC_007647",
+        "host": "Oryza sativa"
     }
 ]

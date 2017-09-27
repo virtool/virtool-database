@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "isolate",
+    "id": "a8d7e162",
     "source_name": "fungus",
-    "id": "a8d7e162"
+    "default": true
 }

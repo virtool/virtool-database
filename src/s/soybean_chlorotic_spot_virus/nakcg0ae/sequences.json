@@ -1,20 +1,20 @@
 [
     {
-        "host": "Glycine max",
-        "isolate_id": "nakcg0ae",
-        "_version": 0,
-        "definition": "Soybean chlorotic spot virus DNA-A, complete sequence",
         "_id": "NC_018457",
+        "molecule_structure": "circular",
+        "isolate_id": "nakcg0ae",
         "virus_id": "42a9715c",
-        "molecule_structure": "circular"
+        "definition": "Soybean chlorotic spot virus DNA-A, complete sequence",
+        "_version": 0,
+        "host": "Glycine max"
     },
     {
-        "host": "Glycine max",
-        "isolate_id": "nakcg0ae",
-        "_version": 0,
-        "definition": "Soybean chlorotic spot virus DNA-B, complete sequence",
         "_id": "NC_018456",
+        "molecule_structure": "circular",
+        "isolate_id": "nakcg0ae",
         "virus_id": "42a9715c",
-        "molecule_structure": "circular"
+        "definition": "Soybean chlorotic spot virus DNA-B, complete sequence",
+        "_version": 0,
+        "host": "Glycine max"
     }
 ]

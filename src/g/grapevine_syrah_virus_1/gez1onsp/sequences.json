@@ -1,9 +1,9 @@
 [
     {
-        "host": "Vitis vinifera",
+        "definition": "Grapevine Syrah virus 1 isolate SK413, complete genome.",
+        "virus_id": "4114ebff",
         "isolate_id": "gez1onsp",
         "_id": "KP221257",
-        "definition": "Grapevine Syrah virus 1 isolate SK413, complete genome.",
-        "virus_id": "4114ebff"
+        "host": "Vitis vinifera"
     }
 ]

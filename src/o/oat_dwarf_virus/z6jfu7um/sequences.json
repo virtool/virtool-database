@@ -1,10 +1,10 @@
 [
     {
-        "host": "Avena sativa",
-        "isolate_id": "z6jfu7um",
+        "molecule_structure": "circular",
         "definition": "Oat dwarf virus, complete genome",
-        "_id": "NC_010799",
         "virus_id": "c57cd9fb",
-        "molecule_structure": "circular"
+        "isolate_id": "z6jfu7um",
+        "_id": "NC_010799",
+        "host": "Avena sativa"
     }
 ]

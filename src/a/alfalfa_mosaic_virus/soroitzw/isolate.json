@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "soroitzw",
     "source_name": "HZ",
-    "id": "soroitzw"
+    "default": false
 }

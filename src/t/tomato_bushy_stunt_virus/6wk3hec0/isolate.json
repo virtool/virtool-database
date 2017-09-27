@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "6wk3hec0",
     "source_name": "cherry",
-    "id": "6wk3hec0"
+    "default": true
 }

@@ -1,20 +1,20 @@
 [
     {
-        "host": "Clerodendrum cyrtophyllum Turcz.",
+        "_id": "NC_011347",
+        "molecule_structure": "circular",
         "isolate_id": "th194ls7",
-        "_version": 0,
-        "definition": "Clerodendrum golden mosaic China virus DNA A, complete genome",
-        "_id": "NC_011346",
         "virus_id": "889b2ab0",
-        "molecule_structure": "circular"
+        "definition": "Clerodendrum golden mosaic China virus DNA B, complete genome",
+        "_version": 0,
+        "host": "Clerodendrum cyrtophyllum Turcz."
     },
     {
-        "host": "Clerodendrum cyrtophyllum Turcz.",
+        "_id": "NC_011346",
+        "molecule_structure": "circular",
         "isolate_id": "th194ls7",
-        "_version": 0,
-        "definition": "Clerodendrum golden mosaic China virus DNA B, complete genome",
-        "_id": "NC_011347",
         "virus_id": "889b2ab0",
-        "molecule_structure": "circular"
+        "definition": "Clerodendrum golden mosaic China virus DNA A, complete genome",
+        "_version": 0,
+        "host": "Clerodendrum cyrtophyllum Turcz."
     }
 ]

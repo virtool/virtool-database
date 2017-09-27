@@ -1,10 +1,10 @@
 [
     {
-        "host": "Prunus salicina",
-        "isolate_id": "tpuk2lho",
+        "molecule_structure": "linear",
         "definition": "Apricot pseudo-chlorotic leaf spot virus, complete genome",
-        "_id": "NC_006946",
         "virus_id": "7d92b133",
-        "molecule_structure": "linear"
+        "isolate_id": "tpuk2lho",
+        "_id": "NC_006946",
+        "host": "Prunus salicina"
     }
 ]

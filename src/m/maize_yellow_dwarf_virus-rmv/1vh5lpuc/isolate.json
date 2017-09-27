@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "1vh5lpuc",
     "source_name": "RMV MTFE87",
-    "id": "1vh5lpuc"
+    "default": true
 }

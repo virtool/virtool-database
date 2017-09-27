@@ -1,29 +1,29 @@
 [
     {
-        "host": "Rubus sp.",
-        "isolate_id": "r3gyv2fa",
-        "_version": 0,
-        "definition": "Blackberry chlorotic ringspot virus",
         "_id": "NC_011555",
+        "molecule_structure": "linear",
+        "isolate_id": "r3gyv2fa",
         "virus_id": "0b14af76",
-        "molecule_structure": "linear"
+        "definition": "Blackberry chlorotic ringspot virus",
+        "_version": 0,
+        "host": "Rubus sp."
     },
     {
-        "host": "Rubus sp.",
-        "isolate_id": "r3gyv2fa",
-        "_version": 0,
-        "definition": "Blackberry chlorotic ringspot virus RNA2, complete genome",
         "_id": "NC_011554",
+        "molecule_structure": "linear",
+        "isolate_id": "r3gyv2fa",
         "virus_id": "0b14af76",
-        "molecule_structure": "linear"
+        "definition": "Blackberry chlorotic ringspot virus RNA2, complete genome",
+        "_version": 0,
+        "host": "Rubus sp."
     },
     {
-        "host": "Rubus sp.",
-        "isolate_id": "r3gyv2fa",
-        "_version": 0,
-        "definition": "Blackberry chlorotic ringspot virus RNA1, complete genome",
         "_id": "NC_011553",
+        "molecule_structure": "linear",
+        "isolate_id": "r3gyv2fa",
         "virus_id": "0b14af76",
-        "molecule_structure": "linear"
+        "definition": "Blackberry chlorotic ringspot virus RNA1, complete genome",
+        "_version": 0,
+        "host": "Rubus sp."
     }
 ]

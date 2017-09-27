@@ -1,6 +1,6 @@
 {
-    "name": "Apple mosaic virus",
     "_id": "a5af030e",
-    "lower_name": "apple mosaic virus",
-    "abbreviation": "ApMV"
+    "abbreviation": "ApMV",
+    "name": "Apple mosaic virus",
+    "lower_name": "apple mosaic virus"
 }

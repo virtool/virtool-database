@@ -1,10 +1,10 @@
 [
     {
-        "host": "Euphorbia pulcherrima cv. Angelika",
-        "isolate_id": "4pzgflg9",
+        "molecule_structure": "linear",
         "definition": "Poinsettia cryptic virus, complete genome",
-        "_id": "NC_011543",
         "virus_id": "a8af92bb",
-        "molecule_structure": "linear"
+        "isolate_id": "4pzgflg9",
+        "_id": "NC_011543",
+        "host": "Euphorbia pulcherrima cv. Angelika"
     }
 ]

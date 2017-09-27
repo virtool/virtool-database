@@ -1,9 +1,9 @@
 [
     {
-        "host": "watermelon",
+        "definition": "Cucumber green mottle mosaic virus isolate DY13, complete genome",
+        "virus_id": "380d1439",
         "isolate_id": "lgnngmuu",
         "_id": "KM873789.1",
-        "definition": "Cucumber green mottle mosaic virus isolate DY13, complete genome",
-        "virus_id": "380d1439"
+        "host": "watermelon"
     }
 ]

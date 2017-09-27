@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "bj9oa84d",
+        "molecule_structure": "linear",
         "definition": "Bean yellow mosaic virus, complete genome",
-        "_id": "NC_003492",
         "virus_id": "061b19d5",
-        "molecule_structure": "linear"
+        "isolate_id": "bj9oa84d",
+        "_id": "NC_003492",
+        "host": null
     }
 ]

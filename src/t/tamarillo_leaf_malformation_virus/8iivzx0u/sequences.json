@@ -1,9 +1,9 @@
 [
     {
-        "host": "Solanum betaceum",
         "isolate_id": "8iivzx0u",
-        "_id": "NC_026615",
+        "virus_id": "8d755789",
         "definition": "Tamarillo leaf malformation virus isolate A, complete genome.",
-        "virus_id": "8d755789"
+        "_id": "NC_026615",
+        "host": "Solanum betaceum"
     }
 ]

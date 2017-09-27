@@ -1,10 +1,10 @@
 [
     {
-        "host": "Verbena sp. cv. 'Taylor Town'",
-        "isolate_id": "gbco20dv",
+        "molecule_structure": "linear",
         "definition": "Verbena virus Y, complete genome",
-        "_id": "NC_010735",
         "virus_id": "ad96a32c",
-        "molecule_structure": "linear"
+        "isolate_id": "gbco20dv",
+        "_id": "NC_010735",
+        "host": "Verbena sp. cv. 'Taylor Town'"
     }
 ]

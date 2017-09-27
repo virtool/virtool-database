@@ -1,20 +1,20 @@
 [
     {
-        "host": "Diospyros kaki",
+        "_id": "NC_017989",
+        "molecule_structure": "linear",
         "isolate_id": "r3wm59r0",
-        "_version": 0,
-        "definition": "Persimmon cryptic virus segment 2, complete genome",
-        "_id": "NC_017988",
         "virus_id": "e6a159d1",
-        "molecule_structure": "linear"
+        "definition": "Persimmon cryptic virus segment 1, complete genome",
+        "_version": 0,
+        "host": "Diospyros kaki"
     },
     {
-        "host": "Diospyros kaki",
+        "_id": "NC_017988",
+        "molecule_structure": "linear",
         "isolate_id": "r3wm59r0",
-        "_version": 0,
-        "definition": "Persimmon cryptic virus segment 1, complete genome",
-        "_id": "NC_017989",
         "virus_id": "e6a159d1",
-        "molecule_structure": "linear"
+        "definition": "Persimmon cryptic virus segment 2, complete genome",
+        "_version": 0,
+        "host": "Diospyros kaki"
     }
 ]

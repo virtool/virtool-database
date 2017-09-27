@@ -1,10 +1,10 @@
 [
     {
-        "host": "Nicotiana tabacum",
-        "isolate_id": "05c0cryh",
+        "molecule_structure": "linear",
         "definition": "Colombian datura virus, complete genome",
-        "_id": "NC_020072",
         "virus_id": "d543a619",
-        "molecule_structure": "linear"
+        "isolate_id": "05c0cryh",
+        "_id": "NC_020072",
+        "host": "Nicotiana tabacum"
     }
 ]

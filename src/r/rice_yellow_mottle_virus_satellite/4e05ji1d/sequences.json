@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "4e05ji1d",
+        "molecule_structure": "circular",
         "definition": "Rice yellow mottle virus satellite, complete genome",
-        "_id": "NC_003380",
         "virus_id": "ce897212",
-        "molecule_structure": "circular"
+        "isolate_id": "4e05ji1d",
+        "_id": "NC_003380",
+        "host": null
     }
 ]

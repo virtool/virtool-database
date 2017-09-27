@@ -1,10 +1,10 @@
 [
     {
-        "host": "Tamus communis",
-        "isolate_id": "v7xc39uk",
+        "molecule_structure": "linear",
         "definition": "Tamus red mosaic virus isolate IT, complete genome",
-        "_id": "NC_016003",
         "virus_id": "eb4f3d75",
-        "molecule_structure": "linear"
+        "isolate_id": "v7xc39uk",
+        "_id": "NC_016003",
+        "host": "Tamus communis"
     }
 ]

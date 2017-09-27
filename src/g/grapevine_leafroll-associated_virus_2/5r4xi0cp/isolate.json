@@ -1,6 +1,6 @@
 {
-    "default": false,
     "source_type": "strain",
+    "id": "5r4xi0cp",
     "source_name": "BD",
-    "id": "5r4xi0cp"
+    "default": false
 }

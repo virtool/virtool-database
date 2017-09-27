@@ -1,10 +1,10 @@
 [
     {
-        "host": "Hylocereus undatus",
-        "isolate_id": "e7e8a0ae",
+        "molecule_structure": "linear",
         "definition": "Cactus virus X, complete genome",
-        "_id": "NC_002815",
         "virus_id": "d44ecd69",
-        "molecule_structure": "linear"
+        "isolate_id": "e7e8a0ae",
+        "_id": "NC_002815",
+        "host": "Hylocereus undatus"
     }
 ]

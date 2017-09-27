@@ -1,10 +1,10 @@
 [
     {
-        "host": "blueberry",
-        "isolate_id": "nk1kog7j",
+        "molecule_structure": "linear",
         "definition": "Blueberry mosaic associated virus segment RNA2, complete sequence",
-        "_id": "NC_024476",
         "virus_id": "68f64765",
-        "molecule_structure": "linear"
+        "isolate_id": "nk1kog7j",
+        "_id": "NC_024476",
+        "host": "blueberry"
     }
 ]

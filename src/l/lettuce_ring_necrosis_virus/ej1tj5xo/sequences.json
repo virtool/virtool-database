@@ -1,38 +1,38 @@
 [
     {
-        "host": null,
-        "isolate_id": "ej1tj5xo",
-        "_version": 0,
-        "definition": "Lettuce ring necrosis virus RNA 1, complete genome",
         "_id": "NC_006051",
+        "molecule_structure": "linear",
+        "isolate_id": "ej1tj5xo",
         "virus_id": "b146523c",
-        "molecule_structure": "linear"
+        "definition": "Lettuce ring necrosis virus RNA 1, complete genome",
+        "_version": 0,
+        "host": null
     },
     {
-        "host": null,
-        "isolate_id": "ej1tj5xo",
-        "_version": 0,
-        "definition": "Lettuce ring necrosis virus RNA 4, complete genome",
-        "_id": "NC_006054",
-        "virus_id": "b146523c",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "ej1tj5xo",
-        "_version": 0,
-        "definition": "Lettuce ring necrosis virus RNA 3, complete genome",
-        "_id": "NC_006053",
-        "virus_id": "b146523c",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "ej1tj5xo",
-        "_version": 0,
-        "definition": "Lettuce ring necrosis virus RNA 2, complete genome",
         "_id": "NC_006052",
+        "molecule_structure": "linear",
+        "isolate_id": "ej1tj5xo",
         "virus_id": "b146523c",
-        "molecule_structure": "linear"
+        "definition": "Lettuce ring necrosis virus RNA 2, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_006054",
+        "molecule_structure": "linear",
+        "isolate_id": "ej1tj5xo",
+        "virus_id": "b146523c",
+        "definition": "Lettuce ring necrosis virus RNA 4, complete genome",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_006053",
+        "molecule_structure": "linear",
+        "isolate_id": "ej1tj5xo",
+        "virus_id": "b146523c",
+        "definition": "Lettuce ring necrosis virus RNA 3, complete genome",
+        "_version": 0,
+        "host": null
     }
 ]

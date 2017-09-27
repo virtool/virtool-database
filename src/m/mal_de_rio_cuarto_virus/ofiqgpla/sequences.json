@@ -1,92 +1,92 @@
 [
     {
-        "host": "Zea mays",
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S6, complete sequence",
-        "_id": "NC_008731",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "Zea mays",
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S5, complete genome",
-        "_id": "NC_008735",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment 9, complete sequence",
-        "_id": "NC_008737",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S8, complete sequence",
-        "_id": "NC_008728",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "Zea mays",
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S1, complete sequence",
-        "_id": "NC_008733",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "Zea mays",
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S2, complete sequence",
-        "_id": "NC_008730",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "Zea mays",
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S3, complete sequence",
-        "_id": "NC_008732",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S4, complete sequence",
-        "_id": "NC_008729",
-        "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": "Zea mays",
-        "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S10, complete genome",
         "_id": "NC_008734",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
         "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
+        "definition": "Mal de Rio Cuarto virus segment S10, complete genome",
+        "_version": 0,
+        "host": "Zea mays"
     },
     {
-        "host": "Sorghum bicolor",
+        "_id": "NC_008737",
+        "molecule_structure": "linear",
         "isolate_id": "ofiqgpla",
-        "_version": 0,
-        "definition": "Mal de Rio Cuarto virus segment S7, complete sequence",
-        "_id": "NC_008736",
         "virus_id": "ebba9dfb",
-        "molecule_structure": "linear"
+        "definition": "Mal de Rio Cuarto virus segment 9, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_008736",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S7, complete sequence",
+        "_version": 0,
+        "host": "Sorghum bicolor"
+    },
+    {
+        "_id": "NC_008735",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S5, complete genome",
+        "_version": 0,
+        "host": "Zea mays"
+    },
+    {
+        "_id": "NC_008732",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S3, complete sequence",
+        "_version": 0,
+        "host": "Zea mays"
+    },
+    {
+        "_id": "NC_008733",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S1, complete sequence",
+        "_version": 0,
+        "host": "Zea mays"
+    },
+    {
+        "_id": "NC_008731",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S6, complete sequence",
+        "_version": 0,
+        "host": "Zea mays"
+    },
+    {
+        "_id": "NC_008730",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S2, complete sequence",
+        "_version": 0,
+        "host": "Zea mays"
+    },
+    {
+        "_id": "NC_008729",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S4, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_008728",
+        "molecule_structure": "linear",
+        "isolate_id": "ofiqgpla",
+        "virus_id": "ebba9dfb",
+        "definition": "Mal de Rio Cuarto virus segment S8, complete sequence",
+        "_version": 0,
+        "host": null
     }
 ]

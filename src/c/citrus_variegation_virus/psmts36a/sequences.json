@@ -1,29 +1,29 @@
 [
     {
-        "host": null,
-        "isolate_id": "psmts36a",
-        "_version": 0,
-        "definition": "Citrus variegation virus RNA1, complete sequence",
-        "_id": "NC_009537",
-        "virus_id": "bb52249f",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "psmts36a",
-        "_version": 0,
-        "definition": "Citrus variegation virus RNA 3, complete genome",
-        "_id": "NC_009536",
-        "virus_id": "bb52249f",
-        "molecule_structure": "linear"
-    },
-    {
-        "host": null,
-        "isolate_id": "psmts36a",
-        "_version": 0,
-        "definition": "Citrus variegation virus RNA2, complete sequence",
         "_id": "NC_009538",
+        "molecule_structure": "linear",
+        "isolate_id": "psmts36a",
         "virus_id": "bb52249f",
-        "molecule_structure": "linear"
+        "definition": "Citrus variegation virus RNA2, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_009537",
+        "molecule_structure": "linear",
+        "isolate_id": "psmts36a",
+        "virus_id": "bb52249f",
+        "definition": "Citrus variegation virus RNA1, complete sequence",
+        "_version": 0,
+        "host": null
+    },
+    {
+        "_id": "NC_009536",
+        "molecule_structure": "linear",
+        "isolate_id": "psmts36a",
+        "virus_id": "bb52249f",
+        "definition": "Citrus variegation virus RNA 3, complete genome",
+        "_version": 0,
+        "host": null
     }
 ]

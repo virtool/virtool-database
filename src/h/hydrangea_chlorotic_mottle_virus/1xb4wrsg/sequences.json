@@ -1,10 +1,10 @@
 [
     {
-        "host": "Hydrangea macrophylla",
-        "isolate_id": "1xb4wrsg",
+        "molecule_structure": "linear",
         "definition": "Hydrangea chlorotic mottle virus, complete genome",
-        "_id": "NC_012869",
         "virus_id": "ab0b3700",
-        "molecule_structure": "linear"
+        "isolate_id": "1xb4wrsg",
+        "_id": "NC_012869",
+        "host": "Hydrangea macrophylla"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Amaranthus sp.",
-        "isolate_id": "wtk60nbx",
+        "molecule_structure": "circular",
         "definition": "Chilli leaf curl alphasatellite clone VIRO 395, complete sequence",
-        "_id": "NC_024374",
         "virus_id": "447fd438",
-        "molecule_structure": "circular"
+        "isolate_id": "wtk60nbx",
+        "_id": "NC_024374",
+        "host": "Amaranthus sp."
     }
 ]

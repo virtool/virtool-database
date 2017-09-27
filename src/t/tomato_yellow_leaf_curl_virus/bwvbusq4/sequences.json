@@ -1,9 +1,9 @@
 [
     {
-        "host": "",
+        "definition": "Tomato yellow leaf curl Sardinia virus, complete genome.",
+        "virus_id": "2066fedf",
         "isolate_id": "bwvbusq4",
         "_id": "NC_003828",
-        "definition": "Tomato yellow leaf curl Sardinia virus, complete genome.",
-        "virus_id": "2066fedf"
+        "host": ""
     }
 ]

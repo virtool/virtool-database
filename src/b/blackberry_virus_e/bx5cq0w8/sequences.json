@@ -1,10 +1,10 @@
 [
     {
-        "host": "cultivated blackberry",
-        "isolate_id": "bx5cq0w8",
+        "molecule_structure": "linear",
         "definition": "Blackberry virus E, complete genome",
-        "_id": "NC_015706",
         "virus_id": "304fdb16",
-        "molecule_structure": "linear"
+        "isolate_id": "bx5cq0w8",
+        "_id": "NC_015706",
+        "host": "cultivated blackberry"
     }
 ]

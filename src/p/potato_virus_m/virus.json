@@ -1,6 +1,6 @@
 {
-    "name": "Potato virus M",
     "_id": "89def35d",
-    "lower_name": "potato virus m",
-    "abbreviation": "PVM"
+    "abbreviation": "PVM",
+    "name": "Potato virus M",
+    "lower_name": "potato virus m"
 }

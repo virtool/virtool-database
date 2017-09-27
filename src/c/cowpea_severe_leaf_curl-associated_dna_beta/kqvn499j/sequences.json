@@ -1,10 +1,10 @@
 [
     {
-        "host": "Cowpea",
-        "isolate_id": "kqvn499j",
+        "molecule_structure": "circular",
         "definition": "Cowpea severe leaf curl-associated DNA beta, complete genome",
-        "_id": "NC_006952",
         "virus_id": "f8c56915",
-        "molecule_structure": "circular"
+        "isolate_id": "kqvn499j",
+        "_id": "NC_006952",
+        "host": "Cowpea"
     }
 ]

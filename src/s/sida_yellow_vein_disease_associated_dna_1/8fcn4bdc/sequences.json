@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "8fcn4bdc",
+        "molecule_structure": "circular",
         "definition": "Sida yellow vein disease associated DNA 1, complete genome",
-        "_id": "NC_014065",
         "virus_id": "b14578eb",
-        "molecule_structure": "circular"
+        "isolate_id": "8fcn4bdc",
+        "_id": "NC_014065",
+        "host": null
     }
 ]

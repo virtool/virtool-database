@@ -1,10 +1,10 @@
 [
     {
-        "host": "Phaseolus vulgaris",
-        "isolate_id": "5mc22n3u",
+        "molecule_structure": "circular",
         "definition": "Bean yellow mosaic Mexico virus DNA-A, complete genome",
-        "_id": "NC_015487",
         "virus_id": "b23e0404",
-        "molecule_structure": "circular"
+        "isolate_id": "5mc22n3u",
+        "_id": "NC_015487",
+        "host": "Phaseolus vulgaris"
     }
 ]

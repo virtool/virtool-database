@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "nsnbqmlg",
+        "molecule_structure": "linear",
         "definition": "Raspberry leaf mottle virus, complete genome",
-        "_id": "NC_008585",
         "virus_id": "4690132b",
-        "molecule_structure": "linear"
+        "isolate_id": "nsnbqmlg",
+        "_id": "NC_008585",
+        "host": null
     }
 ]

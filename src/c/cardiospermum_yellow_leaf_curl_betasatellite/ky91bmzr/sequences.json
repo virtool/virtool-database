@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "ky91bmzr",
+        "molecule_structure": "circular",
         "definition": "Cardiospermum yellow leaf curl virus satellite DNA beta, complete",
-        "_id": "NC_010297",
         "virus_id": "16714fcc",
-        "molecule_structure": "circular"
+        "isolate_id": "ky91bmzr",
+        "_id": "NC_010297",
+        "host": null
     }
 ]

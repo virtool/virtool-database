@@ -1,9 +1,9 @@
 [
     {
-        "host": "Prunus serrulata cv. Gioko",
+        "definition": "Cherry necrotic rusty mottle virus isolate FC5, complete genome.",
+        "virus_id": "b2dd7007",
         "isolate_id": "fx5iab3j",
         "_id": "EU188439",
-        "definition": "Cherry necrotic rusty mottle virus isolate FC5, complete genome.",
-        "virus_id": "b2dd7007"
+        "host": "Prunus serrulata cv. Gioko"
     }
 ]

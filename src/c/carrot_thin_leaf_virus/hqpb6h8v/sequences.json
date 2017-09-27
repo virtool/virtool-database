@@ -1,10 +1,10 @@
 [
     {
-        "host": "Coriandrum sativum",
-        "isolate_id": "hqpb6h8v",
+        "molecule_structure": "linear",
         "definition": "Carrot thin leaf virus isolate CTLV-Cs, complete genome",
-        "_id": "NC_025254",
         "virus_id": "f30eff28",
-        "molecule_structure": "linear"
+        "isolate_id": "hqpb6h8v",
+        "_id": "NC_025254",
+        "host": "Coriandrum sativum"
     }
 ]

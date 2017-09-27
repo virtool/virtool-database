@@ -1,9 +1,9 @@
 [
     {
-        "host": "Chrysanthemum",
+        "definition": "Chrysanthemum stunt viroid isolate Diskclub-39, complete genome.",
+        "virus_id": "3a63968d",
         "isolate_id": "84ug873t",
         "_id": "KT005824",
-        "definition": "Chrysanthemum stunt viroid isolate Diskclub-39, complete genome.",
-        "virus_id": "3a63968d"
+        "host": "Chrysanthemum"
     }
 ]

@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "gqvmdbd7",
     "source_name": "SiMBoV1",
-    "id": "gqvmdbd7"
+    "default": true
 }

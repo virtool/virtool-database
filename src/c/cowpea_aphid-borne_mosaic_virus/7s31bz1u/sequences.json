@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "7s31bz1u",
+        "molecule_structure": "linear",
         "definition": "Cowpea aphid-borne mosaic virus, complete genome",
-        "_id": "NC_004013",
         "virus_id": "afb0c264",
-        "molecule_structure": "linear"
+        "isolate_id": "7s31bz1u",
+        "_id": "NC_004013",
+        "host": null
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "host": "Malvastrum coromandelianum",
-        "isolate_id": "qpd3mvx6",
+        "molecule_structure": "circular",
         "definition": "Malvastrum leaf curl virus - [G87], complete genome",
-        "_id": "NC_007724",
         "virus_id": "f939f0ec",
-        "molecule_structure": "circular"
+        "isolate_id": "qpd3mvx6",
+        "_id": "NC_007724",
+        "host": "Malvastrum coromandelianum"
     }
 ]

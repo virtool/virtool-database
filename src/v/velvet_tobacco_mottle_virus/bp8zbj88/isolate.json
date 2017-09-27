@@ -1,6 +1,6 @@
 {
-    "default": true,
     "source_type": "strain",
+    "id": "bp8zbj88",
     "source_name": "K1",
-    "id": "bp8zbj88"
+    "default": true
 }

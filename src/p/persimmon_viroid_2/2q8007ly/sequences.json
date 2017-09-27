@@ -1,10 +1,10 @@
 [
     {
-        "host": "American persimmon",
-        "isolate_id": "2q8007ly",
+        "molecule_structure": "circular",
         "definition": "Persimmon viroid 2 complete sequence",
-        "_id": "AB817729",
         "virus_id": "0d252cb7",
-        "molecule_structure": "circular"
+        "isolate_id": "2q8007ly",
+        "_id": "AB817729",
+        "host": "American persimmon"
     }
 ]

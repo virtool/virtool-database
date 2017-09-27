@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "tvd6ipyi",
+        "molecule_structure": "circular",
         "definition": "Tomato yellow dwarf disease associated satellite DNA beta-[Kochi]",
-        "_id": "NC_009893",
         "virus_id": "2a65210e",
-        "molecule_structure": "circular"
+        "isolate_id": "tvd6ipyi",
+        "_id": "NC_009893",
+        "host": null
     }
 ]

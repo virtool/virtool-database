@@ -1,10 +1,10 @@
 [
     {
-        "host": null,
-        "isolate_id": "poobf6w4",
+        "molecule_structure": "linear",
         "definition": "Brome streak mosaic virus, complete genome",
-        "_id": "NC_003501",
         "virus_id": "74f42b57",
-        "molecule_structure": "linear"
+        "isolate_id": "poobf6w4",
+        "_id": "NC_003501",
+        "host": null
     }
 ]
