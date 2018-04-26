@@ -75,3 +75,9 @@ with open(args.src, "r") as export_handle:
             with open(os.path.join(isolate_path, "sequences.fa"), "w") as f:
                 output = "\n".join(">{}\n{}".format(sid, s) for sid, s in fasta_dict.items())
                 f.write(output)
+
+    with open(os.path.join(args.output, "meta.json"), "w") as f:
+        json.dump({
+            "data_type": data["data_type"],
+            "organism": data["organism"]
+        }, f)

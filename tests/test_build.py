@@ -7,7 +7,7 @@ import subprocess
 
 from hashlib import sha256
 
-TEST_FILE_PATH = "tests/files/viruses.json"
+TEST_FILE_PATH = "tests/files/build.json"
 
 
 @pytest.mark.parametrize("version", [None, "v1.0.1", "v0.8.3"])
@@ -49,7 +49,7 @@ def test_created_at(tmpdir):
 def test_divide_build(tmpdir):
     shutil.copy(TEST_FILE_PATH, str(tmpdir))
 
-    json_path = os.path.join(str(tmpdir), "viruses.json")
+    json_path = os.path.join(str(tmpdir), "build.json")
 
     src_path = os.path.join(str(tmpdir), "src")
 
@@ -59,4 +59,4 @@ def test_divide_build(tmpdir):
 
     subprocess.call(["python", "scripts/build.py", "-f", out_path, src_path])
 
-    assert os.path.getsize(json_path) == os.path.getsize(out_path)
+    assert abs(os.path.getsize(json_path) - os.path.getsize(out_path)) < 10
