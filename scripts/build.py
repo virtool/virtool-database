@@ -12,7 +12,7 @@ DELETED_KEYS = [
     "verified"
 ]
 
-parser = argparse.ArgumentParser(description="Building a viruses.json file from a virtool-databse src directory")
+parser = argparse.ArgumentParser(description="Building a kinds.json file from a virtool-databse src directory")
 
 parser.add_argument(
     "src",
@@ -25,15 +25,15 @@ parser.add_argument(
     type=str,
     dest="version",
     default=None,
-    help="the version string to include in the viruses.json file"
+    help="the version string to include in the kinds.json file"
 )
 
 parser.add_argument(
     "-f",
     type=str,
     dest="output",
-    default="viruses.json",
-    help="the output path for the viruses.json file"
+    default="kinds.json",
+    help="the output path for the kinds.json file"
 )
 
 args = parser.parse_args()
@@ -42,20 +42,36 @@ args = parser.parse_args()
 if __name__ == "__main__":
     src_path = args.src
 
-    viruses = list()
+    try:
+        with open(os.path.join(src_path, "meta.json"), "r") as f:
+            meta = json.load(f)
+    except FileNotFoundError:
+        meta = dict()
 
-    for alpha in os.listdir(src_path):
-        virus_paths = [os.path.join(src_path, alpha, virus) for virus in os.listdir(os.path.join(src_path, alpha))]
+    data = {
+        "data_type": meta.get("data_type", "genome"),
+        "organism": meta.get("organism", ""),
+    }
 
-        for virus_path in virus_paths:
-            with open(os.path.join(virus_path, "virus.json"), "r") as f:
-                virus = json.load(f)
+    kinds = list()
 
-            virus["isolates"] = list()
+    alpha_paths = os.listdir(src_path)
 
-            isolate_ids = [i for i in os.listdir(virus_path) if i != "virus.json" and i[0] != "."]
+    alpha_paths.remove("meta.json")
 
-            for isolate_path in [os.path.join(virus_path, i) for i in isolate_ids]:
+    for alpha in alpha_paths:
+        kind_paths = [os.path.join(src_path, alpha, kind) for kind in os.listdir(os.path.join(src_path, alpha))]
+
+        for kind_path in kind_paths:
+
+            with open(os.path.join(kind_path, "kind.json"), "r") as f:
+                kind = json.load(f)
+
+            kind["isolates"] = list()
+
+            isolate_ids = [i for i in os.listdir(kind_path) if i != "kind.json" and i[0] != "."]
+
+            for isolate_path in [os.path.join(kind_path, i) for i in isolate_ids]:
                 with open(os.path.join(isolate_path, "isolate.json"), "r") as f:
                     isolate = json.load(f)
 
@@ -85,13 +101,15 @@ if __name__ == "__main__":
                             if sequence["_id"] == sid:
                                 sequence["sequence"] = "".join(seq)
 
-                virus["isolates"].append(isolate)
+                kind["isolates"].append(isolate)
 
-            viruses.append(virus)
+            kinds.append(kind)
 
     with open(args.output, "w") as f:
-        json.dump({
-            "data": viruses,
+        data.update({
+            "kinds": kinds,
             "version": args.version,
-            "created_at": arrow.utcnow().isoformat()
-        }, f, indent=4)
+            "created_at": arrow.utcnow().isoformat()            
+        })
+
+        json.dump(data, f, indent=4)

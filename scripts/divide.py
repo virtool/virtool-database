@@ -12,12 +12,12 @@ DELETED_KEYS = [
 ]
 
 
-parser = argparse.ArgumentParser(description="Building a viruses.json file from a virtool-databse src directory")
+parser = argparse.ArgumentParser(description="Building a kinds.json file from a virtool-databse src directory")
 
 parser.add_argument(
     "src",
     type=str,
-    help="the path to input viruses.json file",
+    help="the path to input kinds.json file",
 )
 
 parser.add_argument(
@@ -36,27 +36,27 @@ os.mkdir(args.output)
 with open(args.src, "r") as export_handle:
     data = json.load(export_handle)
 
-    for virus in data["data"]:
-        first_letter = virus["lower_name"][0]
+    for kind in data["kinds"]:
+        first_letter = kind["lower_name"][0]
 
         try:
             os.mkdir(os.path.join(args.output, first_letter))
         except FileExistsError:
             pass
         
-        virus_path = os.path.join(args.output, first_letter, virus["lower_name"].replace(" ", "_").replace("/", "_"))
-        os.mkdir(virus_path)
+        kind_path = os.path.join(args.output, first_letter, kind["lower_name"].replace(" ", "_").replace("/", "_"))
+        os.mkdir(kind_path)
 
-        isolates = virus.pop("isolates")
+        isolates = kind.pop("isolates")
 
         for key in DELETED_KEYS:
-            virus.pop(key, None)
+            kind.pop(key, None)
 
-        with open(os.path.join(virus_path, "virus.json"), "w") as f:
-            json.dump(virus, f, indent=4)
+        with open(os.path.join(kind_path, "kind.json"), "w") as f:
+            json.dump(kind, f, indent=4)
 
         for isolate in isolates:
-            isolate_path = os.path.join(virus_path, isolate["id"])
+            isolate_path = os.path.join(kind_path, isolate["id"])
             os.mkdir(isolate_path)
 
             sequences = isolate.pop("sequences")
