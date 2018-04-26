@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
     with open(args.output, "w") as f:
         data.update({
-            "kinds": kinds,
+            "data": kinds,
             "version": args.version,
             "created_at": arrow.utcnow().isoformat()            
         })

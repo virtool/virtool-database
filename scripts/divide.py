@@ -36,7 +36,7 @@ os.mkdir(args.output)
 with open(args.src, "r") as export_handle:
     data = json.load(export_handle)
 
-    for kind in data["kinds"]:
+    for kind in data["data"]:
         first_letter = kind["lower_name"][0]
 
         try:
