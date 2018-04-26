@@ -32,7 +32,7 @@ parser.add_argument(
     "-f",
     type=str,
     dest="output",
-    default="kinds.json",
+    default="reference.json",
     help="the output path for the kinds.json file"
 )
 
